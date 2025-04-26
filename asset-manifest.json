@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vibepope/static/css/main.9b3b9d85.css",
+    "main.js": "/vibepope/static/js/main.887e11ab.js",
+    "index.html": "/vibepope/index.html",
+    "main.9b3b9d85.css.map": "/vibepope/static/css/main.9b3b9d85.css.map",
+    "main.887e11ab.js.map": "/vibepope/static/js/main.887e11ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3b9d85.css",
+    "static/js/main.887e11ab.js"
+  ]
+}
