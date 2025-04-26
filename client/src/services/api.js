@@ -1,17 +1,9 @@
 import axios from 'axios';
 
-// Define API URLs based on environment
-const getApiUrl = () => {
-  // Production environment (GitHub Pages)
-  if (process.env.NODE_ENV === 'production') {
-    // You need to replace this URL with your actual Render deployment URL
-    return 'https://vibepope.onrender.com';
-  }
-  // Development environment
-  return 'http://localhost:3001/api';
-};
-
-const API_URL = getApiUrl();
+// Hard-code the API URL to ensure it works on GitHub Pages
+const API_URL = process.env.NODE_ENV === 'production' 
+  ? 'https://vibepope-api.onrender.com'  // Replace this with your actual Render URL
+  : 'http://localhost:3001/api';
 
 console.log('Using API URL:', API_URL);
 
