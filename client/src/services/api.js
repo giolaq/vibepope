@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Hard-code the API URL to ensure it works on GitHub Pages
 const API_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://vibepope.onrender.com'  // Replace this with your actual Render URL
+  ? 'https://vibepope.onrender.com/api'  // Replace this with your actual Render URL
   : 'http://localhost:3001/api';
 
 console.log('Using API URL:', API_URL);
