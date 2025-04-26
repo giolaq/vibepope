@@ -1,0 +1,154 @@
+2025-04-26 22:43:22,469 - INFO - Starting cardinal data extraction
+2025-04-26 22:43:22,885 - INFO - Saved HTML content to data/raw/vatican_cardinals.html
+2025-04-26 22:43:22,923 - INFO - Found 135 elements with class 'listTitle'
+2025-04-26 22:43:22,923 - INFO - Extracted: ADVINCULA Card. Jose Fuerte | Birth: 30-03-1952 | Pope: Francis | Country: Philippines
+2025-04-26 22:43:22,923 - INFO - Extracted: AGUIAR ALVES Card. Américo Manuel | Birth: 12-12-1973 | Pope: Francis | Country: Portugal
+2025-04-26 22:43:22,923 - INFO - Extracted: AGUIAR RETES Card. Carlos | Birth: 09-01-1950 | Pope: Francis | Country: Mexico
+2025-04-26 22:43:22,923 - INFO - Extracted: AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap. | Birth: 24-01-1960 | Pope: Francis | Country: Democratic Republic of the Congo
+2025-04-26 22:43:22,923 - INFO - Extracted: ARBORELIUS Card. Anders, O.C.D., | Birth: 24-09-1949 | Pope: Francis | Country: Sweden
+2025-04-26 22:43:22,923 - INFO - Extracted: AVELINE Card. Jean-Marc | Birth: 26-12-1958 | Pope: Francis | Country: France
+2025-04-26 22:43:22,923 - INFO - Extracted: AVIZ Card. João Braz de | Birth: 24-04-1947 | Pope: Benedict XVI | Country: Brazil
+2025-04-26 22:43:22,923 - INFO - Extracted: BAGGIO Card. Fabio, C.S. | Birth: 15-01-1965 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,923 - INFO - Extracted: BARBARIN Card. Philippe | Birth: 17-10-1950 | Pope: St. John Paul II | Country: France
+2025-04-26 22:43:22,923 - INFO - Extracted: BASELIOS Card. Cleemis | Birth: 25-05-1960 | Pope: Benedict XVI | Country: India
+2025-04-26 22:43:22,923 - INFO - Extracted: BATTAGLIA Card. Domenico | Birth: 20-01-1963 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,923 - INFO - Extracted: BESSI DOGBO Card. Ignace | Birth: 17-08-1961 | Pope: Francis | Country: Ivory Coast
+2025-04-26 22:43:22,923 - INFO - Extracted: BETORI Card. Giuseppe | Birth: 25-02-1947 | Pope: Benedict XVI | Country: Italy
+2025-04-26 22:43:22,923 - INFO - Extracted: BO Card. Charles Maung, S.D.B. | Birth: 29-10-1948 | Pope: Francis | Country: Myanmar
+2025-04-26 22:43:22,923 - INFO - Extracted: BOKALIC IGLIC Card. Vicente, C.M. | Birth: 11-06-1952 | Pope: Francis | Country: Argentina
+2025-04-26 22:43:22,923 - INFO - Extracted: BOZANIĆ Card. Josip | Birth: 20-03-1949 | Pope: St. John Paul II | Country: Croatia
+2025-04-26 22:43:22,924 - INFO - Extracted: BRENES SOLÓRZANO Card. Leopoldo José | Birth: 07-03-1949 | Pope: Francis | Country: Nicaragua
+2025-04-26 22:43:22,924 - INFO - Extracted: BRISLIN Card. Stephen | Birth: 24-09-1956 | Pope: Francis | Country: South Africa
+2025-04-26 22:43:22,924 - INFO - Extracted: BURKE Card. Raymond Leo | Birth: 30-06-1948 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:43:22,924 - INFO - Extracted: BUSTILLO Card. François-Xavier, O.F.M. Conv. | Birth: 23-11-1968 | Pope: Francis | Country: France
+2025-04-26 22:43:22,924 - INFO - Extracted: BYCHOK Card. Mykola, C.SS.R. | Birth: 13-02-1980 | Pope: Francis | Country: Australia
+2025-04-26 22:43:22,924 - INFO - Extracted: CABRERA HERRERA Card. Luis Gerardo, O.F.M. | Birth: 11-10-1955 | Pope: Francis | Country: Ecuador
+2025-04-26 22:43:22,924 - INFO - Extracted: CAÑIZARES LLOVERA Card. Antonio | Birth: 15-10-1945 | Pope: Benedict XVI | Country: Spain
+2025-04-26 22:43:22,924 - INFO - Extracted: CANTONI Card. Oscar | Birth: 01-09-1950 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,924 - INFO - Extracted: CASTILLO MATTASOGLIO Card. Carlos Gustavo | Birth: 02-02-1950 | Pope: Francis | Country: Peru
+2025-04-26 22:43:22,924 - INFO - Extracted: CHOMALÍ GARIB Card. Fernando Natalio | Birth: 09-03-1957 | Pope: Francis | Country: Chile
+2025-04-26 22:43:22,924 - INFO - Extracted: CHOW SAU-YAN Card. Stephen, S.I. | Birth: 07-08-1959 | Pope: Francis | Country: Cina
+2025-04-26 22:43:22,924 - INFO - Extracted: CLEMENTE Card. Manuel | Birth: 16-07-1948 | Pope: Francis | Country: Portugal
+2025-04-26 22:43:22,924 - INFO - Extracted: COBO CANO Card. José | Birth: 20-09-1965 | Pope: Francis | Country: Spain
+2025-04-26 22:43:22,924 - INFO - Extracted: COLLINS Card. Thomas Christopher | Birth: 16-01-1947 | Pope: Benedict XVI | Country: Canada
+2025-04-26 22:43:22,924 - INFO - Extracted: COSTA Card. Paulo Ceza | Birth: 20-07-1967 | Pope: Francis | Country: Brazil
+2025-04-26 22:43:22,924 - INFO - Extracted: COUTTS Card. Joseph | Birth: 21-07-1945 | Pope: Francis | Country: Pakistan
+2025-04-26 22:43:22,924 - INFO - Extracted: CUPICH Card. Blase J. | Birth: 19-03-1949 | Pope: Francis | Country: United States of America
+2025-04-26 22:43:22,924 - INFO - Extracted: CZERNY Card. Michael, S.I. | Birth: 18-07-1946 | Pope: Francis | Country: Canada
+2025-04-26 22:43:22,924 - INFO - Extracted: DAVID Card. Pablo Virgilio Siongco | Birth: 02-03-1959 | Pope: Francis | Country: Philippines
+2025-04-26 22:43:22,924 - INFO - Extracted: DE DONATIS Card. Angelo | Birth: 04-01-1954 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,924 - INFO - Extracted: DE KESEL Card. Jozef | Birth: 17-06-1947 | Pope: Francis | Country: Belgium
+2025-04-26 22:43:22,924 - INFO - Extracted: DEW Card. John Atcherley | Birth: 05-05-1948 | Pope: Francis | Country: New Zealand
+2025-04-26 22:43:22,924 - INFO - Extracted: DiNARDO Card. Daniel Nicholas | Birth: 23-05-1949 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:43:22,924 - INFO - Extracted: DO CARMO DA SILVA Card. Virgilio, S.D.B. | Birth: 27-11-1967 | Pope: Francis | Country: East Timor
+2025-04-26 22:43:22,924 - INFO - Extracted: DOLAN Card. Timothy Michael | Birth: 06-02-1950 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:43:22,925 - INFO - Extracted: EIJK Card. Willem Jacobus | Birth: 22-06-1953 | Pope: Benedict XVI | Country: Netherlands
+2025-04-26 22:43:22,925 - INFO - Extracted: ERDŐ Card. Péter | Birth: 25-06-1952 | Pope: St. John Paul II | Country: Hungary
+2025-04-26 22:43:22,925 - INFO - Extracted: FARRELL Card. Kevin Joseph | Birth: 02-09-1947 | Pope: Francis | Country: United States of America
+2025-04-26 22:43:22,925 - INFO - Extracted: FERNÁNDEZ Card. Víctor Manuel | Birth: 18-07-1962 | Pope: Francis | Country: Argentina
+2025-04-26 22:43:22,925 - INFO - Extracted: FERNÁNDEZ ARTIME Card. Ángel, S.D.B. | Birth: 21-08-1960 | Pope: Francis | Country: Spain
+2025-04-26 22:43:22,925 - INFO - Extracted: FERRÃO Card. Filipe Neri António Sebastião do Rosário | Birth: 20-01-1953 | Pope: Francis | Country: India
+2025-04-26 22:43:22,925 - INFO - Extracted: FILONI Card. Fernando | Birth: 15-04-1946 | Pope: Benedict XVI | Country: Italy
+2025-04-26 22:43:22,925 - INFO - Extracted: FRANCIS Card. Sebastian | Birth: 11-11-1951 | Pope: Francis | Country: Malaysia
+2025-04-26 22:43:22,925 - INFO - Extracted: FURTADO Card. Arlindo GOMES | Birth: 15-11-1949 | Pope: Francis | Country: Cape Verde
+2025-04-26 22:43:22,925 - INFO - Extracted: GAMBETTI Card. Mauro, O.F.M. Conv. | Birth: 27-10-1965 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,925 - INFO - Extracted: GARCÍA RODRÍGUEZ Card. Juan de la Caridad | Birth: 11-07-1948 | Pope: Francis | Country: Cuba
+2025-04-26 22:43:22,925 - INFO - Extracted: GOH Card. William Seng Chye | Birth: 25-06-1957 | Pope: Francis | Country: Singapore
+2025-04-26 22:43:22,925 - INFO - Extracted: GRECH Card. Mario | Birth: 20-02-1957 | Pope: Francis | Country: Malta
+2025-04-26 22:43:22,925 - INFO - Extracted: GREGORY Card. Wilton Daniel | Birth: 07-12-1947 | Pope: Francis | Country: United States of America
+2025-04-26 22:43:22,925 - INFO - Extracted: GUGEROTTI Card. Claudio | Birth: 07-10-1955 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,925 - INFO - Extracted: HARVEY Card. James Michael | Birth: 20-10-1949 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:43:22,925 - INFO - Extracted: HOLLERICH  Card. Jean-Claude, S.I. | Birth: 09-08-1958 | Pope: Francis | Country: Luxembourg
+2025-04-26 22:43:22,925 - INFO - Extracted: KAMBANDA Card. Antoine | Birth: 10-11-1958 | Pope: Francis | Country: Rwanda
+2025-04-26 22:43:22,925 - INFO - Extracted: KIKUCHI Card. Tarcisio Isao, S.V.D. | Birth: 01-11-1958 | Pope: Francis | Country: Giappone
+2025-04-26 22:43:22,925 - INFO - Extracted: KOCH Card. Kurt | Birth: 15-03-1950 | Pope: Benedict XVI | Country: Switzerland
+2025-04-26 22:43:22,925 - INFO - Extracted: KOOVAKAD Card. George Jacob | Birth: 11-08-1973 | Pope: Francis | Country: India
+2025-04-26 22:43:22,925 - INFO - Extracted: KOVITHAVANIJ Card. Francis Xavier Kriengsak | Birth: 27-06-1949 | Pope: Francis | Country: Thailandia
+2025-04-26 22:43:22,925 - INFO - Extracted: KRAJEWSKI Card. Konrad | Birth: 25-11-1963 | Pope: Francis | Country: Poland
+2025-04-26 22:43:22,925 - INFO - Extracted: KUTWA Card. Jean-Pierre | Birth: 22-12-1945 | Pope: Francis | Country: Ivory Coast
+2025-04-26 22:43:22,925 - INFO - Extracted: LACROIX Card. Gérald Cyprien | Birth: 27-07-1957 | Pope: Francis | Country: Canada
+2025-04-26 22:43:22,925 - INFO - Extracted: LANGLOIS Card. Chibly | Birth: 29-11-1958 | Pope: Francis | Country: Haiti
+2025-04-26 22:43:22,926 - INFO - Extracted: LEO Card. Frank | Birth: 30-06-1971 | Pope: Francis | Country: Canada
+2025-04-26 22:43:22,926 - INFO - Extracted: LOJUDICE Card. Augusto Paolo | Birth: 01-07-1964 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,926 - INFO - Extracted: LÓPEZ ROMERO Card. Cristóbal, S.D.B. | Birth: 19-05-1952 | Pope: Francis | Country: Marocco
+2025-04-26 22:43:22,926 - INFO - Extracted: MAEDA Card. Thomas Aquino Manyo | Birth: 03-03-1949 | Pope: Francis | Country: Giappone
+2025-04-26 22:43:22,926 - INFO - Extracted: MAFI Card. Soane Patita Paini | Birth: 19-12-1961 | Pope: Francis | Country: Tonga
+2025-04-26 22:43:22,926 - INFO - Extracted: MAKRICKAS Card. Rolandas | Birth: 31-01-1972 | Pope: Francis | Country: Lithuania
+2025-04-26 22:43:22,926 - INFO - Extracted: MAMBERTI Card. Dominique | Birth: 07-03-1952 | Pope: Francis | Country: France
+2025-04-26 22:43:22,926 - INFO - Extracted: MARENGO Card. Giorgio, I.M.C. | Birth: 07-06-1974 | Pope: Francis | Country: Mongolia
+2025-04-26 22:43:22,926 - INFO - Extracted: MARTÍNEZ FLORES Card. Adalberto | Birth: 08-07-1951 | Pope: Francis | Country: Paraguay
+2025-04-26 22:43:22,926 - INFO - Extracted: MARTO dos SANTOS Card. António Augusto | Birth: 05-05-1947 | Pope: Francis | Country: Portugal
+2025-04-26 22:43:22,926 - INFO - Extracted: MARX Card. Reinhard | Birth: 21-09-1953 | Pope: Benedict XVI | Country: Germany
+2025-04-26 22:43:22,926 - INFO - Extracted: MATHIEU Card. Dominique Joseph, O.F.M. Conv. | Birth: 13-06-1963 | Pope: Francis | Country: Iran
+2025-04-26 22:43:22,926 - INFO - Extracted: McELROY Card. Robert Walter | Birth: 05-02-1954 | Pope: Francis | Country: United States of America
+2025-04-26 22:43:22,926 - INFO - Extracted: MENDONÇA Card. José Tolentino de | Birth: 15-12-1965 | Pope: Francis | Country: Portugal
+2025-04-26 22:43:22,926 - INFO - Extracted: MONTENEGRO Card. Francesco | Birth: 22-05-1946 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,926 - INFO - Extracted: MULLA Card. Stephen Ameyu Martin | Birth: 10-01-1964 | Pope: Francis | Country: Sud Sudan
+2025-04-26 22:43:22,926 - INFO - Extracted: MÜLLER Card. Gerhard Ludwig | Birth: 31-12-1947 | Pope: Francis | Country: Germany
+2025-04-26 22:43:22,926 - INFO - Extracted: NEMET Card. Ladislav, S.V.D. | Birth: 07-09-1956 | Pope: Francis | Country: Serbia
+2025-04-26 22:43:22,926 - INFO - Extracted: NICHOLS Card. Gerard Vincent | Birth: 08-11-1945 | Pope: Francis | Country: United Kingdom
+2025-04-26 22:43:22,926 - INFO - Extracted: NJUE Card. John | Birth: 01-01-1946 | Pope: Benedict XVI | Country: Kenya
+2025-04-26 22:43:22,926 - INFO - Extracted: NYCZ Card. Kazimierz | Birth: 01-02-1950 | Pope: Benedict XVI | Country: Poland
+2025-04-26 22:43:22,926 - INFO - Extracted: NZAPALAINGA Card. Dieudonné | Birth: 14-03-1967 | Pope: Francis | Country: Central African Republic
+2025-04-26 22:43:22,926 - INFO - Extracted: OKPALEKE Card. Peter Ebere | Birth: 01-03-1963 | Pope: Francis | Country: Nigeria
+2025-04-26 22:43:22,926 - INFO - Extracted: OMELLA Card. Juan José | Birth: 21-04-1946 | Pope: Francis | Country: Spain
+2025-04-26 22:43:22,926 - INFO - Extracted: OSORO SIERRA Card. Carlos | Birth: 16-05-1945 | Pope: Francis | Country: Spain
+2025-04-26 22:43:22,926 - INFO - Extracted: OUÉDRAOGO Card. Nakellentuba Philippe | Birth: 31-12-1945 | Pope: Francis | Country: Burkina Faso
+2025-04-26 22:43:22,927 - INFO - Extracted: PAROLIN Card. Pietro | Birth: 17-01-1955 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,927 - INFO - Extracted: PATABENDIGE DON Card. Albert Malcolm Ranjith | Birth: 15-11-1947 | Pope: Benedict XVI | Country: Sri Lanka
+2025-04-26 22:43:22,927 - INFO - Extracted: PETROCCHI Card. Giuseppe | Birth: 19-08-1948 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,927 - INFO - Extracted: PIERRE Christophe Louis Yves Georges | Birth: 30-01-1946 | Pope: Francis | Country: France
+2025-04-26 22:43:22,927 - INFO - Extracted: PIZZABALLA Card. Pierbattista, O.F.M. | Birth: 21-04-1965 | Pope: Francis | Country: Gerusalemme
+2025-04-26 22:43:22,927 - INFO - Extracted: POLI Card. Mario Aurelio | Birth: 29-11-1947 | Pope: Francis | Country: Argentina
+2025-04-26 22:43:22,927 - INFO - Extracted: POOLA Card. Anthony | Birth: 15-11-1961 | Pope: Francis | Country: India
+2025-04-26 22:43:22,927 - INFO - Extracted: PREVOST Card. Robert Francis, O.S.A. | Birth: 04-09-1955 | Pope: Francis | Country: United States of America
+2025-04-26 22:43:22,927 - INFO - Extracted: PULJIĆ Card. Vinko | Birth: 08-09-1945 | Pope: St. John Paul II | Country: Bosnia and Herzegovina
+2025-04-26 22:43:22,927 - INFO - Extracted: RADCLIFFE Card. Timothy Peter Joseph, O.P. | Birth: 22-08-1945 | Pope: Francis | Country: United Kingdom
+2025-04-26 22:43:22,927 - INFO - Extracted: RAMAZZINI IMERI Card. Álvaro Leonel | Birth: 16-07-1947 | Pope: Francis | Country: Guatemala
+2025-04-26 22:43:22,927 - INFO - Extracted: REINA Card. Baldassare | Birth: 26-11-1970 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,927 - INFO - Extracted: REPOLE Card. Roberto | Birth: 29-01-1967 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,927 - INFO - Extracted: RIBAT Card. John, M.S.C. | Birth: 09-02-1957 | Pope: Francis | Country: Papua Nuova Guinea
+2025-04-26 22:43:22,927 - INFO - Extracted: ROBLES ORTEGA Card. Francisco | Birth: 02-03-1949 | Pope: Benedict XVI | Country: Mexico
+2025-04-26 22:43:22,927 - INFO - Extracted: ROCHA Card. Sérgio da | Birth: 21-10-1959 | Pope: Francis | Country: Brazil
+2025-04-26 22:43:22,927 - INFO - Extracted: ROCHE Card. Arthur | Birth: 06-03-1950 | Pope: Francis | Country: United Kingdom
+2025-04-26 22:43:22,927 - INFO - Extracted: ROSSI Card. Ángel Sixto, S.I. | Birth: 11-08-1958 | Pope: Francis | Country: Argentina
+2025-04-26 22:43:22,927 - INFO - Extracted: RUEDA APARICIO Card. Luis José | Birth: 03-03-1962 | Pope: Francis | Country: Colombia
+2025-04-26 22:43:22,927 - INFO - Extracted: RUGAMBWA Card. Protase | Birth: 31-05-1960 | Pope: Francis | Country: Tanzania
+2025-04-26 22:43:22,927 - INFO - Extracted: RYŁKO Card. Stanisław | Birth: 04-07-1945 | Pope: Benedict XVI | Country: Poland
+2025-04-26 22:43:22,927 - INFO - Extracted: RYŚ Card. Grzegorz | Birth: 09-02-1964 | Pope: Francis | Country: Poland
+2025-04-26 22:43:22,927 - INFO - Extracted: SAKO Card. Louis Raphaël | Birth: 04-07-1948 | Pope: Francis | Country: Iraq
+2025-04-26 22:43:22,928 - INFO - Extracted: SARAH Card. Robert | Birth: 15-06-1945 | Pope: Benedict XVI | Country: Guinea
+2025-04-26 22:43:22,928 - INFO - Extracted: SCHERER Card. Odilo Pedro | Birth: 21-09-1949 | Pope: Benedict XVI | Country: Brazil
+2025-04-26 22:43:22,928 - INFO - Extracted: SEMERARO Card. Marcello | Birth: 22-12-1947 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,928 - INFO - Extracted: SOURAPHIEL Card. Berhaneyesus Demerew, C.M. | Birth: 14-07-1948 | Pope: Francis | Country: Ethiopia
+2025-04-26 22:43:22,928 - INFO - Extracted: SPENGLER Card. Jaime, O.F.M. | Birth: 06-09-1960 | Pope: Francis | Country: Brazil
+2025-04-26 22:43:22,928 - INFO - Extracted: STEINER Card. Leonardo Ulrich, O.F.M. | Birth: 06-11-1950 | Pope: Francis | Country: Brazil
+2025-04-26 22:43:22,928 - INFO - Extracted: STURLA BERHOUET Card. Daniel Fernando, S.D.B. | Birth: 04-07-1959 | Pope: Francis | Country: Uruguay
+2025-04-26 22:43:22,928 - INFO - Extracted: SUHARYO HARDJOATMODJO Card. Ignatius | Birth: 09-07-1950 | Pope: Francis | Country: Indonesia
+2025-04-26 22:43:22,928 - INFO - Extracted: TAGLE Card. Luis Antonio Gokim | Birth: 21-06-1957 | Pope: Benedict XVI | Country: Philippines
+2025-04-26 22:43:22,928 - INFO - Extracted: TEMPESTA Card. Orani João, O.Cist. | Birth: 22-06-1950 | Pope: Francis | Country: Brazil
+2025-04-26 22:43:22,928 - INFO - Extracted: TOBIN Card. Joseph William, C.SS.R. | Birth: 03-05-1952 | Pope: Francis | Country: United States of America
+2025-04-26 22:43:22,928 - INFO - Extracted: TSARAHAZANA Card. Désiré | Birth: 13-06-1954 | Pope: Francis | Country: Madagascar
+2025-04-26 22:43:22,928 - INFO - Extracted: TSCHERRIG Card. Emil Paul | Birth: 03-02-1947 | Pope: Francis | Country: Switzerland
+2025-04-26 22:43:22,928 - INFO - Extracted: TURKSON Card. Peter Kodwo Appiah | Birth: 11-10-1948 | Pope: St. John Paul II | Country: Ghana
+2025-04-26 22:43:22,928 - INFO - Extracted: VESCO Card. Jean-Paul, O.P. | Birth: 10-03-1962 | Pope: Francis | Country: Algeria
+2025-04-26 22:43:22,928 - INFO - Extracted: WOELKI Card. Rainer Maria | Birth: 18-08-1956 | Pope: Benedict XVI | Country: Germany
+2025-04-26 22:43:22,928 - INFO - Extracted: YOU HEUNG-SIK Card. Lazzaro | Birth: 17-11-1951 | Pope: Francis | Country: Korea
+2025-04-26 22:43:22,928 - INFO - Extracted: ZENARI Card. Mario | Birth: 05-01-1946 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,928 - INFO - Extracted: ZUPPI Card. Matteo Maria | Birth: 11-10-1955 | Pope: Francis | Country: Italy
+2025-04-26 22:43:22,928 - INFO - Extraction complete. Found 135 cardinals.
+2025-04-26 22:43:22,928 - INFO - Starting biography page extraction
+2025-04-26 22:43:22,929 - INFO - Processing biography 1/3
+2025-04-26 22:43:22,929 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_advincula_jf.html
+2025-04-26 22:43:22,959 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_advincula_jf.html
+2025-04-26 22:43:22,961 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_advincula_jf.html
+2025-04-26 22:43:23,966 - INFO - Processing biography 2/3
+2025-04-26 22:43:23,967 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-alves_am.html
+2025-04-26 22:43:24,006 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_aguiar-alves_am.html
+2025-04-26 22:43:24,011 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-alves_am.html
+2025-04-26 22:43:25,017 - INFO - Processing biography 3/3
+2025-04-26 22:43:25,017 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-retes_c.html
+2025-04-26 22:43:25,059 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_aguiar-retes_c.html
+2025-04-26 22:43:25,065 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-retes_c.html
+2025-04-26 22:43:26,073 - INFO - Found 135 cardinals
+2025-04-26 22:43:26,074 - INFO - Data saved to data/raw/cardinals_20250426_224326.json

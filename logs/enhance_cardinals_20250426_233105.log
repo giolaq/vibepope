@@ -1,0 +1,55 @@
+2025-04-26 23:31:05,064 - INFO - Starting cardinal data enhancement
+2025-04-26 23:31:05,065 - INFO - Loaded 135 cardinals from data/backup/cardinals.json
+2025-04-26 23:31:05,065 - INFO - Enhancing data for ADVINCULA Card. Jose Fuerte (1/135) - Simplified to: Advincula Fuerte
+2025-04-26 23:31:05,065 - INFO - Searching Wikipedia for: Advincula Jose Fuerte (simple: Advincula Fuerte)
+2025-04-26 23:31:05,170 - WARNING - No Wikipedia results found for Advincula Jose Fuerte
+2025-04-26 23:31:05,170 - INFO - Searching news for: Advincula Fuerte cardinal Philippines news
+2025-04-26 23:31:05,355 - INFO - Found 0 news articles for Advincula Fuerte
+2025-04-26 23:31:05,514 - INFO - Found 0 news articles for Fuerte
+2025-04-26 23:31:05,515 - INFO - Searching Google for: Advincula Fuerte cardinal Philippines
+2025-04-26 23:31:05,589 - INFO - Found 0 Google results for Advincula Fuerte
+2025-04-26 23:31:05,661 - INFO - Found 0 Google results for Fuerte
+2025-04-26 23:31:07,667 - INFO - Enhancing data for AGUIAR ALVES Card. Américo Manuel (2/135) - Simplified to: Aguiar Manuel
+2025-04-26 23:31:07,668 - INFO - Searching Wikipedia for: Aguiar Alves Américo Manuel (simple: Aguiar Manuel)
+2025-04-26 23:31:07,780 - WARNING - No Wikipedia results found for Aguiar Alves Américo Manuel
+2025-04-26 23:31:07,781 - INFO - Searching news for: Aguiar Manuel cardinal Portugal news
+2025-04-26 23:31:07,948 - INFO - Found 0 news articles for Aguiar Manuel
+2025-04-26 23:31:08,104 - INFO - Found 0 news articles for Manuel
+2025-04-26 23:31:08,104 - INFO - Searching Google for: Aguiar Manuel cardinal Portugal
+2025-04-26 23:31:08,178 - INFO - Found 0 Google results for Aguiar Manuel
+2025-04-26 23:31:08,256 - INFO - Found 0 Google results for Manuel
+2025-04-26 23:31:10,257 - INFO - Enhancing data for AGUIAR RETES Card. Carlos (3/135) - Simplified to: Aguiar Carlos
+2025-04-26 23:31:10,257 - INFO - Searching Wikipedia for: Aguiar Retes Carlos (simple: Aguiar Carlos)
+2025-04-26 23:31:10,385 - WARNING - No Wikipedia results found for Aguiar Retes Carlos
+2025-04-26 23:31:10,385 - INFO - Searching news for: Aguiar Carlos cardinal Mexico news
+2025-04-26 23:31:10,547 - INFO - Found 0 news articles for Aguiar Carlos
+2025-04-26 23:31:10,719 - INFO - Found 0 news articles for Carlos
+2025-04-26 23:31:10,719 - INFO - Searching Google for: Aguiar Carlos cardinal Mexico
+2025-04-26 23:31:10,799 - INFO - Found 0 Google results for Aguiar Carlos
+2025-04-26 23:31:11,282 - INFO - Found 3 Google results for Carlos
+2025-04-26 23:31:13,287 - INFO - Enhancing data for AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap. (4/135) - Simplified to: Ambongo Cap.
+2025-04-26 23:31:13,287 - INFO - Searching Wikipedia for: Ambongo BESUNGU Fridolin O.F.M. Cap. (simple: Ambongo Cap.)
+2025-04-26 23:31:13,417 - WARNING - No Wikipedia results found for Ambongo BESUNGU Fridolin O.F.M. Cap.
+2025-04-26 23:31:13,417 - INFO - Searching news for: Ambongo Cap. cardinal Democratic Republic of the Congo news
+2025-04-26 23:31:13,574 - INFO - Found 0 news articles for Ambongo Cap.
+2025-04-26 23:31:13,724 - INFO - Found 0 news articles for Cap.
+2025-04-26 23:31:13,724 - INFO - Searching Google for: Ambongo Cap. cardinal Democratic Republic of the Congo
+2025-04-26 23:31:13,799 - INFO - Found 0 Google results for Ambongo Cap.
+2025-04-26 23:31:13,872 - INFO - Found 0 Google results for Cap.
+2025-04-26 23:31:15,877 - INFO - Enhancing data for ARBORELIUS Card. Anders, O.C.D., (5/135) - Simplified to: Arborelius O.C.D.
+2025-04-26 23:31:15,878 - INFO - Searching Wikipedia for: Arborelius Anders O.C.D. (simple: Arborelius O.C.D.)
+2025-04-26 23:31:15,986 - WARNING - No Wikipedia results found for Arborelius Anders O.C.D.
+2025-04-26 23:31:15,987 - INFO - Searching news for: Arborelius O.C.D. cardinal Sweden news
+2025-04-26 23:31:16,127 - INFO - Found 0 news articles for Arborelius O.C.D.
+2025-04-26 23:31:16,279 - INFO - Found 0 news articles for O.C.D.
+2025-04-26 23:31:16,280 - INFO - Searching Google for: Arborelius O.C.D. cardinal Sweden
+2025-04-26 23:31:16,353 - INFO - Found 0 Google results for Arborelius O.C.D.
+2025-04-26 23:31:16,446 - INFO - Found 0 Google results for O.C.D.
+2025-04-26 23:31:18,450 - INFO - Enhancing data for AVELINE Card. Jean-Marc (6/135) - Simplified to: Aveline Jean-Marc
+2025-04-26 23:31:18,451 - INFO - Searching Wikipedia for: Aveline Jean-Marc (simple: Aveline Jean-Marc)
+2025-04-26 23:31:18,560 - WARNING - No Wikipedia results found for Aveline Jean-Marc
+2025-04-26 23:31:18,560 - INFO - Searching news for: Aveline Jean-Marc cardinal France news
+2025-04-26 23:31:18,735 - INFO - Found 0 news articles for Aveline Jean-Marc
+2025-04-26 23:31:18,882 - INFO - Found 0 news articles for Jean-Marc
+2025-04-26 23:31:18,882 - INFO - Searching Google for: Aveline Jean-Marc cardinal France
+2025-04-26 23:31:18,956 - INFO - Found 0 Google results for Aveline Jean-Marc

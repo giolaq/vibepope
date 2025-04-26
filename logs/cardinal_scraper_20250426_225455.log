@@ -1,0 +1,1072 @@
+2025-04-26 22:54:55,628 - INFO - Starting cardinal data extraction
+2025-04-26 22:54:55,761 - INFO - Saved HTML content to data/raw/vatican_cardinals.html
+2025-04-26 22:54:55,790 - INFO - Found 135 elements with class 'listTitle'
+2025-04-26 22:54:55,790 - INFO - Extracted: ADVINCULA Card. Jose Fuerte | Birth: 30-03-1952 | Pope: Francis | Country: Philippines
+2025-04-26 22:54:55,790 - INFO - Extracted: AGUIAR ALVES Card. Américo Manuel | Birth: 12-12-1973 | Pope: Francis | Country: Portugal
+2025-04-26 22:54:55,790 - INFO - Extracted: AGUIAR RETES Card. Carlos | Birth: 09-01-1950 | Pope: Francis | Country: Mexico
+2025-04-26 22:54:55,790 - INFO - Extracted: AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap. | Birth: 24-01-1960 | Pope: Francis | Country: Democratic Republic of the Congo
+2025-04-26 22:54:55,790 - INFO - Extracted: ARBORELIUS Card. Anders, O.C.D., | Birth: 24-09-1949 | Pope: Francis | Country: Sweden
+2025-04-26 22:54:55,790 - INFO - Extracted: AVELINE Card. Jean-Marc | Birth: 26-12-1958 | Pope: Francis | Country: France
+2025-04-26 22:54:55,790 - INFO - Extracted: AVIZ Card. João Braz de | Birth: 24-04-1947 | Pope: Benedict XVI | Country: Brazil
+2025-04-26 22:54:55,790 - INFO - Extracted: BAGGIO Card. Fabio, C.S. | Birth: 15-01-1965 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,790 - INFO - Extracted: BARBARIN Card. Philippe | Birth: 17-10-1950 | Pope: St. John Paul II | Country: France
+2025-04-26 22:54:55,790 - INFO - Extracted: BASELIOS Card. Cleemis | Birth: 25-05-1960 | Pope: Benedict XVI | Country: India
+2025-04-26 22:54:55,790 - INFO - Extracted: BATTAGLIA Card. Domenico | Birth: 20-01-1963 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,790 - INFO - Extracted: BESSI DOGBO Card. Ignace | Birth: 17-08-1961 | Pope: Francis | Country: Ivory Coast
+2025-04-26 22:54:55,790 - INFO - Extracted: BETORI Card. Giuseppe | Birth: 25-02-1947 | Pope: Benedict XVI | Country: Italy
+2025-04-26 22:54:55,790 - INFO - Extracted: BO Card. Charles Maung, S.D.B. | Birth: 29-10-1948 | Pope: Francis | Country: Myanmar
+2025-04-26 22:54:55,790 - INFO - Extracted: BOKALIC IGLIC Card. Vicente, C.M. | Birth: 11-06-1952 | Pope: Francis | Country: Argentina
+2025-04-26 22:54:55,790 - INFO - Extracted: BOZANIĆ Card. Josip | Birth: 20-03-1949 | Pope: St. John Paul II | Country: Croatia
+2025-04-26 22:54:55,790 - INFO - Extracted: BRENES SOLÓRZANO Card. Leopoldo José | Birth: 07-03-1949 | Pope: Francis | Country: Nicaragua
+2025-04-26 22:54:55,790 - INFO - Extracted: BRISLIN Card. Stephen | Birth: 24-09-1956 | Pope: Francis | Country: South Africa
+2025-04-26 22:54:55,790 - INFO - Extracted: BURKE Card. Raymond Leo | Birth: 30-06-1948 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:54:55,790 - INFO - Extracted: BUSTILLO Card. François-Xavier, O.F.M. Conv. | Birth: 23-11-1968 | Pope: Francis | Country: France
+2025-04-26 22:54:55,790 - INFO - Extracted: BYCHOK Card. Mykola, C.SS.R. | Birth: 13-02-1980 | Pope: Francis | Country: Australia
+2025-04-26 22:54:55,790 - INFO - Extracted: CABRERA HERRERA Card. Luis Gerardo, O.F.M. | Birth: 11-10-1955 | Pope: Francis | Country: Ecuador
+2025-04-26 22:54:55,790 - INFO - Extracted: CAÑIZARES LLOVERA Card. Antonio | Birth: 15-10-1945 | Pope: Benedict XVI | Country: Spain
+2025-04-26 22:54:55,791 - INFO - Extracted: CANTONI Card. Oscar | Birth: 01-09-1950 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,791 - INFO - Extracted: CASTILLO MATTASOGLIO Card. Carlos Gustavo | Birth: 02-02-1950 | Pope: Francis | Country: Peru
+2025-04-26 22:54:55,791 - INFO - Extracted: CHOMALÍ GARIB Card. Fernando Natalio | Birth: 09-03-1957 | Pope: Francis | Country: Chile
+2025-04-26 22:54:55,791 - INFO - Extracted: CHOW SAU-YAN Card. Stephen, S.I. | Birth: 07-08-1959 | Pope: Francis | Country: Cina
+2025-04-26 22:54:55,791 - INFO - Extracted: CLEMENTE Card. Manuel | Birth: 16-07-1948 | Pope: Francis | Country: Portugal
+2025-04-26 22:54:55,791 - INFO - Extracted: COBO CANO Card. José | Birth: 20-09-1965 | Pope: Francis | Country: Spain
+2025-04-26 22:54:55,791 - INFO - Extracted: COLLINS Card. Thomas Christopher | Birth: 16-01-1947 | Pope: Benedict XVI | Country: Canada
+2025-04-26 22:54:55,791 - INFO - Extracted: COSTA Card. Paulo Ceza | Birth: 20-07-1967 | Pope: Francis | Country: Brazil
+2025-04-26 22:54:55,791 - INFO - Extracted: COUTTS Card. Joseph | Birth: 21-07-1945 | Pope: Francis | Country: Pakistan
+2025-04-26 22:54:55,791 - INFO - Extracted: CUPICH Card. Blase J. | Birth: 19-03-1949 | Pope: Francis | Country: United States of America
+2025-04-26 22:54:55,791 - INFO - Extracted: CZERNY Card. Michael, S.I. | Birth: 18-07-1946 | Pope: Francis | Country: Canada
+2025-04-26 22:54:55,791 - INFO - Extracted: DAVID Card. Pablo Virgilio Siongco | Birth: 02-03-1959 | Pope: Francis | Country: Philippines
+2025-04-26 22:54:55,791 - INFO - Extracted: DE DONATIS Card. Angelo | Birth: 04-01-1954 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,791 - INFO - Extracted: DE KESEL Card. Jozef | Birth: 17-06-1947 | Pope: Francis | Country: Belgium
+2025-04-26 22:54:55,791 - INFO - Extracted: DEW Card. John Atcherley | Birth: 05-05-1948 | Pope: Francis | Country: New Zealand
+2025-04-26 22:54:55,791 - INFO - Extracted: DiNARDO Card. Daniel Nicholas | Birth: 23-05-1949 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:54:55,791 - INFO - Extracted: DO CARMO DA SILVA Card. Virgilio, S.D.B. | Birth: 27-11-1967 | Pope: Francis | Country: East Timor
+2025-04-26 22:54:55,791 - INFO - Extracted: DOLAN Card. Timothy Michael | Birth: 06-02-1950 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:54:55,791 - INFO - Extracted: EIJK Card. Willem Jacobus | Birth: 22-06-1953 | Pope: Benedict XVI | Country: Netherlands
+2025-04-26 22:54:55,791 - INFO - Extracted: ERDŐ Card. Péter | Birth: 25-06-1952 | Pope: St. John Paul II | Country: Hungary
+2025-04-26 22:54:55,791 - INFO - Extracted: FARRELL Card. Kevin Joseph | Birth: 02-09-1947 | Pope: Francis | Country: United States of America
+2025-04-26 22:54:55,791 - INFO - Extracted: FERNÁNDEZ Card. Víctor Manuel | Birth: 18-07-1962 | Pope: Francis | Country: Argentina
+2025-04-26 22:54:55,791 - INFO - Extracted: FERNÁNDEZ ARTIME Card. Ángel, S.D.B. | Birth: 21-08-1960 | Pope: Francis | Country: Spain
+2025-04-26 22:54:55,791 - INFO - Extracted: FERRÃO Card. Filipe Neri António Sebastião do Rosário | Birth: 20-01-1953 | Pope: Francis | Country: India
+2025-04-26 22:54:55,791 - INFO - Extracted: FILONI Card. Fernando | Birth: 15-04-1946 | Pope: Benedict XVI | Country: Italy
+2025-04-26 22:54:55,791 - INFO - Extracted: FRANCIS Card. Sebastian | Birth: 11-11-1951 | Pope: Francis | Country: Malaysia
+2025-04-26 22:54:55,791 - INFO - Extracted: FURTADO Card. Arlindo GOMES | Birth: 15-11-1949 | Pope: Francis | Country: Cape Verde
+2025-04-26 22:54:55,791 - INFO - Extracted: GAMBETTI Card. Mauro, O.F.M. Conv. | Birth: 27-10-1965 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,791 - INFO - Extracted: GARCÍA RODRÍGUEZ Card. Juan de la Caridad | Birth: 11-07-1948 | Pope: Francis | Country: Cuba
+2025-04-26 22:54:55,791 - INFO - Extracted: GOH Card. William Seng Chye | Birth: 25-06-1957 | Pope: Francis | Country: Singapore
+2025-04-26 22:54:55,791 - INFO - Extracted: GRECH Card. Mario | Birth: 20-02-1957 | Pope: Francis | Country: Malta
+2025-04-26 22:54:55,792 - INFO - Extracted: GREGORY Card. Wilton Daniel | Birth: 07-12-1947 | Pope: Francis | Country: United States of America
+2025-04-26 22:54:55,792 - INFO - Extracted: GUGEROTTI Card. Claudio | Birth: 07-10-1955 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,792 - INFO - Extracted: HARVEY Card. James Michael | Birth: 20-10-1949 | Pope: Benedict XVI | Country: United States of America
+2025-04-26 22:54:55,792 - INFO - Extracted: HOLLERICH  Card. Jean-Claude, S.I. | Birth: 09-08-1958 | Pope: Francis | Country: Luxembourg
+2025-04-26 22:54:55,792 - INFO - Extracted: KAMBANDA Card. Antoine | Birth: 10-11-1958 | Pope: Francis | Country: Rwanda
+2025-04-26 22:54:55,792 - INFO - Extracted: KIKUCHI Card. Tarcisio Isao, S.V.D. | Birth: 01-11-1958 | Pope: Francis | Country: Giappone
+2025-04-26 22:54:55,792 - INFO - Extracted: KOCH Card. Kurt | Birth: 15-03-1950 | Pope: Benedict XVI | Country: Switzerland
+2025-04-26 22:54:55,792 - INFO - Extracted: KOOVAKAD Card. George Jacob | Birth: 11-08-1973 | Pope: Francis | Country: India
+2025-04-26 22:54:55,792 - INFO - Extracted: KOVITHAVANIJ Card. Francis Xavier Kriengsak | Birth: 27-06-1949 | Pope: Francis | Country: Thailandia
+2025-04-26 22:54:55,792 - INFO - Extracted: KRAJEWSKI Card. Konrad | Birth: 25-11-1963 | Pope: Francis | Country: Poland
+2025-04-26 22:54:55,792 - INFO - Extracted: KUTWA Card. Jean-Pierre | Birth: 22-12-1945 | Pope: Francis | Country: Ivory Coast
+2025-04-26 22:54:55,792 - INFO - Extracted: LACROIX Card. Gérald Cyprien | Birth: 27-07-1957 | Pope: Francis | Country: Canada
+2025-04-26 22:54:55,792 - INFO - Extracted: LANGLOIS Card. Chibly | Birth: 29-11-1958 | Pope: Francis | Country: Haiti
+2025-04-26 22:54:55,792 - INFO - Extracted: LEO Card. Frank | Birth: 30-06-1971 | Pope: Francis | Country: Canada
+2025-04-26 22:54:55,792 - INFO - Extracted: LOJUDICE Card. Augusto Paolo | Birth: 01-07-1964 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,792 - INFO - Extracted: LÓPEZ ROMERO Card. Cristóbal, S.D.B. | Birth: 19-05-1952 | Pope: Francis | Country: Marocco
+2025-04-26 22:54:55,792 - INFO - Extracted: MAEDA Card. Thomas Aquino Manyo | Birth: 03-03-1949 | Pope: Francis | Country: Giappone
+2025-04-26 22:54:55,792 - INFO - Extracted: MAFI Card. Soane Patita Paini | Birth: 19-12-1961 | Pope: Francis | Country: Tonga
+2025-04-26 22:54:55,792 - INFO - Extracted: MAKRICKAS Card. Rolandas | Birth: 31-01-1972 | Pope: Francis | Country: Lithuania
+2025-04-26 22:54:55,792 - INFO - Extracted: MAMBERTI Card. Dominique | Birth: 07-03-1952 | Pope: Francis | Country: France
+2025-04-26 22:54:55,792 - INFO - Extracted: MARENGO Card. Giorgio, I.M.C. | Birth: 07-06-1974 | Pope: Francis | Country: Mongolia
+2025-04-26 22:54:55,792 - INFO - Extracted: MARTÍNEZ FLORES Card. Adalberto | Birth: 08-07-1951 | Pope: Francis | Country: Paraguay
+2025-04-26 22:54:55,792 - INFO - Extracted: MARTO dos SANTOS Card. António Augusto | Birth: 05-05-1947 | Pope: Francis | Country: Portugal
+2025-04-26 22:54:55,792 - INFO - Extracted: MARX Card. Reinhard | Birth: 21-09-1953 | Pope: Benedict XVI | Country: Germany
+2025-04-26 22:54:55,792 - INFO - Extracted: MATHIEU Card. Dominique Joseph, O.F.M. Conv. | Birth: 13-06-1963 | Pope: Francis | Country: Iran
+2025-04-26 22:54:55,792 - INFO - Extracted: McELROY Card. Robert Walter | Birth: 05-02-1954 | Pope: Francis | Country: United States of America
+2025-04-26 22:54:55,792 - INFO - Extracted: MENDONÇA Card. José Tolentino de | Birth: 15-12-1965 | Pope: Francis | Country: Portugal
+2025-04-26 22:54:55,792 - INFO - Extracted: MONTENEGRO Card. Francesco | Birth: 22-05-1946 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,792 - INFO - Extracted: MULLA Card. Stephen Ameyu Martin | Birth: 10-01-1964 | Pope: Francis | Country: Sud Sudan
+2025-04-26 22:54:55,792 - INFO - Extracted: MÜLLER Card. Gerhard Ludwig | Birth: 31-12-1947 | Pope: Francis | Country: Germany
+2025-04-26 22:54:55,792 - INFO - Extracted: NEMET Card. Ladislav, S.V.D. | Birth: 07-09-1956 | Pope: Francis | Country: Serbia
+2025-04-26 22:54:55,793 - INFO - Extracted: NICHOLS Card. Gerard Vincent | Birth: 08-11-1945 | Pope: Francis | Country: United Kingdom
+2025-04-26 22:54:55,793 - INFO - Extracted: NJUE Card. John | Birth: 01-01-1946 | Pope: Benedict XVI | Country: Kenya
+2025-04-26 22:54:55,793 - INFO - Extracted: NYCZ Card. Kazimierz | Birth: 01-02-1950 | Pope: Benedict XVI | Country: Poland
+2025-04-26 22:54:55,793 - INFO - Extracted: NZAPALAINGA Card. Dieudonné | Birth: 14-03-1967 | Pope: Francis | Country: Central African Republic
+2025-04-26 22:54:55,793 - INFO - Extracted: OKPALEKE Card. Peter Ebere | Birth: 01-03-1963 | Pope: Francis | Country: Nigeria
+2025-04-26 22:54:55,793 - INFO - Extracted: OMELLA Card. Juan José | Birth: 21-04-1946 | Pope: Francis | Country: Spain
+2025-04-26 22:54:55,793 - INFO - Extracted: OSORO SIERRA Card. Carlos | Birth: 16-05-1945 | Pope: Francis | Country: Spain
+2025-04-26 22:54:55,793 - INFO - Extracted: OUÉDRAOGO Card. Nakellentuba Philippe | Birth: 31-12-1945 | Pope: Francis | Country: Burkina Faso
+2025-04-26 22:54:55,793 - INFO - Extracted: PAROLIN Card. Pietro | Birth: 17-01-1955 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,793 - INFO - Extracted: PATABENDIGE DON Card. Albert Malcolm Ranjith | Birth: 15-11-1947 | Pope: Benedict XVI | Country: Sri Lanka
+2025-04-26 22:54:55,793 - INFO - Extracted: PETROCCHI Card. Giuseppe | Birth: 19-08-1948 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,793 - INFO - Extracted: PIERRE Christophe Louis Yves Georges | Birth: 30-01-1946 | Pope: Francis | Country: France
+2025-04-26 22:54:55,793 - INFO - Extracted: PIZZABALLA Card. Pierbattista, O.F.M. | Birth: 21-04-1965 | Pope: Francis | Country: Gerusalemme
+2025-04-26 22:54:55,793 - INFO - Extracted: POLI Card. Mario Aurelio | Birth: 29-11-1947 | Pope: Francis | Country: Argentina
+2025-04-26 22:54:55,793 - INFO - Extracted: POOLA Card. Anthony | Birth: 15-11-1961 | Pope: Francis | Country: India
+2025-04-26 22:54:55,793 - INFO - Extracted: PREVOST Card. Robert Francis, O.S.A. | Birth: 04-09-1955 | Pope: Francis | Country: United States of America
+2025-04-26 22:54:55,793 - INFO - Extracted: PULJIĆ Card. Vinko | Birth: 08-09-1945 | Pope: St. John Paul II | Country: Bosnia and Herzegovina
+2025-04-26 22:54:55,793 - INFO - Extracted: RADCLIFFE Card. Timothy Peter Joseph, O.P. | Birth: 22-08-1945 | Pope: Francis | Country: United Kingdom
+2025-04-26 22:54:55,793 - INFO - Extracted: RAMAZZINI IMERI Card. Álvaro Leonel | Birth: 16-07-1947 | Pope: Francis | Country: Guatemala
+2025-04-26 22:54:55,793 - INFO - Extracted: REINA Card. Baldassare | Birth: 26-11-1970 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,793 - INFO - Extracted: REPOLE Card. Roberto | Birth: 29-01-1967 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,793 - INFO - Extracted: RIBAT Card. John, M.S.C. | Birth: 09-02-1957 | Pope: Francis | Country: Papua Nuova Guinea
+2025-04-26 22:54:55,793 - INFO - Extracted: ROBLES ORTEGA Card. Francisco | Birth: 02-03-1949 | Pope: Benedict XVI | Country: Mexico
+2025-04-26 22:54:55,793 - INFO - Extracted: ROCHA Card. Sérgio da | Birth: 21-10-1959 | Pope: Francis | Country: Brazil
+2025-04-26 22:54:55,793 - INFO - Extracted: ROCHE Card. Arthur | Birth: 06-03-1950 | Pope: Francis | Country: United Kingdom
+2025-04-26 22:54:55,793 - INFO - Extracted: ROSSI Card. Ángel Sixto, S.I. | Birth: 11-08-1958 | Pope: Francis | Country: Argentina
+2025-04-26 22:54:55,793 - INFO - Extracted: RUEDA APARICIO Card. Luis José | Birth: 03-03-1962 | Pope: Francis | Country: Colombia
+2025-04-26 22:54:55,793 - INFO - Extracted: RUGAMBWA Card. Protase | Birth: 31-05-1960 | Pope: Francis | Country: Tanzania
+2025-04-26 22:54:55,793 - INFO - Extracted: RYŁKO Card. Stanisław | Birth: 04-07-1945 | Pope: Benedict XVI | Country: Poland
+2025-04-26 22:54:55,793 - INFO - Extracted: RYŚ Card. Grzegorz | Birth: 09-02-1964 | Pope: Francis | Country: Poland
+2025-04-26 22:54:55,794 - INFO - Extracted: SAKO Card. Louis Raphaël | Birth: 04-07-1948 | Pope: Francis | Country: Iraq
+2025-04-26 22:54:55,794 - INFO - Extracted: SARAH Card. Robert | Birth: 15-06-1945 | Pope: Benedict XVI | Country: Guinea
+2025-04-26 22:54:55,794 - INFO - Extracted: SCHERER Card. Odilo Pedro | Birth: 21-09-1949 | Pope: Benedict XVI | Country: Brazil
+2025-04-26 22:54:55,794 - INFO - Extracted: SEMERARO Card. Marcello | Birth: 22-12-1947 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,794 - INFO - Extracted: SOURAPHIEL Card. Berhaneyesus Demerew, C.M. | Birth: 14-07-1948 | Pope: Francis | Country: Ethiopia
+2025-04-26 22:54:55,794 - INFO - Extracted: SPENGLER Card. Jaime, O.F.M. | Birth: 06-09-1960 | Pope: Francis | Country: Brazil
+2025-04-26 22:54:55,794 - INFO - Extracted: STEINER Card. Leonardo Ulrich, O.F.M. | Birth: 06-11-1950 | Pope: Francis | Country: Brazil
+2025-04-26 22:54:55,794 - INFO - Extracted: STURLA BERHOUET Card. Daniel Fernando, S.D.B. | Birth: 04-07-1959 | Pope: Francis | Country: Uruguay
+2025-04-26 22:54:55,794 - INFO - Extracted: SUHARYO HARDJOATMODJO Card. Ignatius | Birth: 09-07-1950 | Pope: Francis | Country: Indonesia
+2025-04-26 22:54:55,794 - INFO - Extracted: TAGLE Card. Luis Antonio Gokim | Birth: 21-06-1957 | Pope: Benedict XVI | Country: Philippines
+2025-04-26 22:54:55,794 - INFO - Extracted: TEMPESTA Card. Orani João, O.Cist. | Birth: 22-06-1950 | Pope: Francis | Country: Brazil
+2025-04-26 22:54:55,794 - INFO - Extracted: TOBIN Card. Joseph William, C.SS.R. | Birth: 03-05-1952 | Pope: Francis | Country: United States of America
+2025-04-26 22:54:55,794 - INFO - Extracted: TSARAHAZANA Card. Désiré | Birth: 13-06-1954 | Pope: Francis | Country: Madagascar
+2025-04-26 22:54:55,794 - INFO - Extracted: TSCHERRIG Card. Emil Paul | Birth: 03-02-1947 | Pope: Francis | Country: Switzerland
+2025-04-26 22:54:55,794 - INFO - Extracted: TURKSON Card. Peter Kodwo Appiah | Birth: 11-10-1948 | Pope: St. John Paul II | Country: Ghana
+2025-04-26 22:54:55,794 - INFO - Extracted: VESCO Card. Jean-Paul, O.P. | Birth: 10-03-1962 | Pope: Francis | Country: Algeria
+2025-04-26 22:54:55,794 - INFO - Extracted: WOELKI Card. Rainer Maria | Birth: 18-08-1956 | Pope: Benedict XVI | Country: Germany
+2025-04-26 22:54:55,794 - INFO - Extracted: YOU HEUNG-SIK Card. Lazzaro | Birth: 17-11-1951 | Pope: Francis | Country: Korea
+2025-04-26 22:54:55,794 - INFO - Extracted: ZENARI Card. Mario | Birth: 05-01-1946 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,794 - INFO - Extracted: ZUPPI Card. Matteo Maria | Birth: 11-10-1955 | Pope: Francis | Country: Italy
+2025-04-26 22:54:55,794 - INFO - Extraction complete. Found 135 cardinals.
+2025-04-26 22:54:55,794 - INFO - Starting biography page extraction
+2025-04-26 22:54:55,794 - INFO - Processing biography 1/135 (ADVINCULA Card. Jose Fuerte)
+2025-04-26 22:54:55,794 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_advincula_jf.html
+2025-04-26 22:54:55,827 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_advincula_jf.html
+2025-04-26 22:54:55,829 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_advincula_jf/_jcr_content/parsys/textimage/image.img.jpg/1697095161105.jpg
+2025-04-26 22:54:55,830 - INFO - Found biography text (6 paragraphs)
+2025-04-26 22:54:55,830 - INFO - Found list 1 with 1 items
+2025-04-26 22:54:55,830 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_advincula_jf.html
+2025-04-26 22:54:56,835 - INFO - Processing biography 2/135 (AGUIAR ALVES Card. Américo Manuel)
+2025-04-26 22:54:56,836 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-alves_am.html
+2025-04-26 22:54:56,876 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_aguiar-alves_am.html
+2025-04-26 22:54:56,879 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-alves_am/_jcr_content/parsys/textimage/image.img.jpg/1696516724092.jpg
+2025-04-26 22:54:56,879 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:54:56,879 - INFO - Found list 1 with 1 items
+2025-04-26 22:54:56,880 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-alves_am.html
+2025-04-26 22:54:57,885 - INFO - Processing biography 3/135 (AGUIAR RETES Card. Carlos)
+2025-04-26 22:54:57,885 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-retes_c.html
+2025-04-26 22:54:57,928 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_aguiar-retes_c.html
+2025-04-26 22:54:57,931 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-retes_c/_jcr_content/parsys/textimage/image.img.jpg/1679045238768.jpg
+2025-04-26 22:54:57,931 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:54:57,931 - INFO - Found list 1 with 2 items
+2025-04-26 22:54:57,931 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aguiar-retes_c.html
+2025-04-26 22:54:58,936 - INFO - Processing biography 4/135 (AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap.)
+2025-04-26 22:54:58,937 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ambongo.html
+2025-04-26 22:54:58,994 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_ambongo.html
+2025-04-26 22:54:58,998 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ambongo/_jcr_content/parsys/textimage/image.img.jpg/1680791713298.jpg
+2025-04-26 22:54:58,999 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:54:58,999 - INFO - Found list 1 with 2 items
+2025-04-26 22:54:58,999 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ambongo.html
+2025-04-26 22:55:00,001 - INFO - Processing biography 5/135 (ARBORELIUS Card. Anders, O.C.D.,)
+2025-04-26 22:55:00,002 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_arborelius_a.html
+2025-04-26 22:55:00,043 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_arborelius_a.html
+2025-04-26 22:55:00,046 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_arborelius_a/_jcr_content/parsys/textimage/image.img.jpg/1713529183237.jpg
+2025-04-26 22:55:00,046 - INFO - Found biography text (6 paragraphs)
+2025-04-26 22:55:00,046 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:00,046 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_arborelius_a.html
+2025-04-26 22:55:01,049 - INFO - Processing biography 6/135 (AVELINE Card. Jean-Marc)
+2025-04-26 22:55:01,049 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aveline_jm.html
+2025-04-26 22:55:01,229 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_aveline_jm.html
+2025-04-26 22:55:01,234 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aveline_jm/_jcr_content/parsys/textimage/image.img.jpg/1694856338879.jpg
+2025-04-26 22:55:01,234 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:01,234 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:01,235 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aveline_jm.html
+2025-04-26 22:55:02,236 - INFO - Processing biography 7/135 (AVIZ Card. João Braz de)
+2025-04-26 22:55:02,236 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aviz-braz-de_j.html
+2025-04-26 22:55:02,406 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_aviz-braz-de_j.html
+2025-04-26 22:55:02,411 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aviz-braz-de_j/_jcr_content/parsys/textimage/image.img.jpg/1713529555591.jpg
+2025-04-26 22:55:02,411 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:55:02,412 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:02,412 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_aviz-braz-de_j.html
+2025-04-26 22:55:03,417 - INFO - Processing biography 8/135 (BAGGIO Card. Fabio, C.S.)
+2025-04-26 22:55:03,418 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_baggio_f.html
+2025-04-26 22:55:03,577 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_baggio_f.html
+2025-04-26 22:55:03,583 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_baggio_f/_jcr_content/parsys/textimage/image.img.jpg/1739980401800.jpg
+2025-04-26 22:55:03,583 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:03,583 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_baggio_f.html
+2025-04-26 22:55:04,588 - INFO - Processing biography 9/135 (BARBARIN Card. Philippe)
+2025-04-26 22:55:04,589 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_barbarin_p.html
+2025-04-26 22:55:04,737 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_barbarin_p.html
+2025-04-26 22:55:04,742 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_barbarin_p/_jcr_content/parsys/textimage/image.img.jpg/1589189558292.jpg
+2025-04-26 22:55:04,742 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:04,742 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_barbarin_p.html
+2025-04-26 22:55:05,747 - INFO - Processing biography 10/135 (BASELIOS Card. Cleemis)
+2025-04-26 22:55:05,748 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_baselios_c.html
+2025-04-26 22:55:06,174 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_baselios_c.html
+2025-04-26 22:55:06,181 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_baselios_c/_jcr_content/parsys/textimage/image.img.jpg/1697535500286.jpg
+2025-04-26 22:55:06,181 - INFO - Found biography text (15 paragraphs)
+2025-04-26 22:55:06,182 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:06,182 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_baselios_c.html
+2025-04-26 22:55:06,183 - INFO - Saved progress (10/135) to data/raw/cardinals_progress_20250426_225506.json
+2025-04-26 22:55:07,185 - INFO - Processing biography 11/135 (BATTAGLIA Card. Domenico)
+2025-04-26 22:55:07,185 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_battaglia_d.html
+2025-04-26 22:55:07,360 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_battaglia_d.html
+2025-04-26 22:55:07,364 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_battaglia_d/_jcr_content/parsys/textimage/image.img.jpg/1739980759421.jpg
+2025-04-26 22:55:07,364 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:07,364 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_battaglia_d.html
+2025-04-26 22:55:08,370 - INFO - Processing biography 12/135 (BESSI DOGBO Card. Ignace)
+2025-04-26 22:55:08,370 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bessi_i.html
+2025-04-26 22:55:08,563 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_bessi_i.html
+2025-04-26 22:55:08,565 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bessi_i/_jcr_content/parsys/textimage/image.img.jpg/1739979035074.jpg
+2025-04-26 22:55:08,565 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:08,566 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bessi_i.html
+2025-04-26 22:55:09,571 - INFO - Processing biography 13/135 (BETORI Card. Giuseppe)
+2025-04-26 22:55:09,571 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_betori_g.html
+2025-04-26 22:55:09,747 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_betori_g.html
+2025-04-26 22:55:09,751 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_betori_g/_jcr_content/parsys/textimage/image.img.jpg/1713516445968.jpg
+2025-04-26 22:55:09,751 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:55:09,751 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:09,751 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_betori_g.html
+2025-04-26 22:55:10,753 - INFO - Processing biography 14/135 (BO Card. Charles Maung, S.D.B.)
+2025-04-26 22:55:10,753 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bo_cm_c.html
+2025-04-26 22:55:10,920 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_bo_cm_c.html
+2025-04-26 22:55:10,924 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bo_cm_c/_jcr_content/parsys/textimage/image.img.jpg/1713532429798.jpg
+2025-04-26 22:55:10,924 - INFO - Found biography text (12 paragraphs)
+2025-04-26 22:55:10,924 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:10,924 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bo_cm_c.html
+2025-04-26 22:55:11,930 - INFO - Processing biography 15/135 (BOKALIC IGLIC Card. Vicente, C.M.)
+2025-04-26 22:55:11,930 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bokalic_v.html
+2025-04-26 22:55:12,079 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_bokalic_v.html
+2025-04-26 22:55:12,082 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bokalic_v/_jcr_content/parsys/textimage/image.img.jpg/1739977409034.jpg
+2025-04-26 22:55:12,082 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:12,082 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bokalic_v.html
+2025-04-26 22:55:13,087 - INFO - Processing biography 16/135 (BOZANIĆ Card. Josip)
+2025-04-26 22:55:13,088 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bozanic_j.html
+2025-04-26 22:55:13,238 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_bozanic_j.html
+2025-04-26 22:55:13,241 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bozanic_j/_jcr_content/parsys/textimage/image.img.jpg/1682610237094.jpg
+2025-04-26 22:55:13,241 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:55:13,241 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:13,241 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bozanic_j.html
+2025-04-26 22:55:14,247 - INFO - Processing biography 17/135 (BRENES SOLÓRZANO Card. Leopoldo José)
+2025-04-26 22:55:14,248 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_brenes-solorzano_lj.html
+2025-04-26 22:55:14,399 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_brenes-solorzano_lj.html
+2025-04-26 22:55:14,403 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_brenes-solorzano_lj/_jcr_content/parsys/textimage/image.img.jpg/1618822457055.jpg
+2025-04-26 22:55:14,404 - INFO - Found biography text (7 paragraphs)
+2025-04-26 22:55:14,404 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_brenes-solorzano_lj.html
+2025-04-26 22:55:15,410 - INFO - Processing biography 18/135 (BRISLIN Card. Stephen)
+2025-04-26 22:55:15,410 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_brislin_s.html
+2025-04-26 22:55:15,577 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_brislin_s.html
+2025-04-26 22:55:15,579 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_brislin_s/_jcr_content/parsys/textimage/image.img.jpg/1696503231977.jpg
+2025-04-26 22:55:15,579 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:55:15,579 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:15,579 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_brislin_s.html
+2025-04-26 22:55:16,585 - INFO - Processing biography 19/135 (BURKE Card. Raymond Leo)
+2025-04-26 22:55:16,585 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_burke_rl.html
+2025-04-26 22:55:16,756 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_burke_rl.html
+2025-04-26 22:55:16,759 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_burke_rl/_jcr_content/parsys/textimage/image.img.jpg/1713532748393.jpg
+2025-04-26 22:55:16,759 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:55:16,759 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:16,759 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_burke_rl.html
+2025-04-26 22:55:17,761 - INFO - Processing biography 20/135 (BUSTILLO Card. François-Xavier, O.F.M. Conv.)
+2025-04-26 22:55:17,761 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bustillo_fx.html
+2025-04-26 22:55:17,928 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_bustillo_fx.html
+2025-04-26 22:55:17,932 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bustillo_fx/_jcr_content/parsys/textimage/image.img.jpg/1696513731552.jpg
+2025-04-26 22:55:17,932 - INFO - Found biography text (7 paragraphs)
+2025-04-26 22:55:17,932 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:17,932 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bustillo_fx.html
+2025-04-26 22:55:17,933 - INFO - Saved progress (20/135) to data/raw/cardinals_progress_20250426_225517.json
+2025-04-26 22:55:18,939 - INFO - Processing biography 21/135 (BYCHOK Card. Mykola, C.SS.R.)
+2025-04-26 22:55:18,939 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bychok_m.html
+2025-04-26 22:55:19,095 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_bychok_m.html
+2025-04-26 22:55:19,101 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bychok_m/_jcr_content/parsys/textimage/image.img.jpg/1739980022624.jpg
+2025-04-26 22:55:19,102 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:19,102 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_bychok_m.html
+2025-04-26 22:55:20,107 - INFO - Processing biography 22/135 (CABRERA HERRERA Card. Luis Gerardo, O.F.M.)
+2025-04-26 22:55:20,107 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cabrera_g.html
+2025-04-26 22:55:20,265 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_cabrera_g.html
+2025-04-26 22:55:20,268 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cabrera_g/_jcr_content/parsys/textimage/image.img.jpg/1739977613924.jpg
+2025-04-26 22:55:20,268 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:20,268 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cabrera_g.html
+2025-04-26 22:55:21,273 - INFO - Processing biography 23/135 (CAÑIZARES LLOVERA Card. Antonio)
+2025-04-26 22:55:21,273 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_canizares-llovera_a.html
+2025-04-26 22:55:21,424 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_canizares-llovera_a.html
+2025-04-26 22:55:21,427 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_canizares-llovera_a/_jcr_content/parsys/textimage/image.img.jpg/1713533045166.jpg
+2025-04-26 22:55:21,427 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:55:21,427 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_canizares-llovera_a.html
+2025-04-26 22:55:22,432 - INFO - Processing biography 24/135 (CANTONI Card. Oscar)
+2025-04-26 22:55:22,432 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cantoni_o.html
+2025-04-26 22:55:22,622 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_cantoni_o.html
+2025-04-26 22:55:22,625 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cantoni_o/_jcr_content/parsys/textimage/image.img.jpg/1665647188878.jpg
+2025-04-26 22:55:22,625 - INFO - Found biography text (7 paragraphs)
+2025-04-26 22:55:22,625 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:22,625 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cantoni_o.html
+2025-04-26 22:55:23,630 - INFO - Processing biography 25/135 (CASTILLO MATTASOGLIO Card. Carlos Gustavo)
+2025-04-26 22:55:23,630 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_castillo_cg.html
+2025-04-26 22:55:23,789 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_castillo_cg.html
+2025-04-26 22:55:23,794 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_castillo_cg/_jcr_content/parsys/textimage/image.img.jpg/1739981010588.jpg
+2025-04-26 22:55:23,794 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:23,794 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_castillo_cg.html
+2025-04-26 22:55:24,795 - INFO - Processing biography 26/135 (CHOMALÍ GARIB Card. Fernando Natalio)
+2025-04-26 22:55:24,796 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_chomali_fn.html
+2025-04-26 22:55:24,956 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_chomali_fn.html
+2025-04-26 22:55:24,959 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_chomali_fn/_jcr_content/parsys/textimage/image.img.jpg/1739977756578.jpg
+2025-04-26 22:55:24,959 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:24,959 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_chomali_fn.html
+2025-04-26 22:55:25,964 - INFO - Processing biography 27/135 (CHOW SAU-YAN Card. Stephen, S.I.)
+2025-04-26 22:55:25,964 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_chowsauyan_s.html
+2025-04-26 22:55:26,120 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_chowsauyan_s.html
+2025-04-26 22:55:26,126 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_chowsauyan_s/_jcr_content/parsys/textimage/image.img.jpg/1696515956225.jpg
+2025-04-26 22:55:26,126 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:55:26,126 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:26,126 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_chowsauyan_s.html
+2025-04-26 22:55:27,129 - INFO - Processing biography 28/135 (CLEMENTE Card. Manuel)
+2025-04-26 22:55:27,129 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_clemente_m.html
+2025-04-26 22:55:27,273 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_clemente_m.html
+2025-04-26 22:55:27,275 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_clemente_m/_jcr_content/parsys/textimage/image.img.jpg/1692258511398.jpg
+2025-04-26 22:55:27,276 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:55:27,276 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:27,276 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_clemente_m.html
+2025-04-26 22:55:28,281 - INFO - Processing biography 29/135 (COBO CANO Card. José)
+2025-04-26 22:55:28,281 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cobocano_j.html
+2025-04-26 22:55:28,440 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_cobocano_j.html
+2025-04-26 22:55:28,444 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cobocano_j/_jcr_content/parsys/textimage/image.img.jpg/1709293405014.jpg
+2025-04-26 22:55:28,444 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:55:28,444 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:28,444 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cobocano_j.html
+2025-04-26 22:55:29,446 - INFO - Processing biography 30/135 (COLLINS Card. Thomas Christopher)
+2025-04-26 22:55:29,447 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_collins_tc.html
+2025-04-26 22:55:29,632 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_collins_tc.html
+2025-04-26 22:55:29,638 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_collins_tc/_jcr_content/parsys/textimage/image.img.jpg/1679580697925.jpg
+2025-04-26 22:55:29,638 - INFO - Found biography text (12 paragraphs)
+2025-04-26 22:55:29,639 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:29,639 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_collins_tc.html
+2025-04-26 22:55:29,642 - INFO - Saved progress (30/135) to data/raw/cardinals_progress_20250426_225529.json
+2025-04-26 22:55:30,648 - INFO - Processing biography 31/135 (COSTA Card. Paulo Ceza)
+2025-04-26 22:55:30,648 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_costa_pc.html
+2025-04-26 22:55:30,832 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_costa_pc.html
+2025-04-26 22:55:30,836 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_costa_pc/_jcr_content/parsys/textimage/image.img.jpg/1665647883378.jpg
+2025-04-26 22:55:30,836 - INFO - Found biography text (6 paragraphs)
+2025-04-26 22:55:30,836 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:30,836 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_costa_pc.html
+2025-04-26 22:55:31,841 - INFO - Processing biography 32/135 (COUTTS Card. Joseph)
+2025-04-26 22:55:31,842 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_coutts_j.html
+2025-04-26 22:55:31,994 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_coutts_j.html
+2025-04-26 22:55:31,996 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_coutts_j/_jcr_content/parsys/textimage/image.img.jpg/1713602402433.jpg
+2025-04-26 22:55:31,996 - INFO - Found biography text (6 paragraphs)
+2025-04-26 22:55:31,996 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_coutts_j.html
+2025-04-26 22:55:32,998 - INFO - Processing biography 33/135 (CUPICH Card. Blase J.)
+2025-04-26 22:55:32,999 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cupich_b.html
+2025-04-26 22:55:33,160 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_cupich_b.html
+2025-04-26 22:55:33,165 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cupich_b/_jcr_content/parsys/textimage/image.img.jpg/1713602547382.jpg
+2025-04-26 22:55:33,165 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:55:33,165 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:33,165 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_cupich_b.html
+2025-04-26 22:55:34,171 - INFO - Processing biography 34/135 (CZERNY Card. Michael, S.I.)
+2025-04-26 22:55:34,171 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_czeny_m.html
+2025-04-26 22:55:34,346 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_czeny_m.html
+2025-04-26 22:55:34,351 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_czeny_m/_jcr_content/parsys/textimage/image.img.jpg/1708608537316.jpg
+2025-04-26 22:55:34,352 - INFO - Found biography text (13 paragraphs)
+2025-04-26 22:55:34,352 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:34,352 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_czeny_m.html
+2025-04-26 22:55:35,357 - INFO - Processing biography 35/135 (DAVID Card. Pablo Virgilio Siongco)
+2025-04-26 22:55:35,358 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_david_s.html
+2025-04-26 22:55:35,550 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_david_s.html
+2025-04-26 22:55:35,555 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_david_s/_jcr_content/parsys/textimage/image.img.jpg/1739978146406.jpg
+2025-04-26 22:55:35,556 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:55:35,556 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_david_s.html
+2025-04-26 22:55:36,557 - INFO - Processing biography 36/135 (DE DONATIS Card. Angelo)
+2025-04-26 22:55:36,557 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_de-donatis_a.html
+2025-04-26 22:55:36,723 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_de-donatis_a.html
+2025-04-26 22:55:36,733 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_de-donatis_a/_jcr_content/parsys/textimage/image.img.jpg/1712567583858.jpg
+2025-04-26 22:55:36,734 - INFO - Found biography text (13 paragraphs)
+2025-04-26 22:55:36,734 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:36,734 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_de-donatis_a.html
+2025-04-26 22:55:37,739 - INFO - Processing biography 37/135 (DE KESEL Card. Jozef)
+2025-04-26 22:55:37,740 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_de-kesel_j.html
+2025-04-26 22:55:37,889 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_de-kesel_j.html
+2025-04-26 22:55:37,894 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_de-kesel_j/_jcr_content/parsys/textimage/image.img.jpg/1713602956598.jpg
+2025-04-26 22:55:37,894 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:55:37,894 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:37,894 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_de-kesel_j.html
+2025-04-26 22:55:38,899 - INFO - Processing biography 38/135 (DEW Card. John Atcherley)
+2025-04-26 22:55:38,900 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dew_ja.html
+2025-04-26 22:55:39,070 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_dew_ja.html
+2025-04-26 22:55:39,075 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dew_ja/_jcr_content/parsys/textimage/image.img.jpg/1685254443610.jpg
+2025-04-26 22:55:39,076 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:55:39,076 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:39,076 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dew_ja.html
+2025-04-26 22:55:40,081 - INFO - Processing biography 39/135 (DiNARDO Card. Daniel Nicholas)
+2025-04-26 22:55:40,081 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dinardo_dn.html
+2025-04-26 22:55:40,237 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_dinardo_dn.html
+2025-04-26 22:55:40,241 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dinardo_dn/_jcr_content/parsys/textimage/image.img.jpg/1699711249625.jpg
+2025-04-26 22:55:40,241 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:55:40,241 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dinardo_dn.html
+2025-04-26 22:55:41,246 - INFO - Processing biography 40/135 (DO CARMO DA SILVA Card. Virgilio, S.D.B.)
+2025-04-26 22:55:41,247 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_docarmodasilva_v.html
+2025-04-26 22:55:41,411 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_docarmodasilva_v.html
+2025-04-26 22:55:41,416 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_docarmodasilva_v/_jcr_content/parsys/textimage/image.img.jpg/1665647376505.jpg
+2025-04-26 22:55:41,416 - INFO - Found biography text (6 paragraphs)
+2025-04-26 22:55:41,416 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:41,416 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_docarmodasilva_v.html
+2025-04-26 22:55:41,420 - INFO - Saved progress (40/135) to data/raw/cardinals_progress_20250426_225541.json
+2025-04-26 22:55:42,425 - INFO - Processing biography 41/135 (DOLAN Card. Timothy Michael)
+2025-04-26 22:55:42,426 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dolan_tm.html
+2025-04-26 22:55:42,581 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_dolan_tm.html
+2025-04-26 22:55:42,588 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dolan_tm/_jcr_content/parsys/textimage/image.img.jpg/1713603117285.jpg
+2025-04-26 22:55:42,588 - INFO - Found biography text (13 paragraphs)
+2025-04-26 22:55:42,588 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:42,589 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dolan_tm.html
+2025-04-26 22:55:43,590 - INFO - Processing biography 42/135 (EIJK Card. Willem Jacobus)
+2025-04-26 22:55:43,591 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_eijk_wj.html
+2025-04-26 22:55:43,751 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_eijk_wj.html
+2025-04-26 22:55:43,756 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_eijk_wj/_jcr_content/parsys/textimage/image.img.jpg/1646476551568.jpg
+2025-04-26 22:55:43,756 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:43,756 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_eijk_wj.html
+2025-04-26 22:55:44,761 - INFO - Processing biography 43/135 (ERDŐ Card. Péter)
+2025-04-26 22:55:44,762 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_erdo_p.html
+2025-04-26 22:55:44,936 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_erdo_p.html
+2025-04-26 22:55:44,942 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_erdo_p/_jcr_content/parsys/textimage/image.img.jpg/1713603509337.jpg
+2025-04-26 22:55:44,942 - INFO - Found biography text (14 paragraphs)
+2025-04-26 22:55:44,942 - INFO - Found list 1 with 3 items
+2025-04-26 22:55:44,942 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_erdo_p.html
+2025-04-26 22:55:45,947 - INFO - Processing biography 44/135 (FARRELL Card. Kevin Joseph)
+2025-04-26 22:55:45,948 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_farrell_k.html
+2025-04-26 22:55:46,103 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_farrell_k.html
+2025-04-26 22:55:46,107 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_farrell_k/_jcr_content/parsys/textimage/image.img.jpg/1713605571773.jpg
+2025-04-26 22:55:46,108 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:55:46,108 - INFO - Found list 1 with 3 items
+2025-04-26 22:55:46,108 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_farrell_k.html
+2025-04-26 22:55:47,113 - INFO - Processing biography 45/135 (FERNÁNDEZ Card. Víctor Manuel)
+2025-04-26 22:55:47,113 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_fernandez_vm.html
+2025-04-26 22:55:47,272 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_fernandez_vm.html
+2025-04-26 22:55:47,276 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_fernandez_vm/_jcr_content/parsys/textimage/image.img.jpg/1706175587234.jpg
+2025-04-26 22:55:47,277 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:47,277 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:47,277 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_fernandez_vm.html
+2025-04-26 22:55:48,282 - INFO - Processing biography 46/135 (FERNÁNDEZ ARTIME Card. Ángel, S.D.B.)
+2025-04-26 22:55:48,282 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_fernandezartime_a.html
+2025-04-26 22:55:48,445 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_fernandezartime_a.html
+2025-04-26 22:55:48,449 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_fernandezartime_a/_jcr_content/parsys/textimage/image.img.jpg/1710522809468.jpg
+2025-04-26 22:55:48,450 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:48,450 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:48,450 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_fernandezartime_a.html
+2025-04-26 22:55:49,455 - INFO - Processing biography 47/135 (FERRÃO Card. Filipe Neri António Sebastião do Rosário)
+2025-04-26 22:55:49,456 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ferrao_f.html
+2025-04-26 22:55:49,642 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_ferrao_f.html
+2025-04-26 22:55:49,647 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ferrao_f/_jcr_content/parsys/textimage/image.img.jpg/1714035172757.jpg
+2025-04-26 22:55:49,648 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:55:49,648 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:49,648 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ferrao_f.html
+2025-04-26 22:55:50,653 - INFO - Processing biography 48/135 (FILONI Card. Fernando)
+2025-04-26 22:55:50,654 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_filoni_f.html
+2025-04-26 22:55:50,818 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_filoni_f.html
+2025-04-26 22:55:50,824 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_filoni_f/_jcr_content/parsys/textimage/image.img.jpg/1659087484241.jpg
+2025-04-26 22:55:50,824 - INFO - Found biography text (14 paragraphs)
+2025-04-26 22:55:50,825 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:50,825 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_filoni_f.html
+2025-04-26 22:55:51,829 - INFO - Processing biography 49/135 (FRANCIS Card. Sebastian)
+2025-04-26 22:55:51,829 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_francis_s.html
+2025-04-26 22:55:51,994 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_francis_s.html
+2025-04-26 22:55:51,997 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_francis_s/_jcr_content/parsys/textimage/image.img.jpg/1696516216119.jpg
+2025-04-26 22:55:51,997 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:51,997 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:51,997 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_francis_s.html
+2025-04-26 22:55:53,002 - INFO - Processing biography 50/135 (FURTADO Card. Arlindo GOMES)
+2025-04-26 22:55:53,002 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_furtado-gomes_a.html
+2025-04-26 22:55:53,145 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_furtado-gomes_a.html
+2025-04-26 22:55:53,150 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_furtado-gomes_a/_jcr_content/parsys/textimage/image.img.jpg/1659087541778.jpg
+2025-04-26 22:55:53,150 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:53,150 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:53,150 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_furtado-gomes_a.html
+2025-04-26 22:55:53,152 - INFO - Saved progress (50/135) to data/raw/cardinals_progress_20250426_225553.json
+2025-04-26 22:55:54,157 - INFO - Processing biography 51/135 (GAMBETTI Card. Mauro, O.F.M. Conv.)
+2025-04-26 22:55:54,157 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gambetti_m.html
+2025-04-26 22:55:54,310 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_gambetti_m.html
+2025-04-26 22:55:54,315 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gambetti_m/_jcr_content/parsys/textimage/image.img.jpg/1685956805544.jpg
+2025-04-26 22:55:54,316 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:55:54,316 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:54,316 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gambetti_m.html
+2025-04-26 22:55:55,322 - INFO - Processing biography 52/135 (GARCÍA RODRÍGUEZ Card. Juan de la Caridad)
+2025-04-26 22:55:55,322 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_garciarodriguez_j.html
+2025-04-26 22:55:55,497 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_garciarodriguez_j.html
+2025-04-26 22:55:55,504 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_garciarodriguez_j/_jcr_content/parsys/textimage/image.img.jpg/1659087650654.jpg
+2025-04-26 22:55:55,505 - INFO - Found biography text (13 paragraphs)
+2025-04-26 22:55:55,505 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:55,505 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_garciarodriguez_j.html
+2025-04-26 22:55:56,510 - INFO - Processing biography 53/135 (GOH Card. William Seng Chye)
+2025-04-26 22:55:56,510 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_goh_w.html
+2025-04-26 22:55:56,657 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_goh_w.html
+2025-04-26 22:55:56,660 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_goh_w/_jcr_content/parsys/textimage/image.img.jpg/1665647742202.jpg
+2025-04-26 22:55:56,660 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:56,660 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:56,660 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_goh_w.html
+2025-04-26 22:55:57,662 - INFO - Processing biography 54/135 (GRECH Card. Mario)
+2025-04-26 22:55:57,662 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_grech_m.html
+2025-04-26 22:55:57,820 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_grech_m.html
+2025-04-26 22:55:57,822 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_grech_m/_jcr_content/parsys/textimage/image.img.jpg/1714038276828.jpg
+2025-04-26 22:55:57,822 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:55:57,822 - INFO - Found list 1 with 2 items
+2025-04-26 22:55:57,822 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_grech_m.html
+2025-04-26 22:55:58,828 - INFO - Processing biography 55/135 (GREGORY Card. Wilton Daniel)
+2025-04-26 22:55:58,828 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gregory_wd.html
+2025-04-26 22:55:58,981 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_gregory_wd.html
+2025-04-26 22:55:58,984 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gregory_wd/_jcr_content/parsys/textimage/image.img.jpg/1736258634898.jpg
+2025-04-26 22:55:58,984 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:55:58,984 - INFO - Found list 1 with 1 items
+2025-04-26 22:55:58,984 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gregory_wd.html
+2025-04-26 22:55:59,990 - INFO - Processing biography 56/135 (GUGEROTTI Card. Claudio)
+2025-04-26 22:55:59,990 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gugerotti_c.html
+2025-04-26 22:56:00,143 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_gugerotti_c.html
+2025-04-26 22:56:00,146 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gugerotti_c/_jcr_content/parsys/textimage/image.img.jpg/1714038073015.jpg
+2025-04-26 22:56:00,146 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:56:00,146 - INFO - Found list 1 with 3 items
+2025-04-26 22:56:00,146 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_gugerotti_c.html
+2025-04-26 22:56:01,151 - INFO - Processing biography 57/135 (HARVEY Card. James Michael)
+2025-04-26 22:56:01,151 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_harvey_jm.html
+2025-04-26 22:56:01,311 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_harvey_jm.html
+2025-04-26 22:56:01,316 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_harvey_jm/_jcr_content/parsys/textimage/image.img.jpg/1719997256080.jpg
+2025-04-26 22:56:01,317 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:01,317 - INFO - Found list 1 with 3 items
+2025-04-26 22:56:01,317 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_harvey_jm.html
+2025-04-26 22:56:02,318 - INFO - Processing biography 58/135 (HOLLERICH  Card. Jean-Claude, S.I.)
+2025-04-26 22:56:02,319 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_hollerich_jc.html
+2025-04-26 22:56:02,488 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_hollerich_jc.html
+2025-04-26 22:56:02,494 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_hollerich_jc/_jcr_content/parsys/textimage/image.img.jpg/1680793778193.jpg
+2025-04-26 22:56:02,494 - INFO - Found biography text (17 paragraphs)
+2025-04-26 22:56:02,495 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:02,495 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_hollerich_jc.html
+2025-04-26 22:56:03,497 - INFO - Processing biography 59/135 (KAMBANDA Card. Antoine)
+2025-04-26 22:56:03,498 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kambanda_a.html
+2025-04-26 22:56:03,663 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_kambanda_a.html
+2025-04-26 22:56:03,669 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kambanda_a/_jcr_content/parsys/textimage/image.img.jpg/1659088115827.jpg
+2025-04-26 22:56:03,670 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:56:03,670 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:03,670 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kambanda_a.html
+2025-04-26 22:56:04,675 - INFO - Processing biography 60/135 (KIKUCHI Card. Tarcisio Isao, S.V.D.)
+2025-04-26 22:56:04,676 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kikuchi_i.html
+2025-04-26 22:56:04,865 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_kikuchi_i.html
+2025-04-26 22:56:04,868 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kikuchi_i/_jcr_content/parsys/textimage/image.img.jpg/1739977925935.jpg
+2025-04-26 22:56:04,868 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:04,868 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kikuchi_i.html
+2025-04-26 22:56:04,870 - INFO - Saved progress (60/135) to data/raw/cardinals_progress_20250426_225604.json
+2025-04-26 22:56:05,876 - INFO - Processing biography 61/135 (KOCH Card. Kurt)
+2025-04-26 22:56:05,876 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_koch_k.html
+2025-04-26 22:56:06,057 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_koch_k.html
+2025-04-26 22:56:06,060 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_koch_k/_jcr_content/parsys/textimage/image.img.jpg/1714471173097.jpg
+2025-04-26 22:56:06,061 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:06,061 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:06,061 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_koch_k.html
+2025-04-26 22:56:07,062 - INFO - Processing biography 62/135 (KOOVAKAD Card. George Jacob)
+2025-04-26 22:56:07,062 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_koovakad_g.html
+2025-04-26 22:56:07,214 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_koovakad_g.html
+2025-04-26 22:56:07,216 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_koovakad_g/_jcr_content/parsys/textimage/image.img.jpg/1739980585760.jpg
+2025-04-26 22:56:07,217 - INFO - Found biography text (3 paragraphs)
+2025-04-26 22:56:07,217 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_koovakad_g.html
+2025-04-26 22:56:08,217 - INFO - Processing biography 63/135 (KOVITHAVANIJ Card. Francis Xavier Kriengsak)
+2025-04-26 22:56:08,217 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kovithavanij_fxk.html
+2025-04-26 22:56:08,417 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_kovithavanij_fxk.html
+2025-04-26 22:56:08,423 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kovithavanij_fxk/_jcr_content/parsys/textimage/image.img.jpg/1719484022514.jpg
+2025-04-26 22:56:08,423 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:08,423 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:08,423 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kovithavanij_fxk.html
+2025-04-26 22:56:09,428 - INFO - Processing biography 64/135 (KRAJEWSKI Card. Konrad)
+2025-04-26 22:56:09,428 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_krajewski_k.html
+2025-04-26 22:56:09,591 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_krajewski_k.html
+2025-04-26 22:56:09,596 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_krajewski_k/_jcr_content/parsys/textimage/image.img.jpg/1714471345674.jpg
+2025-04-26 22:56:09,596 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:09,596 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:09,596 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_krajewski_k.html
+2025-04-26 22:56:10,599 - INFO - Processing biography 65/135 (KUTWA Card. Jean-Pierre)
+2025-04-26 22:56:10,599 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kutwa_jp.html
+2025-04-26 22:56:10,764 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_kutwa_jp.html
+2025-04-26 22:56:10,767 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kutwa_jp/_jcr_content/parsys/textimage/image.img.jpg/1659088603302.jpg
+2025-04-26 22:56:10,767 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:10,767 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:10,767 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_kutwa_jp.html
+2025-04-26 22:56:11,772 - INFO - Processing biography 66/135 (LACROIX Card. Gérald Cyprien)
+2025-04-26 22:56:11,772 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lacroix_gc.html
+2025-04-26 22:56:11,944 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_lacroix_gc.html
+2025-04-26 22:56:11,948 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lacroix_gc/_jcr_content/parsys/textimage/image.img.jpg/1716886404376.jpg
+2025-04-26 22:56:11,949 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:11,949 - INFO - Found list 1 with 3 items
+2025-04-26 22:56:11,949 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lacroix_gc.html
+2025-04-26 22:56:12,954 - INFO - Processing biography 67/135 (LANGLOIS Card. Chibly)
+2025-04-26 22:56:12,955 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_langlois_c.html
+2025-04-26 22:56:13,166 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_langlois_c.html
+2025-04-26 22:56:13,171 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_langlois_c/_jcr_content/parsys/textimage/image.img.jpg/1646647757395.jpg
+2025-04-26 22:56:13,171 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:13,171 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:13,171 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_langlois_c.html
+2025-04-26 22:56:14,176 - INFO - Processing biography 68/135 (LEO Card. Frank)
+2025-04-26 22:56:14,177 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_leo_f.html
+2025-04-26 22:56:14,336 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_leo_f.html
+2025-04-26 22:56:14,343 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_leo_f/_jcr_content/parsys/textimage/image.img.jpg/1739979768965.jpg
+2025-04-26 22:56:14,344 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:14,344 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_leo_f.html
+2025-04-26 22:56:15,346 - INFO - Processing biography 69/135 (LOJUDICE Card. Augusto Paolo)
+2025-04-26 22:56:15,347 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lojudice_ap.html
+2025-04-26 22:56:15,512 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_lojudice_ap.html
+2025-04-26 22:56:15,517 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lojudice_ap/_jcr_content/parsys/textimage/image.img.jpg/1685956770557.jpg
+2025-04-26 22:56:15,518 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:15,518 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lojudice_ap.html
+2025-04-26 22:56:16,523 - INFO - Processing biography 70/135 (LÓPEZ ROMERO Card. Cristóbal, S.D.B.)
+2025-04-26 22:56:16,523 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lopezromero_c.html
+2025-04-26 22:56:16,682 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_lopezromero_c.html
+2025-04-26 22:56:16,689 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lopezromero_c/_jcr_content/parsys/textimage/image.img.jpg/1659089089690.jpg
+2025-04-26 22:56:16,689 - INFO - Found biography text (4 paragraphs)
+2025-04-26 22:56:16,689 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:16,689 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_lopezromero_c.html
+2025-04-26 22:56:16,693 - INFO - Saved progress (70/135) to data/raw/cardinals_progress_20250426_225616.json
+2025-04-26 22:56:17,699 - INFO - Processing biography 71/135 (MAEDA Card. Thomas Aquino Manyo)
+2025-04-26 22:56:17,699 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_maeda_tam.html
+2025-04-26 22:56:17,874 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_maeda_tam.html
+2025-04-26 22:56:17,877 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_maeda_tam/_jcr_content/parsys/textimage/image.img.jpg/1716889323624.jpg
+2025-04-26 22:56:17,877 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:17,877 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:17,877 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_maeda_tam.html
+2025-04-26 22:56:18,882 - INFO - Processing biography 72/135 (MAFI Card. Soane Patita Paini)
+2025-04-26 22:56:18,882 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mafi_spp.html
+2025-04-26 22:56:19,048 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_mafi_spp.html
+2025-04-26 22:56:19,052 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mafi_spp/_jcr_content/parsys/textimage/image.img.jpg/1659089178638.jpg
+2025-04-26 22:56:19,052 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:56:19,054 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:19,054 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mafi_spp.html
+2025-04-26 22:56:20,059 - INFO - Processing biography 73/135 (MAKRICKAS Card. Rolandas)
+2025-04-26 22:56:20,060 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_makrickas_r.html
+2025-04-26 22:56:20,234 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_makrickas_r.html
+2025-04-26 22:56:20,239 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_makrickas_r/_jcr_content/parsys/textimage/image.img.jpg/1739979902601.jpg
+2025-04-26 22:56:20,239 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:20,239 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_makrickas_r.html
+2025-04-26 22:56:21,242 - INFO - Processing biography 74/135 (MAMBERTI Card. Dominique)
+2025-04-26 22:56:21,243 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mamberti_d.html
+2025-04-26 22:56:21,406 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_mamberti_d.html
+2025-04-26 22:56:21,412 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mamberti_d/_jcr_content/parsys/textimage/image.img.jpg/1659089339245.jpg
+2025-04-26 22:56:21,413 - INFO - Found biography text (7 paragraphs)
+2025-04-26 22:56:21,413 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:21,413 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mamberti_d.html
+2025-04-26 22:56:22,419 - INFO - Processing biography 75/135 (MARENGO Card. Giorgio, I.M.C.)
+2025-04-26 22:56:22,419 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marengo_g.html
+2025-04-26 22:56:22,595 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_marengo_g.html
+2025-04-26 22:56:22,600 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marengo_g/_jcr_content/parsys/textimage/image.img.jpg/1665647020082.jpg
+2025-04-26 22:56:22,600 - INFO - Found biography text (5 paragraphs)
+2025-04-26 22:56:22,600 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:22,600 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marengo_g.html
+2025-04-26 22:56:23,605 - INFO - Processing biography 76/135 (MARTÍNEZ FLORES Card. Adalberto)
+2025-04-26 22:56:23,606 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_martinezflores_a.html
+2025-04-26 22:56:23,771 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_martinezflores_a.html
+2025-04-26 22:56:23,776 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_martinezflores_a/_jcr_content/parsys/textimage/image.img.jpg/1665648261651.jpg
+2025-04-26 22:56:23,776 - INFO - Found biography text (5 paragraphs)
+2025-04-26 22:56:23,776 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:23,777 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_martinezflores_a.html
+2025-04-26 22:56:24,782 - INFO - Processing biography 77/135 (MARTO dos SANTOS Card. António Augusto)
+2025-04-26 22:56:24,783 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marto_aa.html
+2025-04-26 22:56:24,939 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_marto_aa.html
+2025-04-26 22:56:24,947 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marto_aa/_jcr_content/parsys/textimage/image.img.jpg/1717749963210.jpg
+2025-04-26 22:56:24,947 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:24,947 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:24,947 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marto_aa.html
+2025-04-26 22:56:25,952 - INFO - Processing biography 78/135 (MARX Card. Reinhard)
+2025-04-26 22:56:25,953 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marx_r.html
+2025-04-26 22:56:26,101 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_marx_r.html
+2025-04-26 22:56:26,108 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marx_r/_jcr_content/parsys/textimage/image.img.jpg/1659089482633.jpg
+2025-04-26 22:56:26,108 - INFO - Found biography text (13 paragraphs)
+2025-04-26 22:56:26,109 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:26,109 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_marx_r.html
+2025-04-26 22:56:27,114 - INFO - Processing biography 79/135 (MATHIEU Card. Dominique Joseph, O.F.M. Conv.)
+2025-04-26 22:56:27,115 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mathieu_j.html
+2025-04-26 22:56:27,261 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_mathieu_j.html
+2025-04-26 22:56:27,266 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mathieu_j/_jcr_content/parsys/textimage/image.img.jpg/1739979358026.jpg
+2025-04-26 22:56:27,266 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:27,266 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mathieu_j.html
+2025-04-26 22:56:28,267 - INFO - Processing biography 80/135 (McELROY Card. Robert Walter)
+2025-04-26 22:56:28,268 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mcelroy_rw.html
+2025-04-26 22:56:28,420 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_mcelroy_rw.html
+2025-04-26 22:56:28,426 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mcelroy_rw/_jcr_content/parsys/textimage/image.img.jpg/1665647661471.jpg
+2025-04-26 22:56:28,427 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:56:28,427 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:28,427 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mcelroy_rw.html
+2025-04-26 22:56:28,431 - INFO - Saved progress (80/135) to data/raw/cardinals_progress_20250426_225628.json
+2025-04-26 22:56:29,432 - INFO - Processing biography 81/135 (MENDONÇA Card. José Tolentino de)
+2025-04-26 22:56:29,432 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mendoncacalacade_jt.html
+2025-04-26 22:56:29,588 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_mendoncacalacade_jt.html
+2025-04-26 22:56:29,593 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mendoncacalacade_jt/_jcr_content/parsys/textimage/image.img.jpg/1717750117103.jpg
+2025-04-26 22:56:29,593 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:29,593 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:29,593 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mendoncacalacade_jt.html
+2025-04-26 22:56:30,598 - INFO - Processing biography 82/135 (MONTENEGRO Card. Francesco)
+2025-04-26 22:56:30,600 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_montenegro_f.html
+2025-04-26 22:56:30,755 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_montenegro_f.html
+2025-04-26 22:56:30,760 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_montenegro_f/_jcr_content/parsys/textimage/image.img.jpg/1659089676470.jpg
+2025-04-26 22:56:30,761 - INFO - Found biography text (15 paragraphs)
+2025-04-26 22:56:30,761 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:30,761 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_montenegro_f.html
+2025-04-26 22:56:31,762 - INFO - Processing biography 83/135 (MULLA Card. Stephen Ameyu Martin)
+2025-04-26 22:56:31,763 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mulla_sam.html
+2025-04-26 22:56:31,924 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_mulla_sam.html
+2025-04-26 22:56:31,929 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mulla_sam/_jcr_content/parsys/textimage/image.img.jpg/1717750350497.jpg
+2025-04-26 22:56:31,930 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:56:31,931 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:31,931 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_mulla_sam.html
+2025-04-26 22:56:32,934 - INFO - Processing biography 84/135 (MÜLLER Card. Gerhard Ludwig)
+2025-04-26 22:56:32,934 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_muller_gl.html
+2025-04-26 22:56:33,084 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_muller_gl.html
+2025-04-26 22:56:33,086 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_muller_gl/_jcr_content/parsys/textimage/image.img.jpg/1719997331121.jpg
+2025-04-26 22:56:33,086 - INFO - Found biography text (16 paragraphs)
+2025-04-26 22:56:33,086 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:33,086 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_muller_gl.html
+2025-04-26 22:56:34,092 - INFO - Processing biography 85/135 (NEMET Card. Ladislav, S.V.D.)
+2025-04-26 22:56:34,092 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nemet_l.html
+2025-04-26 22:56:34,240 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_nemet_l.html
+2025-04-26 22:56:34,244 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nemet_l/_jcr_content/parsys/textimage/image.img.jpg/1739978373955.jpg
+2025-04-26 22:56:34,245 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:34,245 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nemet_l.html
+2025-04-26 22:56:35,250 - INFO - Processing biography 86/135 (NICHOLS Card. Gerard Vincent)
+2025-04-26 22:56:35,250 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nichols_gv.html
+2025-04-26 22:56:35,408 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_nichols_gv.html
+2025-04-26 22:56:35,413 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nichols_gv/_jcr_content/parsys/textimage/image.img.jpg/1659089770894.jpg
+2025-04-26 22:56:35,413 - INFO - Found biography text (13 paragraphs)
+2025-04-26 22:56:35,413 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:35,413 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nichols_gv.html
+2025-04-26 22:56:36,418 - INFO - Processing biography 87/135 (NJUE Card. John)
+2025-04-26 22:56:36,419 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_njue_j.html
+2025-04-26 22:56:36,585 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_njue_j.html
+2025-04-26 22:56:36,591 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_njue_j/_jcr_content/parsys/textimage/image.img.jpg/1713343823762.jpg
+2025-04-26 22:56:36,591 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:36,592 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:36,592 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_njue_j.html
+2025-04-26 22:56:37,594 - INFO - Processing biography 88/135 (NYCZ Card. Kazimierz)
+2025-04-26 22:56:37,595 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nycz_k.html
+2025-04-26 22:56:37,750 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_nycz_k.html
+2025-04-26 22:56:37,755 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nycz_k/_jcr_content/parsys/textimage/image.img.jpg/1718966612166.jpg
+2025-04-26 22:56:37,755 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:37,756 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:37,756 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nycz_k.html
+2025-04-26 22:56:38,758 - INFO - Processing biography 89/135 (NZAPALAINGA Card. Dieudonné)
+2025-04-26 22:56:38,759 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nzapalainga_d.html
+2025-04-26 22:56:38,923 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_nzapalainga_d.html
+2025-04-26 22:56:38,929 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nzapalainga_d/_jcr_content/parsys/textimage/image.img.jpg/1698321488755.jpg
+2025-04-26 22:56:38,929 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:38,929 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:38,929 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_nzapalainga_d.html
+2025-04-26 22:56:39,930 - INFO - Processing biography 90/135 (OKPALEKE Card. Peter Ebere)
+2025-04-26 22:56:39,931 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_okpaleke_p.html
+2025-04-26 22:56:40,099 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_okpaleke_p.html
+2025-04-26 22:56:40,103 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_okpaleke_p/_jcr_content/parsys/textimage/image.img.jpg/1718966792142.jpg
+2025-04-26 22:56:40,104 - INFO - Found biography text (6 paragraphs)
+2025-04-26 22:56:40,104 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:40,104 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_okpaleke_p.html
+2025-04-26 22:56:40,109 - INFO - Saved progress (90/135) to data/raw/cardinals_progress_20250426_225640.json
+2025-04-26 22:56:41,110 - INFO - Processing biography 91/135 (OMELLA Card. Juan José)
+2025-04-26 22:56:41,110 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_omella_jj.html
+2025-04-26 22:56:41,291 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_omella_jj.html
+2025-04-26 22:56:41,300 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_omella_jj/_jcr_content/parsys/textimage/image.img.jpg/1718968648231.jpg
+2025-04-26 22:56:41,300 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:41,300 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:41,300 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_omella_jj.html
+2025-04-26 22:56:42,305 - INFO - Processing biography 92/135 (OSORO SIERRA Card. Carlos)
+2025-04-26 22:56:42,307 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_osoro_sierra_c.html
+2025-04-26 22:56:42,461 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_osoro_sierra_c.html
+2025-04-26 22:56:42,466 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_osoro_sierra_c/_jcr_content/parsys/textimage/image.img.jpg/1718969079814.jpg
+2025-04-26 22:56:42,467 - INFO - Found biography text (12 paragraphs)
+2025-04-26 22:56:42,467 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:42,467 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_osoro_sierra_c.html
+2025-04-26 22:56:43,472 - INFO - Processing biography 93/135 (OUÉDRAOGO Card. Nakellentuba Philippe)
+2025-04-26 22:56:43,472 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ouedraogo_pn.html
+2025-04-26 22:56:43,638 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_ouedraogo_pn.html
+2025-04-26 22:56:43,642 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ouedraogo_pn/_jcr_content/parsys/textimage/image.img.jpg/1718969158709.jpg
+2025-04-26 22:56:43,642 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:56:43,642 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:43,642 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ouedraogo_pn.html
+2025-04-26 22:56:44,644 - INFO - Processing biography 94/135 (PAROLIN Card. Pietro)
+2025-04-26 22:56:44,644 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_parolin_p.html
+2025-04-26 22:56:44,795 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_parolin_p.html
+2025-04-26 22:56:44,799 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_parolin_p/_jcr_content/parsys/textimage/image.img.jpg/1719044840523.jpg
+2025-04-26 22:56:44,800 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:44,800 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:44,800 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_parolin_p.html
+2025-04-26 22:56:45,805 - INFO - Processing biography 95/135 (PATABENDIGE DON Card. Albert Malcolm Ranjith)
+2025-04-26 22:56:45,805 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_patabendige-don_amr.html
+2025-04-26 22:56:46,954 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_patabendige-don_amr.html
+2025-04-26 22:56:46,957 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_patabendige-don_amr/_jcr_content/parsys/textimage/image.img.jpg/1659093206741.jpg
+2025-04-26 22:56:46,957 - INFO - Found biography text (12 paragraphs)
+2025-04-26 22:56:46,958 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:46,958 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_patabendige-don_amr.html
+2025-04-26 22:56:47,963 - INFO - Processing biography 96/135 (PETROCCHI Card. Giuseppe)
+2025-04-26 22:56:47,963 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_petrocchi_g.html
+2025-04-26 22:56:48,119 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_petrocchi_g.html
+2025-04-26 22:56:48,123 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_petrocchi_g/_jcr_content/parsys/textimage/image.img.jpg/1719045040211.jpg
+2025-04-26 22:56:48,124 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:48,124 - INFO - Found list 1 with 3 items
+2025-04-26 22:56:48,124 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_petrocchi_g.html
+2025-04-26 22:56:49,127 - INFO - Processing biography 97/135 (PIERRE Christophe Louis Yves Georges)
+2025-04-26 22:56:49,127 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_pierre_clyg.html
+2025-04-26 22:56:49,277 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_pierre_clyg.html
+2025-04-26 22:56:49,280 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_pierre_clyg/_jcr_content/parsys/textimage/image.img.jpg/1719045322428.jpg
+2025-04-26 22:56:49,280 - INFO - Found biography text (12 paragraphs)
+2025-04-26 22:56:49,280 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:49,280 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_pierre_clyg.html
+2025-04-26 22:56:50,284 - INFO - Processing biography 98/135 (PIZZABALLA Card. Pierbattista, O.F.M.)
+2025-04-26 22:56:50,284 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_pizzaballa_p.html
+2025-04-26 22:56:50,430 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_pizzaballa_p.html
+2025-04-26 22:56:50,432 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_pizzaballa_p/_jcr_content/parsys/textimage/image.img.jpg/1719045358236.jpg
+2025-04-26 22:56:50,432 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:56:50,432 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:50,432 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_pizzaballa_p.html
+2025-04-26 22:56:51,437 - INFO - Processing biography 99/135 (POLI Card. Mario Aurelio)
+2025-04-26 22:56:51,437 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_poli_ma.html
+2025-04-26 22:56:51,585 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_poli_ma.html
+2025-04-26 22:56:51,588 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_poli_ma/_jcr_content/parsys/textimage/image.img.jpg/1719045754225.jpg
+2025-04-26 22:56:51,588 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:51,588 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:51,588 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_poli_ma.html
+2025-04-26 22:56:52,592 - INFO - Processing biography 100/135 (POOLA Card. Anthony)
+2025-04-26 22:56:52,593 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_poola_a.html
+2025-04-26 22:56:52,744 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_poola_a.html
+2025-04-26 22:56:52,747 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_poola_a/_jcr_content/parsys/textimage/image.img.jpg/1665648191788.jpg
+2025-04-26 22:56:52,747 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:56:52,747 - INFO - Found list 1 with 1 items
+2025-04-26 22:56:52,747 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_poola_a.html
+2025-04-26 22:56:52,750 - INFO - Saved progress (100/135) to data/raw/cardinals_progress_20250426_225652.json
+2025-04-26 22:56:53,756 - INFO - Processing biography 101/135 (PREVOST Card. Robert Francis, O.S.A.)
+2025-04-26 22:56:53,756 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_prevost_rf.html
+2025-04-26 22:56:53,927 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_prevost_rf.html
+2025-04-26 22:56:53,930 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_prevost_rf/_jcr_content/parsys/textimage/image.img.jpg/1719047031807.jpg
+2025-04-26 22:56:53,930 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:56:53,930 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:53,930 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_prevost_rf.html
+2025-04-26 22:56:54,936 - INFO - Processing biography 102/135 (PULJIĆ Card. Vinko)
+2025-04-26 22:56:54,936 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_puljic_v.html
+2025-04-26 22:56:55,100 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_puljic_v.html
+2025-04-26 22:56:55,107 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_puljic_v/_jcr_content/parsys/textimage/image.img.jpg/1643454154954.jpg
+2025-04-26 22:56:55,107 - INFO - Found biography text (19 paragraphs)
+2025-04-26 22:56:55,107 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_puljic_v.html
+2025-04-26 22:56:56,113 - INFO - Processing biography 103/135 (RADCLIFFE Card. Timothy Peter Joseph, O.P.)
+2025-04-26 22:56:56,113 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_radcliffe_t.html
+2025-04-26 22:56:56,270 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_radcliffe_t.html
+2025-04-26 22:56:56,273 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_radcliffe_t/_jcr_content/parsys/textimage/image.img.jpg/1739980235974.jpg
+2025-04-26 22:56:56,273 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:56,273 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_radcliffe_t.html
+2025-04-26 22:56:57,278 - INFO - Processing biography 104/135 (RAMAZZINI IMERI Card. Álvaro Leonel)
+2025-04-26 22:56:57,279 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ramazziniimeri_al.html
+2025-04-26 22:56:57,444 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_ramazziniimeri_al.html
+2025-04-26 22:56:57,449 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ramazziniimeri_al/_jcr_content/parsys/textimage/image.img.jpg/1587379895245.jpg
+2025-04-26 22:56:57,449 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:56:57,449 - INFO - Found list 1 with 2 items
+2025-04-26 22:56:57,449 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ramazziniimeri_al.html
+2025-04-26 22:56:58,454 - INFO - Processing biography 105/135 (REINA Card. Baldassare)
+2025-04-26 22:56:58,454 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_reina_b.html
+2025-04-26 22:56:58,621 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_reina_b.html
+2025-04-26 22:56:58,629 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_reina_b/_jcr_content/parsys/textimage/image.img.jpg/1739979636437.jpg
+2025-04-26 22:56:58,630 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:58,630 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_reina_b.html
+2025-04-26 22:56:59,635 - INFO - Processing biography 106/135 (REPOLE Card. Roberto)
+2025-04-26 22:56:59,635 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_repole_r.html
+2025-04-26 22:56:59,797 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_repole_r.html
+2025-04-26 22:56:59,800 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_repole_r/_jcr_content/parsys/textimage/image.img.jpg/1739979505332.jpg
+2025-04-26 22:56:59,800 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:56:59,800 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_repole_r.html
+2025-04-26 22:57:00,805 - INFO - Processing biography 107/135 (RIBAT Card. John, M.S.C.)
+2025-04-26 22:57:00,806 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ribat_j.html
+2025-04-26 22:57:00,966 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_ribat_j.html
+2025-04-26 22:57:00,969 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ribat_j/_jcr_content/parsys/textimage/image.img.jpg/1719047639874.jpg
+2025-04-26 22:57:00,970 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:00,970 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ribat_j.html
+2025-04-26 22:57:01,975 - INFO - Processing biography 108/135 (ROBLES ORTEGA Card. Francisco)
+2025-04-26 22:57:01,975 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_robles-ortega_f.html
+2025-04-26 22:57:02,136 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_robles-ortega_f.html
+2025-04-26 22:57:02,139 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_robles-ortega_f/_jcr_content/parsys/textimage/image.img.jpg/1719048707241.jpg
+2025-04-26 22:57:02,139 - INFO - Found biography text (12 paragraphs)
+2025-04-26 22:57:02,139 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:02,139 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_robles-ortega_f.html
+2025-04-26 22:57:03,144 - INFO - Processing biography 109/135 (ROCHA Card. Sérgio da)
+2025-04-26 22:57:03,145 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rocha-da_s.html
+2025-04-26 22:57:03,308 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_rocha-da_s.html
+2025-04-26 22:57:03,315 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rocha-da_s/_jcr_content/parsys/textimage/image.img.jpg/1680793980021.jpg
+2025-04-26 22:57:03,315 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:03,315 - INFO - Found list 1 with 3 items
+2025-04-26 22:57:03,315 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rocha-da_s.html
+2025-04-26 22:57:04,320 - INFO - Processing biography 110/135 (ROCHE Card. Arthur)
+2025-04-26 22:57:04,321 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_roche_a.html
+2025-04-26 22:57:04,478 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_roche_a.html
+2025-04-26 22:57:04,484 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_roche_a/_jcr_content/parsys/textimage/image.img.jpg/1677743498266.jpg
+2025-04-26 22:57:04,484 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:04,485 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:04,486 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_roche_a.html
+2025-04-26 22:57:04,489 - INFO - Saved progress (110/135) to data/raw/cardinals_progress_20250426_225704.json
+2025-04-26 22:57:05,494 - INFO - Processing biography 111/135 (ROSSI Card. Ángel Sixto, S.I.)
+2025-04-26 22:57:05,495 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rossi_as.html
+2025-04-26 22:57:05,678 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_rossi_as.html
+2025-04-26 22:57:05,683 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rossi_as/_jcr_content/parsys/textimage/image.img.jpg/1719049390311.jpg
+2025-04-26 22:57:05,683 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:57:05,683 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:05,684 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rossi_as.html
+2025-04-26 22:57:06,689 - INFO - Processing biography 112/135 (RUEDA APARICIO Card. Luis José)
+2025-04-26 22:57:06,689 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ruedaaparicio_lj.html
+2025-04-26 22:57:06,845 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_ruedaaparicio_lj.html
+2025-04-26 22:57:06,855 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ruedaaparicio_lj/_jcr_content/parsys/textimage/image.img.jpg/1696517289126.jpg
+2025-04-26 22:57:06,855 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:06,855 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:06,855 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_ruedaaparicio_lj.html
+2025-04-26 22:57:07,857 - INFO - Processing biography 113/135 (RUGAMBWA Card. Protase)
+2025-04-26 22:57:07,857 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rugambwa_p.html
+2025-04-26 22:57:08,005 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_rugambwa_p.html
+2025-04-26 22:57:08,008 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rugambwa_p/_jcr_content/parsys/textimage/image.img.jpg/1719049507874.jpg
+2025-04-26 22:57:08,008 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:08,008 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:08,008 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rugambwa_p.html
+2025-04-26 22:57:09,013 - INFO - Processing biography 114/135 (RYŁKO Card. Stanisław)
+2025-04-26 22:57:09,014 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rylko_s.html
+2025-04-26 22:57:09,174 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_rylko_s.html
+2025-04-26 22:57:09,181 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rylko_s/_jcr_content/parsys/textimage/image.img.jpg/1719050539389.jpg
+2025-04-26 22:57:09,181 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:09,181 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:09,181 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rylko_s.html
+2025-04-26 22:57:10,186 - INFO - Processing biography 115/135 (RYŚ Card. Grzegorz)
+2025-04-26 22:57:10,187 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rys_g.html
+2025-04-26 22:57:10,355 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_rys_g.html
+2025-04-26 22:57:10,358 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rys_g/_jcr_content/parsys/textimage/image.img.jpg/1719050632380.jpg
+2025-04-26 22:57:10,358 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:57:10,358 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:10,358 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_rys_g.html
+2025-04-26 22:57:11,363 - INFO - Processing biography 116/135 (SAKO Card. Louis Raphaël)
+2025-04-26 22:57:11,364 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sako_l.html
+2025-04-26 22:57:11,523 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_sako_l.html
+2025-04-26 22:57:11,529 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sako_l/_jcr_content/parsys/textimage/image.img.jpg/1719052875696.jpg
+2025-04-26 22:57:11,529 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:11,529 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:11,530 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sako_l.html
+2025-04-26 22:57:12,535 - INFO - Processing biography 117/135 (SARAH Card. Robert)
+2025-04-26 22:57:12,535 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sarah_r.html
+2025-04-26 22:57:12,722 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_sarah_r.html
+2025-04-26 22:57:12,725 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sarah_r/_jcr_content/parsys/textimage/image.img.jpg/1719053273446.jpg
+2025-04-26 22:57:12,726 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:12,726 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:12,726 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sarah_r.html
+2025-04-26 22:57:13,731 - INFO - Processing biography 118/135 (SCHERER Card. Odilo Pedro)
+2025-04-26 22:57:13,731 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_scherer_op.html
+2025-04-26 22:57:13,896 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_scherer_op.html
+2025-04-26 22:57:13,901 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_scherer_op/_jcr_content/parsys/textimage/image.img.jpg/1719057129055.jpg
+2025-04-26 22:57:13,901 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:13,901 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:13,901 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_scherer_op.html
+2025-04-26 22:57:14,906 - INFO - Processing biography 119/135 (SEMERARO Card. Marcello)
+2025-04-26 22:57:14,906 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_semeraro_m.html
+2025-04-26 22:57:15,064 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_semeraro_m.html
+2025-04-26 22:57:15,070 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_semeraro_m/_jcr_content/parsys/textimage/image.img.jpg/1719387140118.jpg
+2025-04-26 22:57:15,070 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:15,070 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:15,070 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_semeraro_m.html
+2025-04-26 22:57:16,076 - INFO - Processing biography 120/135 (SOURAPHIEL Card. Berhaneyesus Demerew, C.M.)
+2025-04-26 22:57:16,076 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_souraphiel_bd.html
+2025-04-26 22:57:16,336 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_souraphiel_bd.html
+2025-04-26 22:57:16,340 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_souraphiel_bd/_jcr_content/parsys/textimage/image.img.jpg/1659096126687.jpg
+2025-04-26 22:57:16,341 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:57:16,341 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:16,341 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_souraphiel_bd.html
+2025-04-26 22:57:16,344 - INFO - Saved progress (120/135) to data/raw/cardinals_progress_20250426_225716.json
+2025-04-26 22:57:17,350 - INFO - Processing biography 121/135 (SPENGLER Card. Jaime, O.F.M.)
+2025-04-26 22:57:17,351 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_spengler_j.html
+2025-04-26 22:57:17,507 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_spengler_j.html
+2025-04-26 22:57:17,515 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_spengler_j/_jcr_content/parsys/textimage/image.img.jpg/1739978649665.jpg
+2025-04-26 22:57:17,516 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:57:17,516 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_spengler_j.html
+2025-04-26 22:57:18,521 - INFO - Processing biography 122/135 (STEINER Card. Leonardo Ulrich, O.F.M.)
+2025-04-26 22:57:18,521 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_steiner_l.html
+2025-04-26 22:57:18,680 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_steiner_l.html
+2025-04-26 22:57:18,683 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_steiner_l/_jcr_content/parsys/textimage/image.img.jpg/1719387408356.jpg
+2025-04-26 22:57:18,683 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:57:18,683 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:18,683 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_steiner_l.html
+2025-04-26 22:57:19,688 - INFO - Processing biography 123/135 (STURLA BERHOUET Card. Daniel Fernando, S.D.B.)
+2025-04-26 22:57:19,689 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sturla-berhouet_df.html
+2025-04-26 22:57:19,842 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_sturla-berhouet_df.html
+2025-04-26 22:57:19,847 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sturla-berhouet_df/_jcr_content/parsys/textimage/image.img.jpg/1719387820422.jpg
+2025-04-26 22:57:19,847 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:19,847 - INFO - Found list 1 with 3 items
+2025-04-26 22:57:19,847 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_sturla-berhouet_df.html
+2025-04-26 22:57:20,852 - INFO - Processing biography 124/135 (SUHARYO HARDJOATMODJO Card. Ignatius)
+2025-04-26 22:57:20,853 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_suharyohardjomatmodjo_i.html
+2025-04-26 22:57:21,021 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_suharyohardjomatmodjo_i.html
+2025-04-26 22:57:21,027 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_suharyohardjomatmodjo_i/_jcr_content/parsys/textimage/image.img.jpg/1719387889094.jpg
+2025-04-26 22:57:21,027 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:57:21,028 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:21,028 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_suharyohardjomatmodjo_i.html
+2025-04-26 22:57:22,032 - INFO - Processing biography 125/135 (TAGLE Card. Luis Antonio Gokim)
+2025-04-26 22:57:22,032 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tagle_la.html
+2025-04-26 22:57:22,210 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_tagle_la.html
+2025-04-26 22:57:22,215 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tagle_la/_jcr_content/parsys/textimage/image.img.jpg/1719388232491.jpg
+2025-04-26 22:57:22,215 - INFO - Found biography text (15 paragraphs)
+2025-04-26 22:57:22,215 - INFO - Found list 1 with 4 items
+2025-04-26 22:57:22,215 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tagle_la.html
+2025-04-26 22:57:23,221 - INFO - Processing biography 126/135 (TEMPESTA Card. Orani João, O.Cist.)
+2025-04-26 22:57:23,221 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tempesta_oj.html
+2025-04-26 22:57:23,374 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_tempesta_oj.html
+2025-04-26 22:57:23,381 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tempesta_oj/_jcr_content/parsys/textimage/image.img.jpg/1719388553201.jpg
+2025-04-26 22:57:23,381 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:23,381 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:23,381 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tempesta_oj.html
+2025-04-26 22:57:24,386 - INFO - Processing biography 127/135 (TOBIN Card. Joseph William, C.SS.R.)
+2025-04-26 22:57:24,387 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tobin_j.html
+2025-04-26 22:57:24,570 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_tobin_j.html
+2025-04-26 22:57:24,575 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tobin_j/_jcr_content/parsys/textimage/image.img.jpg/1659097000286.jpg
+2025-04-26 22:57:24,575 - INFO - Found biography text (9 paragraphs)
+2025-04-26 22:57:24,576 - INFO - Found list 1 with 3 items
+2025-04-26 22:57:24,576 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tobin_j.html
+2025-04-26 22:57:25,581 - INFO - Processing biography 128/135 (TSARAHAZANA Card. Désiré)
+2025-04-26 22:57:25,581 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tsarahazana_d.html
+2025-04-26 22:57:25,738 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_tsarahazana_d.html
+2025-04-26 22:57:25,745 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tsarahazana_d/_jcr_content/parsys/textimage/image.img.jpg/1659097100141.jpg
+2025-04-26 22:57:25,746 - INFO - Found biography text (8 paragraphs)
+2025-04-26 22:57:25,746 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:25,747 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tsarahazana_d.html
+2025-04-26 22:57:26,751 - INFO - Processing biography 129/135 (TSCHERRIG Card. Emil Paul)
+2025-04-26 22:57:26,751 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tscherrig_ep.html
+2025-04-26 22:57:26,914 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_tscherrig_ep.html
+2025-04-26 22:57:26,918 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tscherrig_ep/_jcr_content/parsys/textimage/image.img.jpg/1716043796551.jpg
+2025-04-26 22:57:26,918 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:26,918 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:26,918 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_tscherrig_ep.html
+2025-04-26 22:57:27,921 - INFO - Processing biography 130/135 (TURKSON Card. Peter Kodwo Appiah)
+2025-04-26 22:57:27,922 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_turkson_pka.html
+2025-04-26 22:57:28,081 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_turkson_pka.html
+2025-04-26 22:57:28,092 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_turkson_pka/_jcr_content/parsys/textimage/image.img.jpg/1719388919304.jpg
+2025-04-26 22:57:28,092 - INFO - Found biography text (19 paragraphs)
+2025-04-26 22:57:28,092 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:28,092 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_turkson_pka.html
+2025-04-26 22:57:28,096 - INFO - Saved progress (130/135) to data/raw/cardinals_progress_20250426_225728.json
+2025-04-26 22:57:29,097 - INFO - Processing biography 131/135 (VESCO Card. Jean-Paul, O.P.)
+2025-04-26 22:57:29,098 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_vesco_j.html
+2025-04-26 22:57:29,265 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_vesco_j.html
+2025-04-26 22:57:29,268 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_vesco_j/_jcr_content/parsys/textimage/image.img.jpg/1739979192207.jpg
+2025-04-26 22:57:29,268 - INFO - Found biography text (2 paragraphs)
+2025-04-26 22:57:29,268 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_vesco_j.html
+2025-04-26 22:57:30,273 - INFO - Processing biography 132/135 (WOELKI Card. Rainer Maria)
+2025-04-26 22:57:30,273 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_woelki_rm.html
+2025-04-26 22:57:30,553 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_woelki_rm.html
+2025-04-26 22:57:30,561 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_woelki_rm/_jcr_content/parsys/textimage/image.img.jpg/1719392137168.jpg
+2025-04-26 22:57:30,561 - INFO - Found biography text (10 paragraphs)
+2025-04-26 22:57:30,561 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:30,562 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_woelki_rm.html
+2025-04-26 22:57:31,563 - INFO - Processing biography 133/135 (YOU HEUNG-SIK Card. Lazzaro)
+2025-04-26 22:57:31,564 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_youheung-sik_l.html
+2025-04-26 22:57:31,725 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_youheung-sik_l.html
+2025-04-26 22:57:31,729 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_youheung-sik_l/_jcr_content/parsys/textimage/image.img.jpg/1719392340572.jpg
+2025-04-26 22:57:31,729 - INFO - Found biography text (7 paragraphs)
+2025-04-26 22:57:31,729 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:31,729 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_youheung-sik_l.html
+2025-04-26 22:57:32,732 - INFO - Processing biography 134/135 (ZENARI Card. Mario)
+2025-04-26 22:57:32,732 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_zenari_m.html
+2025-04-26 22:57:32,903 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_zenari_m.html
+2025-04-26 22:57:32,906 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_zenari_m/_jcr_content/parsys/textimage/image.img.jpg/1659090158626.jpg
+2025-04-26 22:57:32,906 - INFO - Found biography text (7 paragraphs)
+2025-04-26 22:57:32,907 - INFO - Found list 1 with 1 items
+2025-04-26 22:57:32,907 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_zenari_m.html
+2025-04-26 22:57:33,912 - INFO - Processing biography 135/135 (ZUPPI Card. Matteo Maria)
+2025-04-26 22:57:33,912 - INFO - Extracting biography from https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_zuppi_mm.html
+2025-04-26 22:57:34,072 - INFO - Saved HTML content to data/raw/bio_cardinali_bio_zuppi_mm.html
+2025-04-26 22:57:34,074 - INFO - Found photo URL: https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_zuppi_mm/_jcr_content/parsys/textimage/image.img.jpg/1719392621168.jpg
+2025-04-26 22:57:34,075 - INFO - Found biography text (11 paragraphs)
+2025-04-26 22:57:34,075 - INFO - Found list 1 with 2 items
+2025-04-26 22:57:34,075 - INFO - Completed biography extraction for https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_zuppi_mm.html
+2025-04-26 22:57:34,078 - INFO - Saved progress (135/135) to data/raw/cardinals_progress_20250426_225734.json
+2025-04-26 22:57:35,092 - INFO - Extraction complete. Processed 135 cardinals
+2025-04-26 22:57:35,092 - INFO - Final data saved to data/raw/cardinals_complete_20250426_225735.json

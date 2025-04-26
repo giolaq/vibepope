@@ -1,0 +1,5 @@
+2025-04-26 22:36:13,309 - INFO - Starting cardinal data extraction
+2025-04-26 22:36:13,597 - INFO - Saved HTML content to data/raw/vatican_cardinals.html
+2025-04-26 22:36:13,630 - INFO - Extraction complete. Found 0 cardinals.
+2025-04-26 22:36:13,631 - INFO - Found 0 cardinals
+2025-04-26 22:36:13,631 - INFO - Data saved to data/raw/cardinals_20250426_223613.json

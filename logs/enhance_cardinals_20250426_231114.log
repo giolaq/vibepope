@@ -1,0 +1,328 @@
+2025-04-26 23:11:14,860 - INFO - Starting cardinal data enhancement
+2025-04-26 23:11:14,861 - INFO - Loaded 135 cardinals from data/backup/cardinals.json
+2025-04-26 23:11:14,861 - INFO - Enhancing data for ADVINCULA Card. Jose Fuerte (1/135) - Simplified to: Advincula Fuerte
+2025-04-26 23:11:14,861 - INFO - Searching Wikipedia for: Advincula Jose Fuerte (simple: Advincula Fuerte)
+2025-04-26 23:11:15,459 - WARNING - No Wikipedia results found for Advincula Jose Fuerte
+2025-04-26 23:11:15,459 - INFO - Searching news for: Advincula Fuerte cardinal Philippines news
+2025-04-26 23:11:15,990 - INFO - Found 0 news articles for Advincula Fuerte
+2025-04-26 23:11:15,991 - INFO - Searching Google for: Advincula Fuerte cardinal Philippines
+2025-04-26 23:11:16,138 - INFO - Found 0 Google results for Advincula Fuerte
+2025-04-26 23:11:18,142 - INFO - Enhancing data for AGUIAR ALVES Card. Américo Manuel (2/135) - Simplified to: Aguiar Manuel
+2025-04-26 23:11:18,142 - INFO - Searching Wikipedia for: Aguiar Alves Américo Manuel (simple: Aguiar Manuel)
+2025-04-26 23:11:18,709 - WARNING - No Wikipedia results found for Aguiar Alves Américo Manuel
+2025-04-26 23:11:18,709 - INFO - Searching news for: Aguiar Manuel cardinal Portugal news
+2025-04-26 23:11:19,157 - INFO - Found 0 news articles for Aguiar Manuel
+2025-04-26 23:11:19,157 - INFO - Searching Google for: Aguiar Manuel cardinal Portugal
+2025-04-26 23:11:19,228 - INFO - Found 0 Google results for Aguiar Manuel
+2025-04-26 23:11:21,230 - INFO - Enhancing data for AGUIAR RETES Card. Carlos (3/135) - Simplified to: Aguiar Carlos
+2025-04-26 23:11:21,231 - INFO - Searching Wikipedia for: Aguiar Retes Carlos (simple: Aguiar Carlos)
+2025-04-26 23:11:21,622 - WARNING - No Wikipedia results found for Aguiar Retes Carlos
+2025-04-26 23:11:21,623 - INFO - Searching news for: Aguiar Carlos cardinal Mexico news
+2025-04-26 23:11:22,028 - INFO - Found 0 news articles for Aguiar Carlos
+2025-04-26 23:11:22,028 - INFO - Searching Google for: Aguiar Carlos cardinal Mexico
+2025-04-26 23:11:22,109 - INFO - Found 0 Google results for Aguiar Carlos
+2025-04-26 23:11:24,115 - INFO - Enhancing data for AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap. (4/135) - Simplified to: Ambongo Cap.
+2025-04-26 23:11:24,115 - INFO - Searching Wikipedia for: Ambongo BESUNGU_Fridolin O.F.M. Cap. (simple: Ambongo Cap.)
+2025-04-26 23:11:24,658 - WARNING - No Wikipedia results found for Ambongo BESUNGU_Fridolin O.F.M. Cap.
+2025-04-26 23:11:24,659 - INFO - Searching news for: Ambongo Cap. cardinal Democratic Republic of the Congo news
+2025-04-26 23:11:25,172 - INFO - Found 0 news articles for Ambongo Cap.
+2025-04-26 23:11:25,172 - INFO - Searching Google for: Ambongo Cap. cardinal Democratic Republic of the Congo
+2025-04-26 23:11:25,242 - INFO - Found 0 Google results for Ambongo Cap.
+2025-04-26 23:11:27,248 - INFO - Enhancing data for ARBORELIUS Card. Anders, O.C.D., (5/135) - Simplified to: Arborelius O.C.D.
+2025-04-26 23:11:27,248 - INFO - Searching Wikipedia for: Arborelius Anders O.C.D. (simple: Arborelius O.C.D.)
+2025-04-26 23:11:27,738 - WARNING - No Wikipedia results found for Arborelius Anders O.C.D.
+2025-04-26 23:11:27,738 - INFO - Searching news for: Arborelius O.C.D. cardinal Sweden news
+2025-04-26 23:11:28,030 - INFO - Found 0 news articles for Arborelius O.C.D.
+2025-04-26 23:11:28,030 - INFO - Searching Google for: Arborelius O.C.D. cardinal Sweden
+2025-04-26 23:11:28,101 - INFO - Found 0 Google results for Arborelius O.C.D.
+2025-04-26 23:11:30,106 - INFO - Enhancing data for AVELINE Card. Jean-Marc (6/135) - Simplified to: Aveline Jean-Marc
+2025-04-26 23:11:30,107 - INFO - Searching Wikipedia for: Aveline Jean-Marc (simple: Aveline Jean-Marc)
+2025-04-26 23:11:30,471 - WARNING - No Wikipedia results found for Aveline Jean-Marc
+2025-04-26 23:11:30,471 - INFO - Searching news for: Aveline Jean-Marc cardinal France news
+2025-04-26 23:11:30,873 - INFO - Found 0 news articles for Aveline Jean-Marc
+2025-04-26 23:11:30,874 - INFO - Searching Google for: Aveline Jean-Marc cardinal France
+2025-04-26 23:11:30,950 - INFO - Found 0 Google results for Aveline Jean-Marc
+2025-04-26 23:11:32,955 - INFO - Enhancing data for AVIZ Card. João Braz de (7/135) - Simplified to: Aviz de
+2025-04-26 23:11:32,955 - INFO - Searching Wikipedia for: Aviz João Braz de (simple: Aviz de)
+2025-04-26 23:11:33,454 - WARNING - No Wikipedia results found for Aviz João Braz de
+2025-04-26 23:11:33,454 - INFO - Searching news for: Aviz de cardinal Brazil news
+2025-04-26 23:11:33,898 - INFO - Found 0 news articles for Aviz de
+2025-04-26 23:11:33,898 - INFO - Searching Google for: Aviz de cardinal Brazil
+2025-04-26 23:11:33,972 - INFO - Found 0 Google results for Aviz de
+2025-04-26 23:11:35,977 - INFO - Enhancing data for BAGGIO Card. Fabio, C.S. (8/135) - Simplified to: Baggio Fabio
+2025-04-26 23:11:35,977 - INFO - Searching Wikipedia for: Baggio Fabio (simple: Baggio Fabio)
+2025-04-26 23:11:36,341 - WARNING - No Wikipedia results found for Baggio Fabio
+2025-04-26 23:11:36,341 - INFO - Searching news for: Baggio Fabio cardinal Italy news
+2025-04-26 23:11:36,661 - INFO - Found 0 news articles for Baggio Fabio
+2025-04-26 23:11:36,661 - INFO - Searching Google for: Baggio Fabio cardinal Italy
+2025-04-26 23:11:36,733 - INFO - Found 0 Google results for Baggio Fabio
+2025-04-26 23:11:38,736 - INFO - Enhancing data for BARBARIN Card. Philippe (9/135) - Simplified to: Barbarin Philippe
+2025-04-26 23:11:38,736 - INFO - Searching Wikipedia for: Barbarin Philippe (simple: Barbarin Philippe)
+2025-04-26 23:11:39,143 - WARNING - No Wikipedia results found for Barbarin Philippe
+2025-04-26 23:11:39,144 - INFO - Searching news for: Barbarin Philippe cardinal France news
+2025-04-26 23:11:39,541 - INFO - Found 0 news articles for Barbarin Philippe
+2025-04-26 23:11:39,541 - INFO - Searching Google for: Barbarin Philippe cardinal France
+2025-04-26 23:11:39,624 - INFO - Found 0 Google results for Barbarin Philippe
+2025-04-26 23:11:41,630 - INFO - Enhancing data for BASELIOS Card. Cleemis (10/135) - Simplified to: Baselios Cleemis
+2025-04-26 23:11:41,631 - INFO - Searching Wikipedia for: Baselios Cleemis (simple: Baselios Cleemis)
+2025-04-26 23:11:42,442 - INFO - Found Wikipedia information for Baselios Cleemis
+2025-04-26 23:11:42,442 - INFO - Searching news for: Baselios Cleemis cardinal India news
+2025-04-26 23:11:42,853 - INFO - Found 0 news articles for Baselios Cleemis
+2025-04-26 23:11:42,853 - INFO - Searching Google for: Baselios Cleemis cardinal India
+2025-04-26 23:11:42,927 - INFO - Found 0 Google results for Baselios Cleemis
+2025-04-26 23:11:42,928 - INFO - Saved progress (10/135) to data/enhanced/cardinals_enhanced_progress_20250426_231142.json
+2025-04-26 23:11:44,931 - INFO - Enhancing data for BATTAGLIA Card. Domenico (11/135) - Simplified to: Battaglia Domenico
+2025-04-26 23:11:44,931 - INFO - Searching Wikipedia for: Battaglia Domenico (simple: Battaglia Domenico)
+2025-04-26 23:11:45,313 - WARNING - No Wikipedia results found for Battaglia Domenico
+2025-04-26 23:11:45,315 - INFO - Searching news for: Battaglia Domenico cardinal Italy news
+2025-04-26 23:11:45,609 - INFO - Found 0 news articles for Battaglia Domenico
+2025-04-26 23:11:45,609 - INFO - Searching Google for: Battaglia Domenico cardinal Italy
+2025-04-26 23:11:45,690 - INFO - Found 0 Google results for Battaglia Domenico
+2025-04-26 23:11:47,696 - INFO - Enhancing data for BESSI DOGBO Card. Ignace (12/135) - Simplified to: Bessi Ignace
+2025-04-26 23:11:47,696 - INFO - Searching Wikipedia for: Bessi Dogbo Ignace (simple: Bessi Ignace)
+2025-04-26 23:11:48,235 - WARNING - No Wikipedia results found for Bessi Dogbo Ignace
+2025-04-26 23:11:48,235 - INFO - Searching news for: Bessi Ignace cardinal Ivory Coast news
+2025-04-26 23:11:48,692 - INFO - Found 0 news articles for Bessi Ignace
+2025-04-26 23:11:48,693 - INFO - Searching Google for: Bessi Ignace cardinal Ivory Coast
+2025-04-26 23:11:48,779 - INFO - Found 0 Google results for Bessi Ignace
+2025-04-26 23:11:50,782 - INFO - Enhancing data for BETORI Card. Giuseppe (13/135) - Simplified to: Betori Giuseppe
+2025-04-26 23:11:50,782 - INFO - Searching Wikipedia for: Betori Giuseppe (simple: Betori Giuseppe)
+2025-04-26 23:11:51,149 - WARNING - No Wikipedia results found for Betori Giuseppe
+2025-04-26 23:11:51,149 - INFO - Searching news for: Betori Giuseppe cardinal Italy news
+2025-04-26 23:11:51,430 - INFO - Found 0 news articles for Betori Giuseppe
+2025-04-26 23:11:51,430 - INFO - Searching Google for: Betori Giuseppe cardinal Italy
+2025-04-26 23:11:51,502 - INFO - Found 0 Google results for Betori Giuseppe
+2025-04-26 23:11:53,505 - INFO - Enhancing data for BO Card. Charles Maung, S.D.B. (14/135) - Simplified to: Bo Maung
+2025-04-26 23:11:53,505 - INFO - Searching Wikipedia for: Bo Charles Maung (simple: Bo Maung)
+2025-04-26 23:11:54,387 - WARNING - No Wikipedia results found for Bo Charles Maung
+2025-04-26 23:11:54,387 - INFO - Searching news for: Bo Maung cardinal Myanmar news
+2025-04-26 23:11:54,795 - INFO - Found 0 news articles for Bo Maung
+2025-04-26 23:11:54,796 - INFO - Searching Google for: Bo Maung cardinal Myanmar
+2025-04-26 23:11:54,867 - INFO - Found 0 Google results for Bo Maung
+2025-04-26 23:11:56,873 - INFO - Enhancing data for BOKALIC IGLIC Card. Vicente, C.M. (15/135) - Simplified to: Bokalic Vicente
+2025-04-26 23:11:56,873 - INFO - Searching Wikipedia for: Bokalic Iglic Vicente (simple: Bokalic Vicente)
+2025-04-26 23:11:57,394 - WARNING - No Wikipedia results found for Bokalic Iglic Vicente
+2025-04-26 23:11:57,394 - INFO - Searching news for: Bokalic Vicente cardinal Argentina news
+2025-04-26 23:11:57,732 - INFO - Found 0 news articles for Bokalic Vicente
+2025-04-26 23:11:57,732 - INFO - Searching Google for: Bokalic Vicente cardinal Argentina
+2025-04-26 23:11:57,812 - INFO - Found 0 Google results for Bokalic Vicente
+2025-04-26 23:11:59,818 - INFO - Enhancing data for BOZANIĆ Card. Josip (16/135) - Simplified to: Bozanić Josip
+2025-04-26 23:11:59,818 - INFO - Searching Wikipedia for: Bozanić Josip (simple: Bozanić Josip)
+2025-04-26 23:12:00,395 - WARNING - No Wikipedia results found for Bozanić Josip
+2025-04-26 23:12:00,395 - INFO - Searching news for: Bozanić Josip cardinal Croatia news
+2025-04-26 23:12:00,748 - INFO - Found 0 news articles for Bozanić Josip
+2025-04-26 23:12:00,748 - INFO - Searching Google for: Bozanić Josip cardinal Croatia
+2025-04-26 23:12:00,891 - INFO - Found 0 Google results for Bozanić Josip
+2025-04-26 23:12:02,898 - INFO - Enhancing data for BRENES SOLÓRZANO Card. Leopoldo José (17/135) - Simplified to: Brenes José
+2025-04-26 23:12:02,898 - INFO - Searching Wikipedia for: Brenes Solórzano Leopoldo José (simple: Brenes José)
+2025-04-26 23:12:03,478 - WARNING - No Wikipedia results found for Brenes Solórzano Leopoldo José
+2025-04-26 23:12:03,478 - INFO - Searching news for: Brenes José cardinal Nicaragua news
+2025-04-26 23:12:03,850 - INFO - Found 0 news articles for Brenes José
+2025-04-26 23:12:03,850 - INFO - Searching Google for: Brenes José cardinal Nicaragua
+2025-04-26 23:12:03,923 - INFO - Found 0 Google results for Brenes José
+2025-04-26 23:12:05,928 - INFO - Enhancing data for BRISLIN Card. Stephen (18/135) - Simplified to: Brislin Stephen
+2025-04-26 23:12:05,929 - INFO - Searching Wikipedia for: Brislin Stephen (simple: Brislin Stephen)
+2025-04-26 23:12:06,474 - WARNING - No Wikipedia results found for Brislin Stephen
+2025-04-26 23:12:06,474 - INFO - Searching news for: Brislin Stephen cardinal South Africa news
+2025-04-26 23:12:07,025 - INFO - Found 0 news articles for Brislin Stephen
+2025-04-26 23:12:07,025 - INFO - Searching Google for: Brislin Stephen cardinal South Africa
+2025-04-26 23:12:07,099 - INFO - Found 0 Google results for Brislin Stephen
+2025-04-26 23:12:09,104 - INFO - Enhancing data for BURKE Card. Raymond Leo (19/135) - Simplified to: Burke Leo
+2025-04-26 23:12:09,104 - INFO - Searching Wikipedia for: Burke Raymond Leo (simple: Burke Leo)
+2025-04-26 23:12:09,634 - WARNING - No Wikipedia results found for Burke Raymond Leo
+2025-04-26 23:12:09,635 - INFO - Searching news for: Burke Leo cardinal United States of America news
+2025-04-26 23:12:10,126 - INFO - Found 0 news articles for Burke Leo
+2025-04-26 23:12:10,126 - INFO - Searching Google for: Burke Leo cardinal United States of America
+2025-04-26 23:12:10,198 - INFO - Found 0 Google results for Burke Leo
+2025-04-26 23:12:12,204 - INFO - Enhancing data for BUSTILLO Card. François-Xavier, O.F.M. Conv. (20/135) - Simplified to: Bustillo Conv.
+2025-04-26 23:12:12,204 - INFO - Searching Wikipedia for: Bustillo François-Xavier O.F.M. Conv. (simple: Bustillo Conv.)
+2025-04-26 23:12:12,751 - WARNING - No Wikipedia results found for Bustillo François-Xavier O.F.M. Conv.
+2025-04-26 23:12:12,752 - INFO - Searching news for: Bustillo Conv. cardinal France news
+2025-04-26 23:12:13,146 - INFO - Found 0 news articles for Bustillo Conv.
+2025-04-26 23:12:13,146 - INFO - Searching Google for: Bustillo Conv. cardinal France
+2025-04-26 23:12:13,222 - INFO - Found 0 Google results for Bustillo Conv.
+2025-04-26 23:12:13,224 - INFO - Saved progress (20/135) to data/enhanced/cardinals_enhanced_progress_20250426_231213.json
+2025-04-26 23:12:15,229 - INFO - Enhancing data for BYCHOK Card. Mykola, C.SS.R. (21/135) - Simplified to: Bychok Mykola
+2025-04-26 23:12:15,230 - INFO - Searching Wikipedia for: Bychok Mykola (simple: Bychok Mykola)
+2025-04-26 23:12:16,042 - WARNING - No Wikipedia results found for Bychok Mykola
+2025-04-26 23:12:16,042 - INFO - Searching news for: Bychok Mykola cardinal Australia news
+2025-04-26 23:12:16,821 - INFO - Found 0 news articles for Bychok Mykola
+2025-04-26 23:12:16,821 - INFO - Searching Google for: Bychok Mykola cardinal Australia
+2025-04-26 23:12:16,899 - INFO - Found 0 Google results for Bychok Mykola
+2025-04-26 23:12:18,905 - INFO - Enhancing data for CABRERA HERRERA Card. Luis Gerardo, O.F.M. (22/135) - Simplified to: Cabrera Gerardo
+2025-04-26 23:12:18,905 - INFO - Searching Wikipedia for: Cabrera Herrera Luis Gerardo (simple: Cabrera Gerardo)
+2025-04-26 23:12:19,407 - WARNING - No Wikipedia results found for Cabrera Herrera Luis Gerardo
+2025-04-26 23:12:19,408 - INFO - Searching news for: Cabrera Gerardo cardinal Ecuador news
+2025-04-26 23:12:19,830 - INFO - Found 0 news articles for Cabrera Gerardo
+2025-04-26 23:12:19,830 - INFO - Searching Google for: Cabrera Gerardo cardinal Ecuador
+2025-04-26 23:12:19,902 - INFO - Found 0 Google results for Cabrera Gerardo
+2025-04-26 23:12:21,907 - INFO - Enhancing data for CAÑIZARES LLOVERA Card. Antonio (23/135) - Simplified to: Cañizares Antonio
+2025-04-26 23:12:21,908 - INFO - Searching Wikipedia for: Cañizares Llovera Antonio (simple: Cañizares Antonio)
+2025-04-26 23:12:22,431 - WARNING - No Wikipedia results found for Cañizares Llovera Antonio
+2025-04-26 23:12:22,433 - INFO - Searching news for: Cañizares Antonio cardinal Spain news
+2025-04-26 23:12:22,912 - INFO - Found 0 news articles for Cañizares Antonio
+2025-04-26 23:12:22,912 - INFO - Searching Google for: Cañizares Antonio cardinal Spain
+2025-04-26 23:12:22,990 - INFO - Found 0 Google results for Cañizares Antonio
+2025-04-26 23:12:24,996 - INFO - Enhancing data for CANTONI Card. Oscar (24/135) - Simplified to: Cantoni Oscar
+2025-04-26 23:12:24,996 - INFO - Searching Wikipedia for: Cantoni Oscar (simple: Cantoni Oscar)
+2025-04-26 23:12:25,827 - WARNING - No Wikipedia results found for Cantoni Oscar
+2025-04-26 23:12:25,827 - INFO - Searching news for: Cantoni Oscar cardinal Italy news
+2025-04-26 23:12:26,289 - INFO - Found 0 news articles for Cantoni Oscar
+2025-04-26 23:12:26,289 - INFO - Searching Google for: Cantoni Oscar cardinal Italy
+2025-04-26 23:12:26,679 - INFO - Found 0 Google results for Cantoni Oscar
+2025-04-26 23:12:28,684 - INFO - Enhancing data for CASTILLO MATTASOGLIO Card. Carlos Gustavo (25/135) - Simplified to: Castillo Gustavo
+2025-04-26 23:12:28,685 - INFO - Searching Wikipedia for: Castillo Mattasoglio Carlos Gustavo (simple: Castillo Gustavo)
+2025-04-26 23:12:29,217 - WARNING - No Wikipedia results found for Castillo Mattasoglio Carlos Gustavo
+2025-04-26 23:12:29,217 - INFO - Searching news for: Castillo Gustavo cardinal Peru news
+2025-04-26 23:12:29,664 - INFO - Found 0 news articles for Castillo Gustavo
+2025-04-26 23:12:29,665 - INFO - Searching Google for: Castillo Gustavo cardinal Peru
+2025-04-26 23:12:30,110 - INFO - Found 0 Google results for Castillo Gustavo
+2025-04-26 23:12:32,112 - INFO - Enhancing data for CHOMALÍ GARIB Card. Fernando Natalio (26/135) - Simplified to: Chomalí Natalio
+2025-04-26 23:12:32,112 - INFO - Searching Wikipedia for: Chomalí Garib Fernando Natalio (simple: Chomalí Natalio)
+2025-04-26 23:12:32,643 - WARNING - No Wikipedia results found for Chomalí Garib Fernando Natalio
+2025-04-26 23:12:32,643 - INFO - Searching news for: Chomalí Natalio cardinal Chile news
+2025-04-26 23:12:33,056 - INFO - Found 0 news articles for Chomalí Natalio
+2025-04-26 23:12:33,057 - INFO - Searching Google for: Chomalí Natalio cardinal Chile
+2025-04-26 23:12:33,130 - INFO - Found 0 Google results for Chomalí Natalio
+2025-04-26 23:12:35,135 - INFO - Enhancing data for CHOW SAU-YAN Card. Stephen, S.I. (27/135) - Simplified to: Chow Stephen
+2025-04-26 23:12:35,136 - INFO - Searching Wikipedia for: Chow Sau-Yan Stephen (simple: Chow Stephen)
+2025-04-26 23:12:35,654 - WARNING - No Wikipedia results found for Chow Sau-Yan Stephen
+2025-04-26 23:12:35,655 - INFO - Searching news for: Chow Stephen cardinal Cina news
+2025-04-26 23:12:36,201 - INFO - Found 0 news articles for Chow Stephen
+2025-04-26 23:12:36,201 - INFO - Searching Google for: Chow Stephen cardinal Cina
+2025-04-26 23:12:36,276 - INFO - Found 0 Google results for Chow Stephen
+2025-04-26 23:12:38,282 - INFO - Enhancing data for CLEMENTE Card. Manuel (28/135) - Simplified to: Clemente Manuel
+2025-04-26 23:12:38,282 - INFO - Searching Wikipedia for: Clemente Manuel (simple: Clemente Manuel)
+2025-04-26 23:12:39,268 - INFO - Found Wikipedia information for Clemente Manuel
+2025-04-26 23:12:39,269 - INFO - Searching news for: Clemente Manuel cardinal Portugal news
+2025-04-26 23:12:39,642 - INFO - Found 0 news articles for Clemente Manuel
+2025-04-26 23:12:39,642 - INFO - Searching Google for: Clemente Manuel cardinal Portugal
+2025-04-26 23:12:39,719 - INFO - Found 0 Google results for Clemente Manuel
+2025-04-26 23:12:41,724 - INFO - Enhancing data for COBO CANO Card. José (29/135) - Simplified to: Cobo José
+2025-04-26 23:12:41,725 - INFO - Searching Wikipedia for: Cobo Cano José (simple: Cobo José)
+2025-04-26 23:12:42,263 - WARNING - No Wikipedia results found for Cobo Cano José
+2025-04-26 23:12:42,263 - INFO - Searching news for: Cobo José cardinal Spain news
+2025-04-26 23:12:42,762 - INFO - Found 0 news articles for Cobo José
+2025-04-26 23:12:42,762 - INFO - Searching Google for: Cobo José cardinal Spain
+2025-04-26 23:12:42,856 - INFO - Found 0 Google results for Cobo José
+2025-04-26 23:12:44,862 - INFO - Enhancing data for COLLINS Card. Thomas Christopher (30/135) - Simplified to: Collins Christopher
+2025-04-26 23:12:44,862 - INFO - Searching Wikipedia for: Collins Thomas Christopher (simple: Collins Christopher)
+2025-04-26 23:12:45,401 - WARNING - No Wikipedia results found for Collins Thomas Christopher
+2025-04-26 23:12:45,401 - INFO - Searching news for: Collins Christopher cardinal Canada news
+2025-04-26 23:12:45,926 - INFO - Found 0 news articles for Collins Christopher
+2025-04-26 23:12:45,926 - INFO - Searching Google for: Collins Christopher cardinal Canada
+2025-04-26 23:12:46,000 - INFO - Found 0 Google results for Collins Christopher
+2025-04-26 23:12:46,002 - INFO - Saved progress (30/135) to data/enhanced/cardinals_enhanced_progress_20250426_231246.json
+2025-04-26 23:12:48,003 - INFO - Enhancing data for COSTA Card. Paulo Ceza (31/135) - Simplified to: Costa Ceza
+2025-04-26 23:12:48,003 - INFO - Searching Wikipedia for: Costa Paulo Ceza (simple: Costa Ceza)
+2025-04-26 23:12:48,521 - WARNING - No Wikipedia results found for Costa Paulo Ceza
+2025-04-26 23:12:48,521 - INFO - Searching news for: Costa Ceza cardinal Brazil news
+2025-04-26 23:12:48,883 - INFO - Found 0 news articles for Costa Ceza
+2025-04-26 23:12:48,883 - INFO - Searching Google for: Costa Ceza cardinal Brazil
+2025-04-26 23:12:49,324 - INFO - Found 0 Google results for Costa Ceza
+2025-04-26 23:12:51,329 - INFO - Enhancing data for COUTTS Card. Joseph (32/135) - Simplified to: Coutts Joseph
+2025-04-26 23:12:51,330 - INFO - Searching Wikipedia for: Coutts Joseph (simple: Coutts Joseph)
+2025-04-26 23:12:51,850 - WARNING - No Wikipedia results found for Coutts Joseph
+2025-04-26 23:12:51,851 - INFO - Searching news for: Coutts Joseph cardinal Pakistan news
+2025-04-26 23:12:52,556 - INFO - Found 0 news articles for Coutts Joseph
+2025-04-26 23:12:52,556 - INFO - Searching Google for: Coutts Joseph cardinal Pakistan
+2025-04-26 23:12:52,629 - INFO - Found 0 Google results for Coutts Joseph
+2025-04-26 23:12:54,634 - INFO - Enhancing data for CUPICH Card. Blase J. (33/135) - Simplified to: Cupich J.
+2025-04-26 23:12:54,635 - INFO - Searching Wikipedia for: Cupich Blase J. (simple: Cupich J.)
+2025-04-26 23:12:55,155 - WARNING - No Wikipedia results found for Cupich Blase J.
+2025-04-26 23:12:55,157 - INFO - Searching news for: Cupich J. cardinal United States of America news
+2025-04-26 23:12:55,648 - INFO - Found 0 news articles for Cupich J.
+2025-04-26 23:12:55,648 - INFO - Searching Google for: Cupich J. cardinal United States of America
+2025-04-26 23:12:55,725 - INFO - Found 0 Google results for Cupich J.
+2025-04-26 23:12:57,731 - INFO - Enhancing data for CZERNY Card. Michael, S.I. (34/135) - Simplified to: Czerny Michael
+2025-04-26 23:12:57,732 - INFO - Searching Wikipedia for: Czerny Michael (simple: Czerny Michael)
+2025-04-26 23:12:58,254 - WARNING - No Wikipedia results found for Czerny Michael
+2025-04-26 23:12:58,254 - INFO - Searching news for: Czerny Michael cardinal Canada news
+2025-04-26 23:12:58,725 - INFO - Found 0 news articles for Czerny Michael
+2025-04-26 23:12:58,725 - INFO - Searching Google for: Czerny Michael cardinal Canada
+2025-04-26 23:12:58,799 - INFO - Found 0 Google results for Czerny Michael
+2025-04-26 23:13:00,800 - INFO - Enhancing data for DAVID Card. Pablo Virgilio Siongco (35/135) - Simplified to: David Siongco
+2025-04-26 23:13:00,800 - INFO - Searching Wikipedia for: David Pablo Virgilio Siongco (simple: David Siongco)
+2025-04-26 23:13:01,508 - INFO - Found Wikipedia information for David Pablo Virgilio Siongco
+2025-04-26 23:13:01,509 - INFO - Searching news for: David Siongco cardinal Philippines news
+2025-04-26 23:13:01,886 - INFO - Found 0 news articles for David Siongco
+2025-04-26 23:13:01,886 - INFO - Searching Google for: David Siongco cardinal Philippines
+2025-04-26 23:13:01,957 - INFO - Found 0 Google results for David Siongco
+2025-04-26 23:13:03,963 - INFO - Enhancing data for DE DONATIS Card. Angelo (36/135) - Simplified to: De Angelo
+2025-04-26 23:13:03,963 - INFO - Searching Wikipedia for: De Donatis Angelo (simple: De Angelo)
+2025-04-26 23:13:04,517 - WARNING - No Wikipedia results found for De Donatis Angelo
+2025-04-26 23:13:04,518 - INFO - Searching news for: De Angelo cardinal Italy news
+2025-04-26 23:13:05,064 - INFO - Found 0 news articles for De Angelo
+2025-04-26 23:13:05,064 - INFO - Searching Google for: De Angelo cardinal Italy
+2025-04-26 23:13:05,139 - INFO - Found 0 Google results for De Angelo
+2025-04-26 23:13:07,145 - INFO - Enhancing data for DE KESEL Card. Jozef (37/135) - Simplified to: De Jozef
+2025-04-26 23:13:07,145 - INFO - Searching Wikipedia for: De Kesel Jozef (simple: De Jozef)
+2025-04-26 23:13:07,533 - WARNING - No Wikipedia results found for De Kesel Jozef
+2025-04-26 23:13:07,534 - INFO - Searching news for: De Jozef cardinal Belgium news
+2025-04-26 23:13:08,129 - INFO - Found 0 news articles for De Jozef
+2025-04-26 23:13:08,130 - INFO - Searching Google for: De Jozef cardinal Belgium
+2025-04-26 23:13:08,531 - INFO - Found 0 Google results for De Jozef
+2025-04-26 23:13:10,536 - INFO - Enhancing data for DEW Card. John Atcherley (38/135) - Simplified to: Dew Atcherley
+2025-04-26 23:13:10,537 - INFO - Searching Wikipedia for: Dew John Atcherley (simple: Dew Atcherley)
+2025-04-26 23:13:11,079 - WARNING - No Wikipedia results found for Dew John Atcherley
+2025-04-26 23:13:11,080 - INFO - Searching news for: Dew Atcherley cardinal New Zealand news
+2025-04-26 23:13:11,505 - INFO - Found 0 news articles for Dew Atcherley
+2025-04-26 23:13:11,505 - INFO - Searching Google for: Dew Atcherley cardinal New Zealand
+2025-04-26 23:13:11,587 - INFO - Found 0 Google results for Dew Atcherley
+2025-04-26 23:13:13,589 - INFO - Enhancing data for DiNARDO Card. Daniel Nicholas (39/135) - Simplified to: DiNARDO Nicholas
+2025-04-26 23:13:13,589 - INFO - Searching Wikipedia for: DiNARDO Daniel Nicholas (simple: DiNARDO Nicholas)
+2025-04-26 23:13:14,099 - WARNING - No Wikipedia results found for DiNARDO Daniel Nicholas
+2025-04-26 23:13:14,100 - INFO - Searching news for: DiNARDO Nicholas cardinal United States of America news
+2025-04-26 23:13:14,500 - INFO - Found 0 news articles for DiNARDO Nicholas
+2025-04-26 23:13:14,500 - INFO - Searching Google for: DiNARDO Nicholas cardinal United States of America
+2025-04-26 23:13:14,571 - INFO - Found 0 Google results for DiNARDO Nicholas
+2025-04-26 23:13:16,576 - INFO - Enhancing data for DO CARMO DA SILVA Card. Virgilio, S.D.B. (40/135) - Simplified to: Do Virgilio
+2025-04-26 23:13:16,576 - INFO - Searching Wikipedia for: Do Carmo Da Silva Virgilio (simple: Do Virgilio)
+2025-04-26 23:13:17,087 - WARNING - No Wikipedia results found for Do Carmo Da Silva Virgilio
+2025-04-26 23:13:17,088 - INFO - Searching news for: Do Virgilio cardinal East Timor news
+2025-04-26 23:13:17,577 - INFO - Found 0 news articles for Do Virgilio
+2025-04-26 23:13:17,577 - INFO - Searching Google for: Do Virgilio cardinal East Timor
+2025-04-26 23:13:17,652 - INFO - Found 0 Google results for Do Virgilio
+2025-04-26 23:13:17,655 - INFO - Saved progress (40/135) to data/enhanced/cardinals_enhanced_progress_20250426_231317.json
+2025-04-26 23:13:19,656 - INFO - Enhancing data for DOLAN Card. Timothy Michael (41/135) - Simplified to: Dolan Michael
+2025-04-26 23:13:19,657 - INFO - Searching Wikipedia for: Dolan Timothy Michael (simple: Dolan Michael)
+2025-04-26 23:13:20,173 - WARNING - No Wikipedia results found for Dolan Timothy Michael
+2025-04-26 23:13:20,173 - INFO - Searching news for: Dolan Michael cardinal United States of America news
+2025-04-26 23:13:20,786 - INFO - Found 0 news articles for Dolan Michael
+2025-04-26 23:13:20,787 - INFO - Searching Google for: Dolan Michael cardinal United States of America
+2025-04-26 23:13:20,858 - INFO - Found 0 Google results for Dolan Michael
+2025-04-26 23:13:22,863 - INFO - Enhancing data for EIJK Card. Willem Jacobus (42/135) - Simplified to: Eijk Jacobus
+2025-04-26 23:13:22,864 - INFO - Searching Wikipedia for: Eijk Willem Jacobus (simple: Eijk Jacobus)
+2025-04-26 23:13:23,350 - WARNING - No Wikipedia results found for Eijk Willem Jacobus
+2025-04-26 23:13:23,350 - INFO - Searching news for: Eijk Jacobus cardinal Netherlands news
+2025-04-26 23:13:23,739 - INFO - Found 0 news articles for Eijk Jacobus
+2025-04-26 23:13:23,740 - INFO - Searching Google for: Eijk Jacobus cardinal Netherlands
+2025-04-26 23:13:23,817 - INFO - Found 0 Google results for Eijk Jacobus
+2025-04-26 23:13:25,820 - INFO - Enhancing data for ERDŐ Card. Péter (43/135) - Simplified to: Erdő Péter
+2025-04-26 23:13:25,821 - INFO - Searching Wikipedia for: Erdő Péter (simple: Erdő Péter)
+2025-04-26 23:13:26,640 - INFO - Found Wikipedia information for Erdő Péter
+2025-04-26 23:13:26,640 - INFO - Searching news for: Erdő Péter cardinal Hungary news
+2025-04-26 23:13:27,137 - INFO - Found 0 news articles for Erdő Péter
+2025-04-26 23:13:27,138 - INFO - Searching Google for: Erdő Péter cardinal Hungary
+2025-04-26 23:13:27,211 - INFO - Found 0 Google results for Erdő Péter
+2025-04-26 23:13:29,217 - INFO - Enhancing data for FARRELL Card. Kevin Joseph (44/135) - Simplified to: Farrell Joseph
+2025-04-26 23:13:29,217 - INFO - Searching Wikipedia for: Farrell Kevin Joseph (simple: Farrell Joseph)
+2025-04-26 23:13:29,708 - WARNING - No Wikipedia results found for Farrell Kevin Joseph
+2025-04-26 23:13:29,708 - INFO - Searching news for: Farrell Joseph cardinal United States of America news
+2025-04-26 23:13:30,225 - INFO - Found 0 news articles for Farrell Joseph
+2025-04-26 23:13:30,225 - INFO - Searching Google for: Farrell Joseph cardinal United States of America
+2025-04-26 23:13:30,301 - INFO - Found 0 Google results for Farrell Joseph
+2025-04-26 23:13:32,304 - INFO - Enhancing data for FERNÁNDEZ Card. Víctor Manuel (45/135) - Simplified to: Fernández Manuel
+2025-04-26 23:13:32,304 - INFO - Searching Wikipedia for: Fernández Víctor Manuel (simple: Fernández Manuel)
+2025-04-26 23:13:32,858 - WARNING - No Wikipedia results found for Fernández Víctor Manuel
+2025-04-26 23:13:32,858 - INFO - Searching news for: Fernández Manuel cardinal Argentina news
+2025-04-26 23:13:33,357 - INFO - Found 0 news articles for Fernández Manuel
+2025-04-26 23:13:33,358 - INFO - Searching Google for: Fernández Manuel cardinal Argentina
+2025-04-26 23:13:33,430 - INFO - Found 0 Google results for Fernández Manuel
+2025-04-26 23:13:35,435 - INFO - Enhancing data for FERNÁNDEZ ARTIME Card. Ángel, S.D.B. (46/135) - Simplified to: Fernández Ángel
+2025-04-26 23:13:35,435 - INFO - Searching Wikipedia for: Fernández Artime Ángel (simple: Fernández Ángel)
+2025-04-26 23:13:35,801 - WARNING - No Wikipedia results found for Fernández Artime Ángel
+2025-04-26 23:13:35,801 - INFO - Searching news for: Fernández Ángel cardinal Spain news
+2025-04-26 23:13:36,236 - INFO - Found 0 news articles for Fernández Ángel
+2025-04-26 23:13:36,237 - INFO - Searching Google for: Fernández Ángel cardinal Spain
+2025-04-26 23:13:36,306 - INFO - Found 0 Google results for Fernández Ángel

@@ -1,0 +1,78 @@
+2025-04-26 23:08:51,891 - INFO - Starting cardinal data enhancement
+2025-04-26 23:08:51,892 - INFO - Loaded 135 cardinals from data/backup/cardinals.json
+2025-04-26 23:08:51,892 - INFO - Enhancing data for ADVINCULA Card. Jose Fuerte (1/135) - Formatted as: Advincula Jose Fuerte
+2025-04-26 23:08:51,892 - INFO - Searching Wikipedia for: Advincula Jose Fuerte cardinal Philippines
+2025-04-26 23:08:52,887 - WARNING - No Wikipedia results found for Advincula Jose Fuerte
+2025-04-26 23:08:52,887 - INFO - Searching news for: Advincula Jose Fuerte cardinal Philippines news
+2025-04-26 23:08:53,291 - INFO - Found 0 news articles for Advincula Jose Fuerte
+2025-04-26 23:08:55,296 - INFO - Enhancing data for AGUIAR ALVES Card. Américo Manuel (2/135) - Formatted as: Aguiar Alves Américo Manuel
+2025-04-26 23:08:55,297 - INFO - Searching Wikipedia for: Aguiar Alves Américo Manuel cardinal Portugal
+2025-04-26 23:08:56,243 - WARNING - No Wikipedia results found for Aguiar Alves Américo Manuel
+2025-04-26 23:08:56,245 - INFO - Searching news for: Aguiar Alves Américo Manuel cardinal Portugal news
+2025-04-26 23:08:56,586 - INFO - Found 0 news articles for Aguiar Alves Américo Manuel
+2025-04-26 23:08:58,592 - INFO - Enhancing data for AGUIAR RETES Card. Carlos (3/135) - Formatted as: Aguiar Retes Carlos
+2025-04-26 23:08:58,592 - INFO - Searching Wikipedia for: Aguiar Retes Carlos cardinal Mexico
+2025-04-26 23:08:59,416 - WARNING - No Wikipedia results found for Aguiar Retes Carlos
+2025-04-26 23:08:59,417 - INFO - Searching news for: Aguiar Retes Carlos cardinal Mexico news
+2025-04-26 23:08:59,748 - INFO - Found 0 news articles for Aguiar Retes Carlos
+2025-04-26 23:09:01,754 - INFO - Enhancing data for AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap. (4/135) - Formatted as: Ambongo BESUNGU_Fridolin, O.F.M. Cap.
+2025-04-26 23:09:01,755 - INFO - Searching Wikipedia for: Ambongo BESUNGU_Fridolin, O.F.M. Cap. cardinal Democratic Republic of the Congo
+2025-04-26 23:09:02,503 - WARNING - No Wikipedia results found for Ambongo BESUNGU_Fridolin, O.F.M. Cap.
+2025-04-26 23:09:02,506 - INFO - Searching news for: Ambongo BESUNGU_Fridolin, O.F.M. Cap. cardinal Democratic Republic of the Congo news
+2025-04-26 23:09:02,963 - INFO - Found 0 news articles for Ambongo BESUNGU_Fridolin, O.F.M. Cap.
+2025-04-26 23:09:04,969 - INFO - Enhancing data for ARBORELIUS Card. Anders, O.C.D., (5/135) - Formatted as: Arborelius Anders, O.C.D.,
+2025-04-26 23:09:04,969 - INFO - Searching Wikipedia for: Arborelius Anders, O.C.D., cardinal Sweden
+2025-04-26 23:09:05,938 - WARNING - No Wikipedia results found for Arborelius Anders, O.C.D.,
+2025-04-26 23:09:05,940 - INFO - Searching news for: Arborelius Anders, O.C.D., cardinal Sweden news
+2025-04-26 23:09:06,346 - INFO - Found 0 news articles for Arborelius Anders, O.C.D.,
+2025-04-26 23:09:08,352 - INFO - Enhancing data for AVELINE Card. Jean-Marc (6/135) - Formatted as: Aveline Jean-Marc
+2025-04-26 23:09:08,352 - INFO - Searching Wikipedia for: Aveline Jean-Marc cardinal France
+2025-04-26 23:09:09,181 - WARNING - No Wikipedia results found for Aveline Jean-Marc
+2025-04-26 23:09:09,183 - INFO - Searching news for: Aveline Jean-Marc cardinal France news
+2025-04-26 23:09:09,589 - INFO - Found 0 news articles for Aveline Jean-Marc
+2025-04-26 23:09:11,595 - INFO - Enhancing data for AVIZ Card. João Braz de (7/135) - Formatted as: Aviz João Braz de
+2025-04-26 23:09:11,595 - INFO - Searching Wikipedia for: Aviz João Braz de cardinal Brazil
+2025-04-26 23:09:12,502 - WARNING - No Wikipedia results found for Aviz João Braz de
+2025-04-26 23:09:12,503 - INFO - Searching news for: Aviz João Braz de cardinal Brazil news
+2025-04-26 23:09:12,885 - INFO - Found 0 news articles for Aviz João Braz de
+2025-04-26 23:09:14,889 - INFO - Enhancing data for BAGGIO Card. Fabio, C.S. (8/135) - Formatted as: Baggio Fabio
+2025-04-26 23:09:14,889 - INFO - Searching Wikipedia for: Baggio Fabio cardinal Italy
+2025-04-26 23:09:15,643 - WARNING - No Wikipedia results found for Baggio Fabio
+2025-04-26 23:09:15,644 - INFO - Searching news for: Baggio Fabio cardinal Italy news
+2025-04-26 23:09:16,067 - INFO - Found 0 news articles for Baggio Fabio
+2025-04-26 23:09:18,072 - INFO - Enhancing data for BARBARIN Card. Philippe (9/135) - Formatted as: Barbarin Philippe
+2025-04-26 23:09:18,072 - INFO - Searching Wikipedia for: Barbarin Philippe cardinal France
+2025-04-26 23:09:18,993 - WARNING - No Wikipedia results found for Barbarin Philippe
+2025-04-26 23:09:18,993 - INFO - Searching news for: Barbarin Philippe cardinal France news
+2025-04-26 23:09:19,408 - INFO - Found 0 news articles for Barbarin Philippe
+2025-04-26 23:09:21,413 - INFO - Enhancing data for BASELIOS Card. Cleemis (10/135) - Formatted as: Baselios Cleemis
+2025-04-26 23:09:21,414 - INFO - Searching Wikipedia for: Baselios Cleemis cardinal India
+2025-04-26 23:09:21,502 - INFO - Found Wikipedia information for Baselios Cleemis
+2025-04-26 23:09:21,502 - INFO - Searching news for: Baselios Cleemis cardinal India news
+2025-04-26 23:09:22,003 - INFO - Found 0 news articles for Baselios Cleemis
+2025-04-26 23:09:22,004 - INFO - Saved progress (10/135) to data/enhanced/cardinals_enhanced_progress_20250426_230922.json
+2025-04-26 23:09:24,009 - INFO - Enhancing data for BATTAGLIA Card. Domenico (11/135) - Formatted as: Battaglia Domenico
+2025-04-26 23:09:24,010 - INFO - Searching Wikipedia for: Battaglia Domenico cardinal Italy
+2025-04-26 23:09:24,956 - WARNING - No Wikipedia results found for Battaglia Domenico
+2025-04-26 23:09:24,957 - INFO - Searching news for: Battaglia Domenico cardinal Italy news
+2025-04-26 23:09:25,257 - INFO - Found 0 news articles for Battaglia Domenico
+2025-04-26 23:09:27,263 - INFO - Enhancing data for BESSI DOGBO Card. Ignace (12/135) - Formatted as: Bessi Dogbo Ignace
+2025-04-26 23:09:27,263 - INFO - Searching Wikipedia for: Bessi Dogbo Ignace cardinal Ivory Coast
+2025-04-26 23:09:28,182 - WARNING - No Wikipedia results found for Bessi Dogbo Ignace
+2025-04-26 23:09:28,183 - INFO - Searching news for: Bessi Dogbo Ignace cardinal Ivory Coast news
+2025-04-26 23:09:28,554 - INFO - Found 0 news articles for Bessi Dogbo Ignace
+2025-04-26 23:09:30,560 - INFO - Enhancing data for BETORI Card. Giuseppe (13/135) - Formatted as: Betori Giuseppe
+2025-04-26 23:09:30,560 - INFO - Searching Wikipedia for: Betori Giuseppe cardinal Italy
+2025-04-26 23:09:31,371 - WARNING - No Wikipedia results found for Betori Giuseppe
+2025-04-26 23:09:31,374 - INFO - Searching news for: Betori Giuseppe cardinal Italy news
+2025-04-26 23:09:31,760 - INFO - Found 0 news articles for Betori Giuseppe
+2025-04-26 23:09:33,766 - INFO - Enhancing data for BO Card. Charles Maung, S.D.B. (14/135) - Formatted as: Bo Charles Maung
+2025-04-26 23:09:33,767 - INFO - Searching Wikipedia for: Bo Charles Maung cardinal Myanmar
+2025-04-26 23:09:34,705 - WARNING - No Wikipedia results found for Bo Charles Maung
+2025-04-26 23:09:34,708 - INFO - Searching news for: Bo Charles Maung cardinal Myanmar news
+2025-04-26 23:09:35,305 - INFO - Found 0 news articles for Bo Charles Maung
+2025-04-26 23:09:37,310 - INFO - Enhancing data for BOKALIC IGLIC Card. Vicente, C.M. (15/135) - Formatted as: Bokalic Iglic Vicente
+2025-04-26 23:09:37,311 - INFO - Searching Wikipedia for: Bokalic Iglic Vicente cardinal Argentina
+2025-04-26 23:09:38,257 - WARNING - No Wikipedia results found for Bokalic Iglic Vicente
+2025-04-26 23:09:38,258 - INFO - Searching news for: Bokalic Iglic Vicente cardinal Argentina news
+2025-04-26 23:09:38,669 - INFO - Found 0 news articles for Bokalic Iglic Vicente

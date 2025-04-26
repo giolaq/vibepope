@@ -1,0 +1,47 @@
+2025-04-26 23:31:34,801 - INFO - Starting cardinal data enhancement
+2025-04-26 23:31:34,802 - INFO - Loaded 135 cardinals from data/backup/cardinals.json
+2025-04-26 23:31:34,802 - INFO - Enhancing data for ADVINCULA Card. Jose Fuerte (1/135) - Simplified to: Advincula Fuerte
+2025-04-26 23:31:34,802 - INFO - Searching Wikipedia for: Advincula Jose Fuerte (simple: Advincula Fuerte)
+2025-04-26 23:31:34,910 - WARNING - No Wikipedia results found for Advincula Jose Fuerte
+2025-04-26 23:31:34,910 - INFO - Searching news for: Advincula Fuerte cardinal Philippines news
+2025-04-26 23:31:35,062 - INFO - Found 0 news articles for Advincula Fuerte
+2025-04-26 23:31:35,225 - INFO - Found 0 news articles for Fuerte
+2025-04-26 23:31:35,225 - INFO - Searching Google for: Advincula Fuerte cardinal Philippines
+2025-04-26 23:31:35,302 - INFO - Found 0 Google results for Advincula Fuerte
+2025-04-26 23:31:35,377 - INFO - Found 0 Google results for Fuerte
+2025-04-26 23:31:37,379 - INFO - Enhancing data for AGUIAR ALVES Card. Américo Manuel (2/135) - Simplified to: Aguiar Manuel
+2025-04-26 23:31:37,380 - INFO - Searching Wikipedia for: Aguiar Alves Américo Manuel (simple: Aguiar Manuel)
+2025-04-26 23:31:37,486 - WARNING - No Wikipedia results found for Aguiar Alves Américo Manuel
+2025-04-26 23:31:37,486 - INFO - Searching news for: Aguiar Manuel cardinal Portugal news
+2025-04-26 23:31:37,631 - INFO - Found 0 news articles for Aguiar Manuel
+2025-04-26 23:31:37,788 - INFO - Found 0 news articles for Manuel
+2025-04-26 23:31:37,788 - INFO - Searching Google for: Aguiar Manuel cardinal Portugal
+2025-04-26 23:31:37,860 - INFO - Found 0 Google results for Aguiar Manuel
+2025-04-26 23:31:37,939 - INFO - Found 0 Google results for Manuel
+2025-04-26 23:31:39,942 - INFO - Enhancing data for AGUIAR RETES Card. Carlos (3/135) - Simplified to: Aguiar Carlos
+2025-04-26 23:31:39,942 - INFO - Searching Wikipedia for: Aguiar Retes Carlos (simple: Aguiar Carlos)
+2025-04-26 23:31:40,062 - WARNING - No Wikipedia results found for Aguiar Retes Carlos
+2025-04-26 23:31:40,063 - INFO - Searching news for: Aguiar Carlos cardinal Mexico news
+2025-04-26 23:31:40,239 - INFO - Found 0 news articles for Aguiar Carlos
+2025-04-26 23:31:40,413 - INFO - Found 0 news articles for Carlos
+2025-04-26 23:31:40,414 - INFO - Searching Google for: Aguiar Carlos cardinal Mexico
+2025-04-26 23:31:40,495 - INFO - Found 0 Google results for Aguiar Carlos
+2025-04-26 23:31:40,571 - INFO - Found 0 Google results for Carlos
+2025-04-26 23:31:42,572 - INFO - Enhancing data for AMBONGO BESUNGU_Card. Fridolin, O.F.M. Cap. (4/135) - Simplified to: Ambongo Cap.
+2025-04-26 23:31:42,573 - INFO - Searching Wikipedia for: Ambongo BESUNGU Fridolin O.F.M. Cap. (simple: Ambongo Cap.)
+2025-04-26 23:31:42,679 - WARNING - No Wikipedia results found for Ambongo BESUNGU Fridolin O.F.M. Cap.
+2025-04-26 23:31:42,679 - INFO - Searching news for: Ambongo Cap. cardinal Democratic Republic of the Congo news
+2025-04-26 23:31:42,850 - INFO - Found 0 news articles for Ambongo Cap.
+2025-04-26 23:31:43,050 - INFO - Found 0 news articles for Cap.
+2025-04-26 23:31:43,050 - INFO - Searching Google for: Ambongo Cap. cardinal Democratic Republic of the Congo
+2025-04-26 23:31:43,133 - INFO - Found 0 Google results for Ambongo Cap.
+2025-04-26 23:31:43,221 - INFO - Found 0 Google results for Cap.
+2025-04-26 23:31:45,226 - INFO - Enhancing data for ARBORELIUS Card. Anders, O.C.D., (5/135) - Simplified to: Arborelius O.C.D.
+2025-04-26 23:31:45,227 - INFO - Searching Wikipedia for: Arborelius Anders O.C.D. (simple: Arborelius O.C.D.)
+2025-04-26 23:31:45,342 - WARNING - No Wikipedia results found for Arborelius Anders O.C.D.
+2025-04-26 23:31:45,342 - INFO - Searching news for: Arborelius O.C.D. cardinal Sweden news
+2025-04-26 23:31:45,488 - INFO - Found 0 news articles for Arborelius O.C.D.
+2025-04-26 23:31:45,639 - INFO - Found 0 news articles for O.C.D.
+2025-04-26 23:31:45,639 - INFO - Searching Google for: Arborelius O.C.D. cardinal Sweden
+2025-04-26 23:31:45,713 - INFO - Found 0 Google results for Arborelius O.C.D.
+2025-04-26 23:31:45,785 - INFO - Found 0 Google results for O.C.D.
