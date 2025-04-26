@@ -24,7 +24,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Data backup folders
-/data/backup/*
 !/data/backup/.gitkeep
 /data/enhanced/*
 !/data/enhanced/.gitkeep
