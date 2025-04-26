@@ -30,6 +30,8 @@ try {
   console.log(`Loaded ${cardinalsData.length} cardinals from data file`);
 } catch (error) {
   console.error('Error loading cardinals data:', error.message);
+  // Initialize with empty array if file not found
+  cardinalsData = [];
 }
 
 // API endpoints
@@ -104,14 +106,21 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', message: 'VibePope API is running' });
 });
 
-// Serve static React app in production
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, 'client/build')));
-  
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
+// Root route - just provide API information
+app.get('/', (req, res) => {
+  res.json({
+    name: 'VibePope API',
+    version: '1.0.0',
+    description: 'API for VibePope application',
+    frontend: 'https://giolaq.github.io/vibepope',
+    endpoints: [
+      '/api/health',
+      '/api/cardinals',
+      '/api/cardinals/:id',
+      '/api/search?q=query'
+    ]
   });
-}
+});
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
