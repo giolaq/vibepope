@@ -44,4 +44,14 @@ export const searchCardinals = async (query) => {
   }
 };
 
+export const getCardinalRecommendations = async (userPreferences) => {
+  try {
+    const response = await api.post('/recommend', userPreferences);
+    return response.data;
+  } catch (error) {
+    console.error('Error getting cardinal recommendations:', error);
+    throw error;
+  }
+};
+
 export default api; 

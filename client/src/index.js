@@ -5,6 +5,7 @@ import App from './App';
 import './index.css';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
+import ThreeProvider from './components/ThreeContext';
 
 // Create a custom theme
 const theme = createTheme({
@@ -36,7 +37,9 @@ root.render(
     <HashRouter>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <App />
+        <ThreeProvider>
+          <App />
+        </ThreeProvider>
       </ThemeProvider>
     </HashRouter>
   </React.StrictMode>

@@ -26,11 +26,13 @@ import {
   ViewList as ListIcon,
   Info as InfoIcon,
   Close as CloseIcon,
+  PersonSearch as PersonSearchIcon,
 } from '@mui/icons-material';
 
 const pages = [
   { title: 'Home', path: '/', icon: <HomeIcon /> },
   { title: 'Cardinals', path: '/cardinals', icon: <ListIcon /> },
+  { title: 'Find My Match', path: '/match', icon: <PersonSearchIcon /> },
   { title: 'About', path: '/about', icon: <InfoIcon /> },
 ];
 
