@@ -16,20 +16,19 @@ import {
   ListItemText,
 } from '@mui/material';
 import { useTheme } from '@mui/material/styles';
-import { getCardinals } from '../services/api';
-import CardinalCard from '../components/CardinalCard';
 import { 
-  Person, 
-  CheckCircle, 
-  School, 
-  InterestsOutlined,
-  ChurchOutlined,
-  TravelExploreOutlined
+  HowToVote, 
+  Groups, 
+  EventNote, 
+  Church,
+  EmojiEvents
 } from '@mui/icons-material';
 import HeroBackground3D from '../components/HeroBackground3D';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Sphere, Stars, useTexture } from '@react-three/drei';
 import * as THREE from 'three';
+import Game from '../game/Game';
+import { GameProvider } from '../game/GameState';
 
 // SafeTexture wrapper for better error handling
 const SafeTexture = ({ textureUrl, children, fallbackColor = "#1e88e5" }) => {
@@ -87,175 +86,65 @@ const Globe = ({ scale = 2 }) => {
   );
 };
 
-// Enhanced Feature Section with 3D Globe
-const Globe3DSection = () => {
-  return (
-    <Box
-      sx={{
-        height: 400,
-        width: '100%',
-        position: 'relative',
-        my: 6,
-        boxShadow: '0 10px 30px rgba(0,0,0,0.1)',
-        borderRadius: '8px',
-        overflow: 'hidden',
-      }}
-    >
-      <Canvas
-        camera={{ position: [0, 0, 5], fov: 45 }}
-        dpr={[1, 2]} // Improve rendering quality
-      >
-        <color attach="background" args={['#000']} />
-        <fog attach="fog" args={['#000', 5, 25]} />
-        <ambientLight intensity={0.5} />
-        <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
-        <pointLight position={[-10, -10, -10]} />
-        <Suspense fallback={null}>
-          <Globe />
-          <Stars radius={100} depth={50} count={5000} factor={4} saturation={0} fade />
-        </Suspense>
-        <OrbitControls 
-          enableZoom={false} 
-          autoRotate 
-          autoRotateSpeed={0.5}
-          enablePan={false}
-          minPolarAngle={Math.PI/2 - 0.5}
-          maxPolarAngle={Math.PI/2 + 0.5}
-        />
-      </Canvas>
-      <Box
-        sx={{
-          position: 'absolute',
-          top: '50%',
-          left: '50%',
-          transform: 'translate(-50%, -50%)',
-          textAlign: 'center',
-          zIndex: 1,
-          width: '100%',
-          pointerEvents: 'none',
-        }}
-      >
-        <Typography
-          variant="h3"
-          sx={{
-            color: '#fff',
-            textShadow: '0 0 20px rgba(0,0,0,0.7)',
-            fontWeight: 'bold',
-          }}
-        >
-          Global Catholic Leadership
-        </Typography>
-      </Box>
-    </Box>
-  );
-};
-
 function Home() {
   const theme = useTheme();
-  const [featuredCardinals, setFeaturedCardinals] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    const fetchFeaturedCardinals = async () => {
-      try {
-        setLoading(true);
-        const data = await getCardinals(1, 3); // Get first 3 cardinals for featured section
-        setFeaturedCardinals(data.cardinals);
-        setLoading(false);
-      } catch (err) {
-        setError('Failed to load featured cardinals');
-        setLoading(false);
-        console.error('Error fetching featured cardinals:', err);
-      }
-    };
-
-    fetchFeaturedCardinals();
-  }, []);
-
-  // Example match data for the preview
-  const exampleMatch = {
-    user: {
-      name: "Maria",
-      age: 35,
-      country: "Italy",
-      interests: ["Social Justice", "Education", "Church History"]
-    },
-    cardinal: featuredCardinals.length > 0 ? featuredCardinals[0] : {
-      name: "Cardinal Example",
-      country: "Italy",
-      biography_text: "Known for work in social justice and education reforms..."
-    },
-    matchReason: "Cardinal's focus on educational initiatives and social justice work aligns perfectly with your interests. Their Italian background provides cultural connection to your home country."
-  };
 
   return (
-    <Box>
-      {/* Hero Section - Enhanced with more dramatic 3D Background */}
+    <Box sx={{ flexGrow: 1 }}>
+      {/* Hero Section with Background */}
       <Paper
         sx={{
           position: 'relative',
-          backgroundColor: 'grey.900',
+          backgroundColor: 'grey.800',
           color: '#fff',
-          mb: 4,
+          mb: 6,
           backgroundSize: 'cover',
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'center',
-          backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg')`,
-          height: { xs: '80vh', md: '90vh' },
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
+          height: '60vh',
+          minHeight: '400px',
           overflow: 'hidden'
         }}
       >
-        {/* Enhanced 3D Background with more particles */}
-        <HeroBackground3D color={theme.palette.primary.main} />
-        
-        {/* Darkened overlay */}
-        <Box
+        <HeroBackground3D />
+        <Container
           sx={{
-            position: 'absolute',
-            top: 0,
-            bottom: 0,
-            right: 0,
-            left: 0,
-            backgroundColor: 'rgba(0,0,0,.75)',
-            zIndex: 1
+            position: 'relative',
+            zIndex: 1,
+            height: '100%',
+            display: 'flex',
+            flexDirection: 'column',
+            justifyContent: 'center',
+            alignItems: 'center',
+            textAlign: 'center'
           }}
-        />
-        <Container maxWidth="md" sx={{ position: 'relative', textAlign: 'center', py: 6, zIndex: 2 }}>
+        >
           <Typography
             component="h1"
             variant="h2"
             color="inherit"
             gutterBottom
-            sx={{ 
+            sx={{
               fontWeight: 'bold',
-              textShadow: '0 0 20px rgba(0,0,0,0.5)',
-              fontSize: { xs: '2.5rem', md: '3.5rem' },
-              animation: 'fadeIn 2s ease-in-out'
+              textShadow: '2px 2px 4px rgba(0,0,0,0.5)',
+              fontFamily: '"Cinzel", serif',
             }}
           >
-            Find Your Cardinal Match
+            Conclave: The Papal Election
           </Typography>
           <Typography 
             variant="h5" 
             color="inherit" 
             paragraph
-            sx={{ 
-              textShadow: '0 0 10px rgba(0,0,0,0.5)',
+            sx={{
               maxWidth: '800px',
-              mx: 'auto',
-              animation: 'slideUp 1.5s ease-in-out'
+              textShadow: '1px 1px 2px rgba(0,0,0,0.5)',
             }}
           >
-            Discover which cardinal best matches your personal profile, interests, and spiritual journey.
-            Our personalized matching algorithm connects you with your spiritual guide.
+            Participate in the sacred tradition of electing a new Pope. 
+            Form alliances, cast your votes, and navigate the politics of the Vatican.
           </Typography>
           <Button
-            component={RouterLink}
-            to="/match"
             variant="contained"
             color="primary"
             size="large"
@@ -271,259 +160,155 @@ function Home() {
                 boxShadow: '0 6px 25px rgba(183, 28, 28, 0.7)',
               }
             }}
+            onClick={() => {
+              // Scroll to game section
+              document.getElementById('game-section').scrollIntoView({ behavior: 'smooth' });
+            }}
           >
-            Find My Match
+            Enter the Conclave
           </Button>
         </Container>
       </Paper>
 
-      {/* 3D Globe Section */}
-      <Container maxWidth="lg" sx={{ my: 6 }}>
-        <Globe3DSection />
-      </Container>
-
-      {/* Feature Preview Section - Enhanced */}
-      <Container maxWidth="lg" sx={{ my: 8 }}>
-        <Typography variant="h3" align="center" gutterBottom>
-          How Cardinal Matching Works
+      {/* Game Features Section */}
+      <Container maxWidth="lg" sx={{ mb: 6 }}>
+        <Typography variant="h4" align="center" gutterBottom>
+          Experience the Sacred Election
         </Typography>
-        <Typography variant="h6" align="center" color="text.secondary" paragraph>
-          Our sophisticated algorithm matches you with cardinals based on shared backgrounds, interests, and values
+        <Typography variant="body1" align="center" color="text.secondary" paragraph>
+          Immerse yourself in the politics, tradition, and intrigue of the papal election
         </Typography>
-        <Divider sx={{ mb: 6 }} />
-
-        <Grid container spacing={4} alignItems="center">
-          <Grid item xs={12} md={5}>
-            <Paper 
-              elevation={6} 
-              sx={{ 
-                p: 3, 
-                borderRadius: 2,
-                transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out',
-                '&:hover': {
-                  transform: 'translateY(-10px)',
-                  boxShadow: 10
-                }
-              }}
-            >
-              <Typography variant="h5" gutterBottom align="center" color="primary">
-                Your Preferences
+        
+        <Grid container spacing={4} sx={{ mt: 4 }}>
+          <Grid item xs={12} sm={6} md={3}>
+            <Paper sx={{ 
+              p: 3, 
+              textAlign: 'center',
+              height: '100%',
+              transition: 'transform 0.3s',
+              '&:hover': {
+                transform: 'translateY(-10px)',
+                boxShadow: 6
+              }
+            }}>
+              <HowToVote color="primary" sx={{ fontSize: 50, mb: 2 }} />
+              <Typography variant="h6" gutterBottom>
+                Strategic Voting
               </Typography>
-              <List>
-                <ListItem>
-                  <ListItemIcon><Person color="primary" /></ListItemIcon>
-                  <ListItemText 
-                    primary="Personal Background" 
-                    secondary="Age, gender, country of origin"
-                  />
-                </ListItem>
-                <ListItem>
-                  <ListItemIcon><InterestsOutlined color="primary" /></ListItemIcon>
-                  <ListItemText 
-                    primary="Spiritual Interests" 
-                    secondary="Theology, social justice, history, philosophy"
-                  />
-                </ListItem>
-                <ListItem>
-                  <ListItemIcon><School color="primary" /></ListItemIcon>
-                  <ListItemText 
-                    primary="Educational Focus" 
-                    secondary="Academic background and scholarly interests"
-                  />
-                </ListItem>
-              </List>
-              <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
-                <Button
-                  component={RouterLink}
-                  to="/match"
-                  variant="contained"
-                  color="primary"
-                >
-                  Start Matching
-                </Button>
-              </Box>
+              <Typography variant="body2" color="text.secondary">
+                Cast your vote for the next Pope, or even campaign to become Pope yourself.
+              </Typography>
             </Paper>
           </Grid>
           
-          <Grid item xs={12} md={2} sx={{ display: 'flex', justifyContent: 'center' }}>
-            <Avatar sx={{ 
-              bgcolor: 'secondary.main', 
-              width: 60, 
-              height: 60,
-              display: { xs: 'none', md: 'flex' },
-              animation: 'rotate 6s infinite linear'
+          <Grid item xs={12} sm={6} md={3}>
+            <Paper sx={{ 
+              p: 3, 
+              textAlign: 'center',
+              height: '100%',
+              transition: 'transform 0.3s',
+              '&:hover': {
+                transform: 'translateY(-10px)',
+                boxShadow: 6
+              }
             }}>
-              <CheckCircle sx={{ fontSize: 30 }} />
-            </Avatar>
+              <Groups color="primary" sx={{ fontSize: 50, mb: 2 }} />
+              <Typography variant="h6" gutterBottom>
+                Form Alliances
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                Build relationships with other cardinals to increase your influence in the conclave.
+              </Typography>
+            </Paper>
           </Grid>
           
-          <Grid item xs={12} md={5}>
-            <Paper 
-              elevation={6} 
-              sx={{ 
-                p: 3, 
-                borderRadius: 2,
-                transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out',
-                '&:hover': {
-                  transform: 'translateY(-10px)',
-                  boxShadow: 10
-                }
-              }}
-            >
-              <Typography variant="h5" gutterBottom align="center" color="primary">
-                Your Perfect Match
+          <Grid item xs={12} sm={6} md={3}>
+            <Paper sx={{ 
+              p: 3, 
+              textAlign: 'center',
+              height: '100%',
+              transition: 'transform 0.3s',
+              '&:hover': {
+                transform: 'translateY(-10px)',
+                boxShadow: 6
+              }
+            }}>
+              <EventNote color="primary" sx={{ fontSize: 50, mb: 2 }} />
+              <Typography variant="h6" gutterBottom>
+                Dynamic Events
               </Typography>
-              {loading ? (
-                <Box sx={{ display: 'flex', justifyContent: 'center', p: 4 }}>
-                  <CircularProgress />
-                </Box>
-              ) : featuredCardinals.length > 0 ? (
-                <>
-                  <Typography variant="h6" gutterBottom>
-                    {exampleMatch.cardinal.name}
-                  </Typography>
-                  <Typography variant="body2" color="text.secondary" paragraph>
-                    <strong>Why this match works:</strong> {exampleMatch.matchReason}
-                  </Typography>
-                  <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
-                    <Button
-                      component={RouterLink}
-                      to="/match"
-                      variant="outlined"
-                      color="primary"
-                    >
-                      Get My Results
-                    </Button>
-                  </Box>
-                </>
-              ) : (
-                <Typography>Example match loading...</Typography>
-              )}
+              <Typography variant="body2" color="text.secondary">
+                React to unexpected events that may shift alliances or change the direction of the conclave.
+              </Typography>
+            </Paper>
+          </Grid>
+          
+          <Grid item xs={12} sm={6} md={3}>
+            <Paper sx={{ 
+              p: 3, 
+              textAlign: 'center',
+              height: '100%',
+              transition: 'transform 0.3s',
+              '&:hover': {
+                transform: 'translateY(-10px)',
+                boxShadow: 6
+              }
+            }}>
+              <EmojiEvents color="primary" sx={{ fontSize: 50, mb: 2 }} />
+              <Typography variant="h6" gutterBottom>
+                Multiple Victories
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                Win by becoming Pope yourself or by supporting the successful candidate from the beginning.
+              </Typography>
             </Paper>
           </Grid>
         </Grid>
       </Container>
 
-      {/* Featured Cardinals - Enhanced with 3D cards */}
-      <Box
-        sx={{
-          py: 8,
-          bgcolor: 'grey.100',
-          borderRadius: '16px',
-          mx: 2,
-          mt: 6,
-          mb: 8,
-          position: 'relative',
-          overflow: 'hidden'
-        }}
-      >
-        <Container maxWidth="lg">
-          <Typography variant="h3" align="center" gutterBottom>
-            Featured Cardinals
-          </Typography>
-          <Typography variant="h6" align="center" color="text.secondary" paragraph sx={{ mb: 6 }}>
-            Explore our collection of distinguished cardinals from around the world
-          </Typography>
+      {/* Game Section */}
+      <Container maxWidth="lg" sx={{ my: 8 }} id="game-section">
+        <Typography variant="h3" align="center" gutterBottom>
+          Enter the Conclave
+        </Typography>
+        <Typography variant="h6" align="center" color="text.secondary" paragraph>
+          Experience the strategy and intrigue of a papal election
+        </Typography>
+        <Divider sx={{ mb: 6 }} />
 
-          {loading ? (
-            <Box sx={{ display: 'flex', justifyContent: 'center', p: 4 }}>
-              <CircularProgress />
-            </Box>
-          ) : error ? (
-            <Typography color="error" align="center">{error}</Typography>
-          ) : (
-            <Grid container spacing={4}>
-              {featuredCardinals.map((cardinal, index) => (
-                <Grid item key={index} xs={12} sm={6} md={4}>
-                  <Box
-                    sx={{
-                      height: '100%',
-                      transition: 'transform 0.3s ease',
-                      '&:hover': {
-                        transform: 'translateY(-8px)',
-                      }
-                    }}
-                  >
-                    <CardinalCard cardinal={cardinal} index={index} />
-                  </Box>
-                </Grid>
-              ))}
-            </Grid>
-          )}
+        <Suspense fallback={<Box sx={{ display: 'flex', justifyContent: 'center', my: 4 }}><CircularProgress /></Box>}>
+          <GameProvider>
+            <Game />
+          </GameProvider>
+        </Suspense>
+      </Container>
 
-          <Box sx={{ textAlign: 'center', mt: 6 }}>
-            <Button
-              component={RouterLink}
-              to="/cardinals"
-              variant="contained"
-              color="primary"
-              size="large"
-              endIcon={<TravelExploreOutlined />}
-            >
-              Explore All Cardinals
-            </Button>
-          </Box>
+      {/* Historical Context */}
+      <Box sx={{ bgcolor: 'grey.100', py: 8, mt: 8 }}>
+        <Container maxWidth="md">
+          <Typography variant="h4" align="center" gutterBottom>
+            <Church color="primary" sx={{ mr: 1, verticalAlign: 'bottom' }} />
+            The History of the Conclave
+          </Typography>
+          <Typography variant="body1" paragraph>
+            The papal conclave is the meeting of the College of Cardinals convened to elect a new Bishop of Rome, 
+            who becomes the Pope. The word "conclave" comes from the Latin cum clave, meaning "with a key," 
+            referring to the tradition of locking the cardinals within the Sistine Chapel until they 
+            reach a decision.
+          </Typography>
+          <Typography variant="body1" paragraph>
+            The tradition dates back to the 13th century when, after a papal election in Viterbo, Italy 
+            had gone on for nearly three years, the local population removed the roof from the building 
+            where the cardinals were meeting and restricted their food to bread and water to encourage 
+            a faster decision.
+          </Typography>
+          <Typography variant="body1">
+            Today, the conclave is a highly secretive and ceremonial process, with cardinals taking an 
+            oath of secrecy and being completely sequestered from the outside world. The famous white 
+            smoke rising from the Sistine Chapel chimney signals to the world that a new Pope has been elected.
+          </Typography>
         </Container>
       </Box>
-
-      {/* About Section - Enhanced */}
-      <Container maxWidth="md" sx={{ my: 8, textAlign: 'center' }}>
-        <Typography variant="h3" gutterBottom>
-          About This Project
-        </Typography>
-        <Paper 
-          elevation={3} 
-          sx={{ 
-            p: 4, 
-            borderRadius: 4,
-            background: 'linear-gradient(145deg, rgba(255,255,255,1) 0%, rgba(248,248,248,1) 100%)'
-          }}
-        >
-          <Grid container spacing={4} alignItems="center">
-            <Grid item xs={12} md={6}>
-              <Box 
-                component="img" 
-                src="https://upload.wikimedia.org/wikipedia/commons/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg" 
-                alt="Vatican City"
-                onError={(e) => {
-                  e.target.onerror = null; // Prevent infinite loop
-                  e.target.src = "https://upload.wikimedia.org/wikipedia/commons/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg";
-                }}
-                sx={{ 
-                  width: '100%', 
-                  height: 'auto', 
-                  borderRadius: 2,
-                  boxShadow: 3 
-                }}
-              />
-            </Grid>
-            <Grid item xs={12} md={6} sx={{ textAlign: 'left' }}>
-              <Typography variant="h5" gutterBottom>
-                <ChurchOutlined sx={{ mr: 1, verticalAlign: 'middle' }} />
-                Cardinal Explorer
-              </Typography>
-              <Typography paragraph>
-                This interactive platform helps you explore and connect with the College of Cardinals
-                through personalized matching, detailed profiles, and educational resources.
-              </Typography>
-              <Typography paragraph>
-                Learn about the important roles cardinals play in the Catholic Church
-                and discover which cardinal's background and work resonates most with your
-                interests and spiritual journey.
-              </Typography>
-              <Button 
-                component={RouterLink} 
-                to="/about" 
-                variant="outlined" 
-                color="primary"
-                sx={{ mt: 2 }}
-              >
-                Learn More
-              </Button>
-            </Grid>
-          </Grid>
-        </Paper>
-      </Container>
 
       {/* Add animation keyframes */}
       <Box

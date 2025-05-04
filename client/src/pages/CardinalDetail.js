@@ -177,7 +177,8 @@ function CardinalDetail() {
                   width: '100%', 
                   borderRadius: 2,
                   boxShadow: 3,
-                  maxHeight: 500,
+                  height: 'auto',
+                  maxHeight: 600,
                   objectFit: 'contain',
                   bgcolor: '#f5f5f5'
                 }}

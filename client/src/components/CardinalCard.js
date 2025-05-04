@@ -59,10 +59,14 @@ function CardinalCard({ cardinal, index }) {
     >
       <CardMedia
         component="img"
-        height="200"
+        height="250"
         image={photo_url || defaultImage}
         alt={name}
-        sx={{ objectFit: 'contain', bgcolor: '#f5f5f5' }}
+        sx={{ 
+          objectFit: 'contain', 
+          bgcolor: '#f5f5f5',
+          objectPosition: 'center'
+        }}
       />
       <CardContent sx={{ flexGrow: 1, display: 'flex', flexDirection: 'column' }}>
         <Typography variant="h5" component="h2" gutterBottom>

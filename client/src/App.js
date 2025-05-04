@@ -5,7 +5,6 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import CardinalsList from './pages/CardinalsList';
 import CardinalDetail from './pages/CardinalDetail';
-import CardinalMatch from './pages/CardinalMatch';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
 
@@ -18,7 +17,6 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/cardinals" element={<CardinalsList />} />
           <Route path="/cardinals/:id" element={<CardinalDetail />} />
-          <Route path="/match" element={<CardinalMatch />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
@@ -33,7 +31,7 @@ function App() {
           textAlign: 'center'
         }}
       >
-        <span>© {new Date().getFullYear()} VibePope - May the Holy Vibes Be With You!</span>
+        <span>© {new Date().getFullYear()} Vatican Conclave - The Papal Election RPG</span>
       </Box>
     </Box>
   );
