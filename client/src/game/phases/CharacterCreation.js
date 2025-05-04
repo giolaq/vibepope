@@ -54,6 +54,13 @@ function CharacterCreation() {
   // Handle cardinal selection
   const handleSelectCardinal = (cardinal) => {
     setSelectedCardinal(cardinal);
+    
+    // Dispatch custom event with selected cardinal
+    const customEvent = new CustomEvent('cardinalSelected', { 
+      detail: { cardinal },
+      bubbles: true 
+    });
+    window.dispatchEvent(customEvent);
   };
 
   // Confirm selection and proceed to next phase

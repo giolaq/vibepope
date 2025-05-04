@@ -135,6 +135,12 @@ function AlliancePhase() {
   // Proceed to voting phase
   const handleProceedToVoting = () => {
     setPhase(GAME_PHASES.VOTING_PHASE);
+    
+    // Dispatch custom event to notify the Home component
+    const customEvent = new CustomEvent('startVotingClicked', { 
+      bubbles: true 
+    });
+    window.dispatchEvent(customEvent);
   };
 
   // Get player's current alliances

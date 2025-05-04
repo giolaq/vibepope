@@ -24,6 +24,12 @@ function Introduction() {
 
   const handleStart = () => {
     setPhase(GAME_PHASES.CHARACTER_SELECTION);
+    
+    // Dispatch custom event to notify the Home component
+    const customEvent = new CustomEvent('beginConclaveClicked', { 
+      bubbles: true 
+    });
+    window.dispatchEvent(customEvent);
   };
 
   return (
