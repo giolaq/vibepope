@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vibepope/static/css/main.9b3b9d85.css",
-    "main.js": "/vibepope/static/js/main.0f8d8a9c.js",
+    "main.js": "/vibepope/static/js/main.342d635b.js",
     "index.html": "/vibepope/index.html",
     "main.9b3b9d85.css.map": "/vibepope/static/css/main.9b3b9d85.css.map",
-    "main.0f8d8a9c.js.map": "/vibepope/static/js/main.0f8d8a9c.js.map"
+    "main.342d635b.js.map": "/vibepope/static/js/main.342d635b.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3b9d85.css",
-    "static/js/main.0f8d8a9c.js"
+    "static/js/main.342d635b.js"
   ]
 }
