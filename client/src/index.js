@@ -21,12 +21,39 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+    fontFamily: '"Gentium Book Basic", "Roboto", "Helvetica", "Arial", serif',
     h1: {
+      fontFamily: '"IM Fell English SC", serif',
       fontWeight: 500,
     },
     h2: {
+      fontFamily: '"IM Fell English SC", serif',
       fontWeight: 500,
+    },
+    h3: {
+      fontFamily: '"IM Fell English SC", serif',
+      fontWeight: 500,
+    },
+    h4: {
+      fontFamily: '"IM Fell English SC", serif',
+      fontWeight: 500,
+    },
+    h5: {
+      fontFamily: '"IM Fell English SC", serif',
+      fontWeight: 500,
+    },
+    h6: {
+      fontFamily: '"IM Fell English SC", serif',
+      fontWeight: 500,
+    },
+    button: {
+      fontFamily: '"IM Fell English SC", serif',
+    },
+    body1: {
+      fontFamily: '"Gentium Book Basic", serif',
+    },
+    body2: {
+      fontFamily: '"Gentium Book Basic", serif',
     },
   },
 });

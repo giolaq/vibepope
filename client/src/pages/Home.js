@@ -144,6 +144,7 @@ function Home() {
                   borderRadius: 2,
                   fontSize: { xs: '0.9rem', sm: '1rem' },
                   fontWeight: 'bold',
+                  fontFamily: '"IM Fell English SC", serif',
                   boxShadow: '0 4px 8px rgba(183, 28, 28, 0.3)',
                   '&:hover': {
                     boxShadow: '0 6px 12px rgba(183, 28, 28, 0.5)',
@@ -198,6 +199,7 @@ function Home() {
                       borderRadius: 2,
                       fontSize: { xs: '0.9rem', sm: '1rem' },
                       fontWeight: 'bold',
+                      fontFamily: '"IM Fell English SC", serif',
                       boxShadow: '0 4px 8px rgba(183, 28, 28, 0.3)',
                       '&:hover': {
                         boxShadow: '0 6px 12px rgba(183, 28, 28, 0.5)',
@@ -247,6 +249,7 @@ function Home() {
                   borderRadius: 2,
                   fontSize: { xs: '0.9rem', sm: '1rem' },
                   fontWeight: 'bold',
+                  fontFamily: '"IM Fell English SC", serif',
                   boxShadow: '0 4px 8px rgba(183, 28, 28, 0.3)',
                   '&:hover': {
                     boxShadow: '0 6px 12px rgba(183, 28, 28, 0.5)',
@@ -321,7 +324,7 @@ function Home() {
             sx={{
               fontWeight: 'bold',
               textShadow: '2px 2px 4px rgba(0,0,0,0.5)',
-              fontFamily: '"Cinzel", serif',
+              fontFamily: '"IM Fell English SC", serif',
             }}
           >
             Conclave: The Papal Election
@@ -333,6 +336,7 @@ function Home() {
             sx={{
               maxWidth: '800px',
               textShadow: '1px 1px 2px rgba(0,0,0,0.5)',
+              fontFamily: '"Gentium Book Basic", serif',
             }}
           >
             Participate in the sacred tradition of electing a new Pope. 
